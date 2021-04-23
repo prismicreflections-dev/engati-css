@@ -466,6 +466,11 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   .pr-hero-section {
 	padding: 10px 0px 50px;
   }
+  .home-hero-img-blk {
+	position: static;
+	width: 100%;
+	margin: 30px auto 20px;
+  }
   .pr-container-4 {
       padding: 0;
   }
