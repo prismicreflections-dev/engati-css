@@ -103,6 +103,7 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
 }
 .grey-triangle-before {
   position: relative;
+  background-color: #f7f8fa;
 }
 .grey-triangle-before::before {
   position: absolute;
