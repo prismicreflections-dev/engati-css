@@ -713,3 +713,6 @@ body{overflow-x: hidden;}
   }  
   .four-buttons{white-space: nowrap;}
   .w-layout-grid.grid-4.top-cate-grid-adj .blog-card {margin-right: 0;margin-left: 0;}
+  .pr-collection-list-wrap.w-dyn-list .blog-card {
+    margin: 0;
+  }
