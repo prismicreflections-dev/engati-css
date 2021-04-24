@@ -604,7 +604,7 @@ body{overflow-x: hidden;}
   .pl-container-weprovide.w-container + .pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top: -100px;}
 }
 @media (min-width:992px) and (max-width:1100px){
-  .navbar.pr-navbar.w-nav .nav-link.login {padding-left: 0;}
+  .navbar.pr-navbar.w-nav .nav-link.login {padding-left: 0; margin-left: 0px!important;}
 }
 @media (min-width:767px) and (max-width:991px){
   .navbar.pr-navbar.w-nav .nav-container.w-container + .w-nav-overlay .nav-menu.w-nav-menu > .nav-link{margin-right:0;margin-left:20px;width:auto;display:inline}
@@ -701,6 +701,8 @@ body{overflow-x: hidden;}
     .home-testimonial-slide-inner .block-grid .blog-card{margin-right: 10px; margin-left: 10px;}
     .div-block-41.pb0.pr-engati-today-sec {padding-top: 0;}
     .div-block-60.view-more-btn-wrap-adj {margin-top: 0 !important;}
+    .pr-collection-list-wrap .blog-card .blog-content a.heading-40,
+    .home-testimonial-slide-inner.xs-mb15-adj .blog-card a.heading-40 {position: static !important;}
   }
   @media (min-width:768px) and (max-width:1199px){   
     .pr-container-wrap-adj{padding-left: 20px;padding-right: 20px;}
@@ -738,7 +740,9 @@ body{overflow-x: hidden;}
     .four-buttons {padding: 4px 20px;font-size: 12px; margin-right: 7px; margin-left: 7px;}
     .subscribe-section > .pr-container-4 > .subscribe-box-2{max-width: 100%;margin-right: 15px;margin-left: 15px;}
     .slider.home-testimonial-slider.engati-cx-today-adj.w-slider .home-testimonial-slide-inner .block-grid .blog-card{margin-bottom: 20px;max-width: 300px;margin-left: auto;margin-right: auto;}
-    .footer-wrap-2{max-width: 97%;;}
+    .footer-wrap-2{max-width: 97%;}
+    .pr-collection-list-wrap .blog-card .blog-content a.heading-40,
+    .home-testimonial-slide-inner.xs-mb15-adj .blog-card a.heading-40 {position: static !important;}
   }  
   .four-buttons{white-space: nowrap;}
   .w-layout-grid.grid-4.top-cate-grid-adj .blog-card {margin-right: 0;margin-left: 0;}
