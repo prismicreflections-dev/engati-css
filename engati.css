@@ -434,7 +434,7 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   h2, .h2 {font-size:30px;line-height:36px;}
   h3, .h3 {font-size:26px;line-height:32px;}
   h4, .h4 {font-size:21px;line-height:30px;}
-  h5, .h5 {font-size:20px;line-height:30px;}
+  h5, .h5 {font-size:20px;line-height:24px;}
   h6, .h6 {font-size:18px;line-height:28px;}
   .floating-share {
     display: none;
@@ -495,7 +495,7 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
     line-height: 36px;
     max-width: 100%;
     margin: 0px auto 15px;
-}
+  }
   .footer-wrap-2 {
     max-width: 100%;
     padding-top: 80px;
@@ -511,6 +511,9 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   .banking-sec-ttl {
     font-size: 20px;
     line-height: 30px;
+  }
+  .industries-blk .industries-blk-body .p-20.mt-20 {
+    margin: 12px 0;
   }
   .home-hero-img-blk {
 	  position: static;
