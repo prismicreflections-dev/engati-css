@@ -103,7 +103,7 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
 }
 .grey-triangle-before {
   position: relative;
-  background-color: #f7f8fa;
+  background: linear-gradient(180deg, #FFF 100px, #f7f8fa 0);
 }
 .grey-triangle-before::before {
   position: absolute;
