@@ -354,6 +354,10 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   .blogs-card-wrapper .w-dyn-item:nth-child(3) {
     display: none !important;
   }
+  .pr-collection-list-wrap .blog-card .blog-content {
+    min-height: 260px;
+    position: relative;
+  }
 }
 
 @media screen and (max-width:991px) {
