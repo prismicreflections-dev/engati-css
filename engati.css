@@ -315,6 +315,8 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
     font-size: 14px;
     margin: 8px 3px 0;
   }
+  .footer-main .footer-links.footer-links-subheading {cursor: none;}
+  .footer-main .footer-links.footer-links-subheading, .footer-main .footer-links {line-height: 20px;margin-bottom: 12px;}
   
 }
 
@@ -381,6 +383,8 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   .home-accolades-mentions {
     padding: 5px 20px;
   }
+  .footer-main .footer-links.footer-links-subheading {cursor: none;}
+  .footer-main .footer-links.footer-links-subheading, .footer-main .footer-links {line-height: 20px;margin-bottom: 12px;}
 }
 
 @media screen and (max-width:767px) {
@@ -409,6 +413,8 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
     position: absolute;
     top: 72%;
   }
+  .footer-main .footer-links.footer-links-subheading {cursor: none;}
+  .footer-main .footer-links.footer-links-subheading, .footer-main .footer-links {line-height: 20px;margin-bottom: 12px;}
 }
 @media screen and (max-width:575px) {
   h1, .h1 {font-size:32px;line-height:44px;}
@@ -508,11 +514,13 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
 	  margin: 0;
   }
   .blogs-card {
-      box-shadow: none;
+    box-shadow: none;
   }
   .blog-card-title {
-	height: 52px;
+	  height: 52px;
   }
+  .footer-main .footer-links.footer-links-subheading {cursor: none;}
+  .footer-main .footer-links.footer-links-subheading, .footer-main .footer-links {line-height: 20px;margin-bottom: 12px;}
 }
 
 
