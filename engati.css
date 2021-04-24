@@ -690,6 +690,10 @@ body{overflow-x: hidden;}
   @media (min-width:991px){
   .hide-desktop {display: none !important;}
 }
+
+@media (min-width:1920px){
+  .home-testimonial-slide {margin-bottom: 0;}
+}
   @media (min-width:768px) and (max-width:991px){
     .hide-tab{display: none !important;}
     .view-more-btn-wrap-adj {margin-top: -70px !important;margin-bottom: 0;}
