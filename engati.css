@@ -746,19 +746,6 @@ body{overflow-x: hidden;}
   }
 
   @media (max-width:767px){
-    h1, .h1 {font-size:37px;line-height:47px;}
-    h2, .h2 {font-size:34px;line-height:45px;}
-    h3, .h3 {font-size:30px;line-height:36px;}
-    h4, .h4 {font-size:28px;line-height:34px;}
-    h5, .h5 {font-size:24px;line-height:32px;}
-    h6, .h6 {font-size:21px;line-height:30px;}
-    .p-26 {font-size:21px;line-height:30px;}
-    .p-22 {font-size:17px;line-height:26px;}
-    .p-20 {font-size:15px;line-height:24px;}
-    .p-18 {font-size:14px;line-height:24px;}
-    .p-16 {font-size:14px;line-height:24px;}
-    .p-15 {font-size:13px;line-height:24px;}
-    .p-14 {font-size:12px;line-height:24px;}
     .hide-mobile{display: none !important;}
     .flexbox-cx.mb100.pr-container-wrap-adj h1.heading-37 {font-size: 30px;line-height: 38px;}
     .pr-container-wrap-adj{padding-left: 20px;padding-right: 20px;}
