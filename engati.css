@@ -704,6 +704,7 @@ body{overflow-x: hidden;}
     .pr-collection-list-wrap .blog-card .blog-content {min-height: 270px;position: relative;}
     .home-testimonial-slide-inner.xs-mb15-adj .blog-card .blog-content {min-height: 270px;position: relative;}
     .button-block.top-cate-btn-wrap-adj + .search-container {padding: 0 20px;}
+    .pr-collection-list-wrap .blog-card .thumbnail.cx {height: 150px;}
   }
   @media (min-width:768px) and (max-width:1199px){   
     .pr-container-wrap-adj{padding-left: 20px;padding-right: 20px;}
