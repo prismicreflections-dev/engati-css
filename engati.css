@@ -494,6 +494,7 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
 
 
 /* --------------sunil/ */
+.text-white{color: #fff !important;}
 body{overflow-x: hidden;}
 .mt100{margin-top:100px!important}
 .mb100{margin-bottom: 100px !important;}
