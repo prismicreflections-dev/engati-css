@@ -612,6 +612,16 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   .blog-card-title {
 	  height: 52px;
   }
+  .author-data {
+    margin-bottom: 20px;
+  }
+  .pr-section-2.pb-cust {
+    padding-top: 0px;
+    padding-bottom: 40px;
+  }
+  .pr-section-title-2 {
+    margin-bottom: 0;
+  }
   .footer-main .footer-links.footer-links-subheading {cursor: inherit;}
   .footer-main .footer-links.footer-links-subheading, .footer-main .footer-links {line-height: 20px;margin-bottom: 12px;}
   .blogs-card-mob-slide-wrap div.w-slider div.w-slider-nav.w-round div.w-slider-dot.w-active {background-color:#222;width:24px;height:8px;background:#EE5D0B;border-radius:8px;opacity:1;}
