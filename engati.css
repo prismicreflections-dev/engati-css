@@ -200,7 +200,7 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   }
   .footer-wrap-2 {
     max-width: 80%;
-    padding-top: 80px;
+    padding-top: 120px;
   }
   .credit-text {
     margin-right: 10px;
@@ -271,9 +271,9 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
     font-size: 14px;
     line-height: 18px;
   }
-  .pr-tabs-wrapper .pr-tabs-ttl-rt {
-    font-size: 20px;
-    line-height: 26px;
+  .pr-tabs-wrapper .pr-tabs .pr-tab-pane-inner {
+    margin-top: 20px;
+    min-height: 400px;
   }
   .pr-tabs-wrapper {
     max-width: 80%;
