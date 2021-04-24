@@ -742,3 +742,5 @@ body{overflow-x: hidden;}
   .pr-collection-list-wrap .blog-card .heading-24.bl.cx{height: 70px;overflow: hidden;}
   .pr-collection-list-wrap .blog-card .bl-li-slider-para{min-height: 76px;}
   .pr-collection-list-wrap .blog-card .blog-content{min-height: 320px;}
+  .pr-collection-list-wrap.w-dyn-items.w-row {padding-top: 20px;}
+  
