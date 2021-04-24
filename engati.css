@@ -98,6 +98,10 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   -o-border-radius: 50%;
   margin-right: 15px;
 }
+.four-logo-grid-logo-wrap {
+	min-height: 70px;
+}
+/*  media start */
 @media screen and (max-width:1599px) {.footer-links-title {font-size:16px;line-height:24px;}
  .home-testimonial-slider-nav {top:0;}
  .accolades-mention-logo-img.captera {height:40px;}
