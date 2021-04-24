@@ -147,6 +147,28 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   background-image: -webkit-gradient(linear, left top, left bottom, from(#cb3252), color-stop(89%, #ae1535));
   background-image: linear-gradient(180deg, #cb3252, #ae1535 89%);
 }
+.home-testimonial-slider .left-arrow {
+  left: -90px;
+  top: calc(50% - 40px);
+  right: auto;
+  bottom: auto;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+}
+.home-testimonial-slider .right-arrow {
+  right: -90px;
+  top: calc(50% - 40px);
+  left: auto;
+  bottom: auto;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+}
 /*  media start */
 @media screen and (max-width:1599px) {
   .footer-links-title {font-size:16px;line-height:24px;}
