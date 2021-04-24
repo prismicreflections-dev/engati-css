@@ -480,7 +480,13 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   .revolution-box {
     max-width: 100%;
     padding: 50px 30px;
-    margin: -50px 20px auto;
+    margin: -20px 20px auto;
+  }
+  .button.revol {
+    padding: 14px 30px;
+  }
+  .button-7.bttn-primary {
+    letter-spacing: normal;
   }
   .rev-box-sec .pr-sec-top-triangle.triangle-white {
     top: 88px;
@@ -546,9 +552,6 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
 	  max-width: 100%;
 	  padding: 0 0px;
 	  margin: 0;
-  }
-  .blogs-card {
-    box-shadow: none;
   }
   .blog-card-title {
 	  height: 52px;
