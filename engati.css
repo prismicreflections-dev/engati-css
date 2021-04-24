@@ -555,6 +555,8 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   }
   .footer-main .footer-links.footer-links-subheading {cursor: inherit;}
   .footer-main .footer-links.footer-links-subheading, .footer-main .footer-links {line-height: 20px;margin-bottom: 12px;}
+  .blogs-card-mob-slide-wrap div.w-slider div.w-slider-nav.w-round div.w-slider-dot.w-active {background-color:#222;width:24px;height:8px;background:#EE5D0B;border-radius:8px;opacity:1;}
+  .blogs-card-mob-slide-wrap div.w-slider div.w-slider-nav.w-round div.w-slider-dot {border-radius:100%;width:8px;height:8px;background:#EE5D0B;opacity:0.2;}
 }
 
 
