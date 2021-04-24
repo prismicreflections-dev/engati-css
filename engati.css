@@ -180,9 +180,11 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
  .start-rating {height:30px;}
  .start-rating .ratings i {font-size:20px;margin-top:7px;}
  .accolades-rt-img {height:100%;padding:0;}
+ .sec-bl-li-slider .home-testimonial-slider .home-testimonial-slide {margin-bottom: 60px;}
  .footer-main .footer-links-div .footer-links-title {margin-top: 0;}
 }
- @media screen and (max-width:1599px) and (min-width:1400px) {h1, .h1 {font-size:56px;line-height:68px;}
+ @media screen and (max-width:1599px) and (min-width:1400px) {
+   h1, .h1 {font-size:56px;line-height:68px;}
  h2, .h2 {font-size:46px;line-height:60px;}
  h3, .h3 {font-size:36px;line-height:48px;}
  h4, .h4 {font-size:32px;line-height:42px;}
