@@ -147,9 +147,12 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   background-image: -webkit-gradient(linear, left top, left bottom, from(#cb3252), color-stop(89%, #ae1535));
   background-image: linear-gradient(180deg, #cb3252, #ae1535 89%);
 }
+.slider.home-testimonial-slider {
+  position: relative;
+}
 .home-testimonial-slider .left-arrow {
-  left: -20px;
-  top: calc(50% - 40px);
+  left: -6%;
+  top: 50%;
   right: auto;
   bottom: auto;
   transform: translateY(-50%);
@@ -159,8 +162,8 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   -o-transform: translateY(-50%);
 }
 .home-testimonial-slider .right-arrow {
-  right: -20px;
-  top: calc(50% - 40px);
+  right: -6%;
+  top: 50%;
   left: auto;
   bottom: auto;
   transform: translateY(-50%);
