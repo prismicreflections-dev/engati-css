@@ -141,6 +141,7 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   font-weight: 600;
   letter-spacing: 2px;
   height: 48px;
+  z-index: 5;
 }
 .button.revol:hover {
   background-image: -webkit-gradient(linear, left top, left bottom, from(#cb3252), color-stop(89%, #ae1535));
