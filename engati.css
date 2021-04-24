@@ -647,10 +647,12 @@ body{overflow-x: hidden;}
 @media (min-width:1200px) and (max-width:1399px){
   .pr-vertical-tab-wrap.w-tab-menu .w-tab-link {width: 290px;}
   .pl-container-weprovide.w-container + .pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top: -130px;}
+  .pr-collection-list-wrap.w-dyn-items.w-row ..pr-card-img-w100{height: 100%;}
 }
 @media (min-width:1400px){
   .subscribe-section .pr-container-4 {max-width: 100%;}  
   .pl-container-weprovide.w-container + .pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top: -100px;}
+  .pr-collection-list-wrap.w-dyn-items.w-row ..pr-card-img-w100{height: 100%;}
 }
 @media (min-width:992px) and (max-width:1100px){
   .navbar.pr-navbar.w-nav .nav-link.login {padding-left: 0; margin-left: 0px!important;}
