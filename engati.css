@@ -744,6 +744,9 @@ body{overflow-x: hidden;}
   .pr-collection-list-wrap .blog-card .blog-content{min-height: 250px; position: relative;}
   .pr-collection-list-wrap .blog-card .blog-content a.heading-40{position: absolute;bottom: 20px;left: 20px;z-index: 3;}
   .pr-collection-list-wrap.w-dyn-items.w-row {padding-top: 20px;}
+  .home-testimonial-slide-inner.xs-mb15-adj .blog-card{position: relative;}
   .home-testimonial-slide-inner.xs-mb15-adj .blog-card .blog-content {min-height: 250px; position: relative;}
   .home-testimonial-slide-inner.xs-mb15-adj .blog-card a.heading-40 {position: absolute;bottom: 20px;left: 20px;z-index: 3;}
-  
+  .home-testimonial-wrap.cx.home-testimonial-wrap-adj {margin-bottom: 30px;}  
+  .pr-collection-list-wrap.w-dyn-items.w-row .pagination {margin-top: 10px;}
+  a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block {font-size: 18px;font-weight: 600;text-transform: uppercase;white-space: nowrap;}
