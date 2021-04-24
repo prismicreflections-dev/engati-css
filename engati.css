@@ -662,7 +662,7 @@ body{overflow-x: hidden;}
     .tabs-content-3.tabs-content-adj.w-tab-content .w-tab-pane img {width: 587px;}
     .div-block-46.casestudy-wrap-container.pl {max-width: 1200px;margin-right: auto;margin-left: auto;padding: 40px 37px;}
     .tabs-menu-2.tab-menu-adj.w-tab-menu {width: 522px;}
-
+    .home-testimonial-wrap.cx.home-testimonial-wrap-adj {max-width: 1124px;}
     }
   @media (min-width:991px){
   .hide-desktop {display: none !important;}
@@ -718,4 +718,4 @@ body{overflow-x: hidden;}
   .pr-collection-list-wrap .blog-card {margin: 0;}
   .pr-collection-list-wrap .blog-card .heading-24.bl.cx{height: 70px;overflow: hidden;}
   .pr-collection-list-wrap .blog-card .bl-li-slider-para{min-height: 76px;}
-  .pr-collection-list-wrap .blog-card .blog-content{min-height: 300px;}
+  .pr-collection-list-wrap .blog-card .blog-content{min-height: 320px;}
