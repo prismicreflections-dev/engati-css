@@ -148,7 +148,7 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   background-image: linear-gradient(180deg, #cb3252, #ae1535 89%);
 }
 .home-testimonial-slider .left-arrow {
-  left: -90px;
+  left: -20px;
   top: calc(50% - 40px);
   right: auto;
   bottom: auto;
@@ -159,7 +159,7 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   -o-transform: translateY(-50%);
 }
 .home-testimonial-slider .right-arrow {
-  right: -90px;
+  right: -20px;
   top: calc(50% - 40px);
   left: auto;
   bottom: auto;
