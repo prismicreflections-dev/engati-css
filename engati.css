@@ -619,6 +619,9 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
     padding-top: 0px !important;
     padding-bottom: 40px !important;
   }
+  .rich-text .p-22 {
+    font-size: 16px;
+  }
   .pr-section-title-2 {
     margin-bottom: 0;
   }
