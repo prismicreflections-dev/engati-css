@@ -506,7 +506,11 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   }
   /* homepage */
   .pr-hero-section {
-	  padding: 10px 0px 50px;
+	  padding: 10px 0px;
+  }
+  .banking-sec-ttl {
+    font-size: 20px;
+    line-height: 30px;
   }
   .home-hero-img-blk {
 	  position: static;
