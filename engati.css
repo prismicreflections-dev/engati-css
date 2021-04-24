@@ -616,8 +616,8 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
     margin-bottom: 20px;
   }
   .pr-section-2.pb-cust {
-    padding-top: 0px;
-    padding-bottom: 40px;
+    padding-top: 0px !important;
+    padding-bottom: 40px !important;
   }
   .pr-section-title-2 {
     margin-bottom: 0;
