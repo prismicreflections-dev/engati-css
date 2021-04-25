@@ -80,9 +80,9 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .blog-container .rich-text h2::before{position:relative;counter-increment:my-sec-counter;content:counter(my-sec-counter);display:inline-block;height:36px;width:36px;top:-4px;left:0;background:#ae1536;color:#fff;font-size:18px;line-height:36px;text-align:center;font-weight:400;border-radius:50%;-webkit-border-radius:50%;-moz-border-radius:50%;-ms-border-radius:50%;-o-border-radius:50%;margin-right:15px}
 .four-logo-grid-logo-wrap{min-height:70px}
 .grey-triangle-before{position:relative;background:linear-gradient(180deg,#fff 100px,#f7f8fa 0)}
-.grey-triangle-before::before{position:absolute;content:'';display:block;top:0;left:0;max-width:100vw;border-style:none solid solid;border-width:0 50vw 100px;border-color:transparent transparent #f7f8fa;overflow:hidden;z-index:1}
+.grey-triangle-before::before{position:absolute;content:'';display:block;top:0;left:0;max-width:100vw;border-style:none solid solid;border-width:0 50vw 100px;border-color:transparent transparent #f7f8fa;overflow:hidden;z-index:0;}
 .white-triangle-before{position:relative;background:linear-gradient(180deg,#f7f8fa 100px,#fff 0)}
-.white-triangle-before::before{position:absolute;content:'';display:block;top:0;left:0;max-width:100vw;border-style:none solid solid;border-width:0 50vw 100px;border-color:transparent transparent #fff;overflow:hidden;z-index:1}
+.white-triangle-before::before{position:absolute;content:'';display:block;top:0;left:0;max-width:100vw;border-style:none solid solid;border-width:0 50vw 100px;border-color:transparent transparent #fff;overflow:hidden;z-index:0;}
 .button.revol{font-family:'Source Sans Pro',sans-serif;font-size:14px;font-weight:600;letter-spacing:2px;height:48px;z-index:5}
 .button.revol:hover{background-image:-webkit-gradient(linear,left top,left bottom,from(#cb3252),color-stop(89%,#ae1535));background-image:linear-gradient(180deg,#cb3252,#ae1535 89%)}
 .slider.home-testimonial-slider{position:relative}
@@ -597,11 +597,15 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
   top: 0;
   left: 0;
   z-index: 3;}
-.pr-tab-updated .pr-tabs-content{width: 100%; margin-bottom: 30px;}
+.pr-tab-updated {display: flex !important;flex-direction: column !important;}
+
+.pr-tab-updated .pr-tabs-content{width: 100%; margin-bottom: 20px; margin-top: 60px;}
 .pr-tab-updated .pr-tabs-content.pr-order-first .pr-tab-pane {padding-right: 0;}
 .pr-tab-updated .pr-tabs-content.pr-order-last .pr-tab-pane {padding-left: 0;}
-.pr-tab-updated {display: flex !important;flex-direction: column !important;}
 .pr-tab-updated .pr-tabs-content{order: -1;}
+.pr-tab-updated .pr-tabs-content .pr-tab-pane img {width: 100%;max-height: none;}
+.tab-pane.pr-tab-pane {min-height: inherit;}
+.pr-tabs-content.pr-order-first{max-width: 90%;}
 .pr-feature-resources-col-right {position: relative;padding: 10px 30px 10px;}
 .h-550-wrap img, .h-550-wrap>div {height: 355px;}
 .flexbox-cx.mb100.pr-container-wrap-adj {margin-bottom: 50px !important;}
