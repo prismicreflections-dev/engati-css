@@ -591,6 +591,12 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
     max-width: 100%;
     margin: 0 20px;
   }
+  .home-accolades-mentions-wrap {
+    padding: 20px 20px;
+  }
+  .home-accolades-mentions {
+    padding: 5px 10px;
+  }
   .home-hero-img-blk {
 	  position: static;
 	  width: 100%;
