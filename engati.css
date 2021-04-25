@@ -570,4 +570,14 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .flexbox-cx-bottom.pb0.pr-engati-offering-sec::before{border-width:0 50vw 30px;top:-30px}
 .div-block-41.pb0.pr-engati-today-sec .card-container.mb200{margin-bottom:80px}
 .pr-collection-list-wrap.w-dyn-items.w-row .pagination{margin-top:20px}
+.md-mt-30-adj{margin-top: 30px !important;}
+.pr-tab-updated .pr-vertical-tab-wrap{justify-content: center;}
+.pr-tab-updated .pr-tabs-content{width: 100%; margin-bottom: 30px;}
+.pr-tab-updated .pr-tabs-content.pr-order-first .pr-tab-pane {padding-right: 0;}
+.pr-tab-updated .pr-tabs-content.pr-order-last .pr-tab-pane {padding-left: 0;}
+.pr-tab-updated {display: flex !important;flex-direction: column !important;}
+.pr-tab-updated .pr-tabs-content{order: -1;}
+.pr-feature-resources-col-right {position: relative;padding: 10px 30px 10px;}
+.h-550-wrap img, .h-550-wrap>div {height: 355px;}
+.percent-blk-wrap{padding: 0 15px;}
 }
