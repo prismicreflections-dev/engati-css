@@ -666,6 +666,7 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
 
 
 /* --------------sunil/ */
+.border-right0{border-right: 0 !important;}
 .h-80{height: 71px;overflow: hidden;}
 .text-white{color: #fff !important;}
 body{overflow-x: hidden;}
@@ -921,3 +922,4 @@ body{overflow-x: hidden;}
 .pr-tab-updated .pr-tabs-content.pr-order-first .pr-tab-pane{text-align: left; padding-right: 80px;}
 .pr-tab-updated .pr-tabs-content.pr-order-last .pr-tab-pane{text-align: left; padding-left: 80px;}
 .pr-tab-updated .pr-tabs-content .pr-tab-pane img {width: auto;max-height: 700px;}
+.pr-view-more-btn-wrap{padding-top: 40px;}
