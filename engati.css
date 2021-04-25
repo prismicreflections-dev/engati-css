@@ -916,3 +916,4 @@ body{overflow-x: hidden;}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link.w--current::after {position: absolute;content: url(https://assets.website-files.com/6062c1add12da6add0e4236d/607b9d6c4b263d5959313eab_arrow_rt_red.png);top: auto;right: 20px;left: auto;bottom: 12px;z-index: 1;}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link:first-child{margin-right: 20px;}
 .pr-tab-updated .pr-tabs-content .pr-tabs-content-img-align-right {text-align: right;}
+.pr-tab-updated .pr-tabs-content .tab-pane.pr-tab-pane{text-align: left; padding-right: 80px;}
