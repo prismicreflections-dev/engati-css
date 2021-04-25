@@ -672,6 +672,7 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
 body{overflow-x: hidden;}
 .mt100{margin-top:100px!important}
 .mb100{margin-bottom: 100px !important;}
+.mb30{margin-bottom: 30px !important;}
 .mt0{margin-top: 0 !important;}
 .mr0{margin-right: 0 !important;}
 .mb0{margin-bottom: 0 !important;}
