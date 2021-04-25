@@ -611,9 +611,14 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
   .pr-container-4 {
     padding: 0;
   }
+  .pr-tabs-wrapper .pr-tabs .pr-tab-pane-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   .tab-img-wrappper {
 	  width: 100%;
-	  max-height: 300px;
+	  max-height: unset;
 	  height: auto;
   }
   .blogs-card-wrapper {
