@@ -834,7 +834,7 @@ body{overflow-x: hidden;}
   }
   @media (min-width:1200px) and (max-width:1599px){
     .pr-section-common {padding-top: 90px;padding-bottom: 90px;}
-    .pr-section-common .pr-container-1420{max-width: 1200px;padding: 0 15px;}
+    .pr-section-common .pr-container-1420{max-width: 1160px;padding: 0 15px;}
     .pr-section-common .pr-section-heading{margin-bottom: 60px; margin-top: 0;}
     .pr-feature-resources-col-right {position: relative;padding: 32px 30px 10px;}    
     .tab-img-wrappper.lg-left-70 {left: -55px;}
@@ -849,7 +849,8 @@ body{overflow-x: hidden;}
     .div-block-46.casestudy-wrap-container.pl {max-width: 1200px;margin-right: auto;margin-left: auto;padding: 40px 37px;}
     .tabs-menu-2.tab-menu-adj.w-tab-menu {width: 522px;}
     .home-testimonial-wrap.cx.home-testimonial-wrap-adj {max-width: 1150px;}
-    .h-550-wrap img, .h-550-wrap > div{height: 550px;}
+    .h-550-wrap img, .h-550-wrap > div{height: 450px;}
+    .pr-tab-updated .pr-tabs-content {width: 550px;}
     }
   @media (min-width:991px){
   .hide-desktop {display: none !important;}
@@ -921,8 +922,8 @@ body{overflow-x: hidden;}
   .pr-collection-list-wrap.w-dyn-items.w-row .pagination {margin-top: 10px;}
   
   
-
-.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link {width: 300px; min-height: 510px; margin-top: 0px;padding-top: 50px;padding-bottom: 90px;border-style: solid;border-width: 1px;border-color: rgba(64, 63, 66, 0.1);border-radius: 4px;background-color: #fff;padding-left: 27px;padding-right: 27px;}
+.pr-tab-updated .pr-vertical-tab-wrap{display: flex;flex-direction: row;flex-wrap: nowrap;justify-content: flex-start;align-items: stretch;align-content: stretch;}
+.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link {width: 300px; margin-top: 0px;padding-top: 50px;padding-bottom: 90px;border-style: solid;border-width: 1px;border-color: rgba(64, 63, 66, 0.1);border-radius: 4px;background-color: #fff;padding-left: 27px;padding-right: 27px;}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link.w--current{box-shadow: 0 16px 35px 0 #d2d2d2;}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link.w--current::after {position: absolute;content: url(https://assets.website-files.com/6062c1add12da6add0e4236d/607b9d6c4b263d5959313eab_arrow_rt_red.png);top: auto;right: 20px;left: auto;bottom: 12px;z-index: 1;}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link:first-child{margin-right: 20px;}
