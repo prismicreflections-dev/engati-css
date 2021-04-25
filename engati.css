@@ -528,7 +528,6 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
     margin: 15px 0px;
   }
   .home-testimonial-card-2 {
-    margin-bottom: 0px;
     box-shadow: 3px 3px 30px -5px rgba(0, 0, 0, 0.1);
 }
   .button.revol {
