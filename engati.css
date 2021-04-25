@@ -516,7 +516,7 @@ body{overflow-x:hidden}
 .button-block.top-cate-btn-wrap-adj+.search-container{padding:0 20px}
 .pr-collection-list-wrap .blog-card .thumbnail.cx{height:150px}
 .pr-collection-list-wrap .blog-card .thumbnail.cx img{height:100%}
-
+.md-mt-30-adj{margin-top: 30px !important;}
 }
 @media (min-width:768px) and (max-width:1199px){
 .pr-container-wrap-adj{padding-left:20px;padding-right:20px}
