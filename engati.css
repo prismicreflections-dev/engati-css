@@ -579,7 +579,8 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-tab-updated .pr-tabs-content{order: -1;}
 .pr-feature-resources-col-right {position: relative;padding: 10px 30px 10px;}
 .h-550-wrap img, .h-550-wrap>div {height: 355px;}
-.percent-blk-wrap{padding: 0 15px;}
 .flexbox-cx.mb100.pr-container-wrap-adj {margin-bottom: 50px !important;}
 .grey-triangle-before::before {border-width: 0 50vw 50px; top: 50px;}
+.percent-blk-wrap-xs .w-row .w-col-6:last-child{border-left: 1px solid #f3f3f3;}
+.percent-blk-wrap-xs .w-row .w-col-6 .percent-blk.br-rt-lt{border: 0 !important;}
 }
