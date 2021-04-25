@@ -680,9 +680,9 @@ body{overflow-x: hidden;}
 .pr0{padding-right: 0 !important;}
 .pb0{padding-bottom: 0 !important;}
 .pl0{padding-left: 0 !important;}
-.mt60{margin-top: 60px;}
-.mb120{margin-bottom: 120px;}
-.mb200{margin-bottom: 200px;}
+.mt60{margin-top: 60px !important;}
+.mb120{margin-bottom: 120px !important;}
+.mb200{margin-bottom: 200px !important;}
 .wid50{width: 50%;}
 .wid40{width: 40%;}
 .navbar.pr-navbar.w-nav .nav-container.w-container .nav-menu.w-nav-menu > .nav-link{margin-right:16px;margin-left:16px;width:auto;display:inline}
@@ -823,14 +823,14 @@ body{overflow-x: hidden;}
     .pr-image-adj3 {margin-left: 70px;width: 700px;}
     .pr-section-common {padding-top: 90px;padding-bottom: 90px;}
     .pr-section-common .pr-container-1420{max-width: 1430px;padding: 0 15px;}
-    .pr-section-common .pr-container-1420 .pr-section-heading{margin-bottom: 60px;}
+    .pr-section-common .pr-section-heading{margin-bottom: 60px; margin-top: 0;}
     .case-study-data.case-study-data-adj {width: 750px;margin-top: -10px; margin-left: -70px;}    
     .tabs-menu-2.tab-menu-adj.w-tab-menu {margin-right: -30px;width: 553px;}
   }
   @media (min-width:1200px) and (max-width:1599px){
     .pr-section-common {padding-top: 90px;padding-bottom: 90px;}
     .pr-section-common .pr-container-1420{max-width: 1200px;padding: 0 15px;}
-    .pr-section-common .pr-container-1420 .pr-section-heading{margin-bottom: 60px;}
+    .pr-section-common .pr-section-heading{margin-bottom: 60px; margin-top: 0;}
     .pr-feature-resources-col-right {position: relative;padding: 32px 30px 10px;}    
     .tab-img-wrappper.lg-left-70 {left: -55px;}
     .pr-tabs-menu.lg-left-17.w-tab-menu {margin-right: 17px;}
