@@ -851,6 +851,7 @@ body{overflow-x: hidden;}
     .home-testimonial-wrap.cx.home-testimonial-wrap-adj {max-width: 1150px;}
     .h-550-wrap img, .h-550-wrap > div{height: 450px;}
     .pr-tab-updated .pr-tabs-content {width: 550px;}
+    .home-testimonial-wrap-circle-3 {width: 430px;height: 430px;}
     }
   @media (min-width:991px){
   .hide-desktop {display: none !important;}
