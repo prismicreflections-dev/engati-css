@@ -551,6 +551,7 @@ body{overflow-x:hidden}
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
 }
 @media (max-width:767px){
+  .flex-revers-colums-xs{display: flex!important;flex-direction: column-reverse !important;}
 .xs-mb0{margin-bottom:0!important}
 .xs-mt0{margin-top: 0 !important;}
 .xs-pb0{padding-bottom: 0 !important;}
@@ -589,8 +590,11 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-tab-updated .pr-tabs-content .pr-tab-pane img{width:100%;max-height:none}
 .tab-pane.pr-tab-pane{min-height:inherit}
 .pr-tabs-content.pr-order-first{max-width:100%}
-.pr-feature-resources-col-right{position:relative;padding:10px 30px 10px}
-.h-550-wrap img,.h-550-wrap>div{height:355px}
+.pr-feature-resources-col-right{position:relative;padding:20px 20px 10px}
+.pr-feature-resources-col-right h3{font-size: 18px;line-height: 130%; margin-top: 0;}
+.pr-feature-resources-col-right .text-block-15.mb30 {margin-bottom: 20px !important; font-size: 12px;line-height: 160%;}
+.pr-feature-resources-col-right .link-arrow-txt{font-size: 14px;}
+.h-550-wrap img,.h-550-wrap>div{height:260px}
 .flexbox-cx.mb100.pr-container-wrap-adj{margin-bottom:50px!important}
 .grey-triangle-before::before,.white-triangle-before::before{border-width:0 50vw 50px;top:50px}
 .percent-blk-wrap-xs .w-row .w-col-6:last-child{border-left:1px solid #f3f3f3}
@@ -599,8 +603,9 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-section-common .pr-container-1420{max-width:100%;padding:0 20px}
 .pr-section-common.grey-triangle-before.pr-tab-section-resp{padding-bottom:110px}
 .lastest-blog-sect-xs{background: #fff;}
+.lastest-blog-sect-xs .white-triangle-before::before {border-width: 0 50vw 50px;top: -50px;}
 .pr-section-common{padding-top:60px;padding-bottom:60px}
 .pr-section-common .pr-container-1420{max-width:100%;padding:0 15px}
 .pr-section-common .pr-section-heading{margin-bottom:40px;margin-top:0}
-.lastest-blog-sect-xs .white-triangle-before::before {border-width: 0 50vw 50px;top: -50px;}
+
 }
