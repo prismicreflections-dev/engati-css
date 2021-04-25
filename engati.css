@@ -553,6 +553,8 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 @media (max-width:767px){
 .xs-mb0{margin-bottom:0!important}
 .xs-mt0{margin-top: 0 !important;}
+.xs-pb0{padding-bottom: 0 !important;}
+.xs-pt0{padding-top: 0 !important;}
 .hide-mobile{display:none!important}
 .flexbox-cx.mb100.pr-container-wrap-adj h1.heading-37{font-size:30px;line-height:38px}
 .pr-container-wrap-adj{padding-left:20px;padding-right:20px}
@@ -597,7 +599,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-section-common .pr-container-1420{max-width:100%;padding:0 20px}
 .pr-section-common.grey-triangle-before.pr-tab-section-resp{padding-bottom:110px}
 .lastest-blog-sect-xs{background: #fff;}
-.pr-section-common{padding-top:90px;padding-bottom:90px}
+.pr-section-common{padding-top:60px;padding-bottom:60px}
 .pr-section-common .pr-container-1420{max-width:100%;padding:0 15px}
 .pr-section-common .pr-section-heading{margin-bottom:40px;margin-top:0}
 .lastest-blog-sect-xs .white-triangle-before::before {border-width: 0 50vw 50px;top: -50px;}
