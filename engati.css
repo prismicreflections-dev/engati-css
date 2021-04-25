@@ -646,6 +646,7 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
     padding: 0 20px;
   }
   .home-testimonial-wrap-circle-2 {
+    display: block;
     top: 50%;
     width: 300px;
     height: 300px;
