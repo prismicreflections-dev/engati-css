@@ -680,6 +680,8 @@ body{overflow-x: hidden;}
 .pr0{padding-right: 0 !important;}
 .pb0{padding-bottom: 0 !important;}
 .pl0{padding-left: 0 !important;}
+.mt60{margin-top: 60px;}
+.mb120{margin-bottom: 120px;}
 .mb200{margin-bottom: 200px;}
 .wid50{width: 50%;}
 .wid40{width: 40%;}
@@ -912,7 +914,7 @@ body{overflow-x: hidden;}
   .home-testimonial-wrap.cx.home-testimonial-wrap-adj {margin-bottom: 30px;}  
   .pr-collection-list-wrap.w-dyn-items.w-row .pagination {margin-top: 10px;}
   
-
+  
 
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link {width: 300px; min-height: 510px; margin-top: 0px;padding-top: 50px;padding-bottom: 90px;border-style: solid;border-width: 1px;border-color: rgba(64, 63, 66, 0.1);border-radius: 4px;background-color: #fff;padding-left: 27px;padding-right: 27px;}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link.w--current{box-shadow: 0 16px 35px 0 #d2d2d2;}
