@@ -532,6 +532,7 @@ ul.blog-ul-list li span + span,ul.blog-ul-list li span > span {font-weight:norma
 }
   .button.revol {
     padding: 14px 30px;
+    letter-spacing: normal;
   }
   .button-7.bttn-primary {
     letter-spacing: normal;
