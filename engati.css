@@ -401,6 +401,8 @@ body{overflow-x:hidden}
 .pr-tab-updated .pr-tabs-content.pr-order-last .pr-tab-pane{text-align:right;padding-left:80px}
 .pr-tab-updated .pr-tabs-content .pr-tab-pane img{width:auto;max-height:700px}
 .pr-view-more-btn-wrap{padding-top:40px}
+.pr-section-common{position: relative;}
+.pr-section-common .pr-container-1420{margin: auto;}
 @media (min-width:1200px){
 .nav-link.exp{margin-right:0!important}
 }
@@ -606,7 +608,5 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .lastest-blog-sect-xs{background: #fff;}
 .lastest-blog-sect-xs.white-triangle-before::before {border-width: 0 50vw 50px;top: -50px;}
 .pr-section-common{padding-top:60px;padding-bottom:60px}
-.pr-section-common .pr-container-1420{max-width:100%;padding:0 15px}
 .pr-section-common .pr-section-heading{margin-bottom:40px;margin-top:0}
-
 }
