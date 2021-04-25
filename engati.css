@@ -911,19 +911,8 @@ body{overflow-x: hidden;}
   
 
 
-  .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link {
-    width: 300px;
-    margin-top: 0px;
-    padding-top: 50px;
-    padding-bottom: 90px;
-    border-style: solid;
-    border-width: 1px;
-    border-color: rgba(64, 63, 66, 0.1);
-    border-radius: 4px;
-    background-color: #fff;
-    padding-left: 27px;
-    padding-right: 27px;
-}
+.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link {width: 300px; min-height: 510px; margin-top: 0px;padding-top: 50px;padding-bottom: 90px;border-style: solid;border-width: 1px;border-color: rgba(64, 63, 66, 0.1);border-radius: 4px;background-color: #fff;padding-left: 27px;padding-right: 27px;}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link.w--current{box-shadow: 0 16px 35px 0 #d2d2d2;}
+.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link.w--current::after {position: absolute;content: url(https://assets.website-files.com/6062c1add12da6add0e4236d/607b9d6c4b263d5959313eab_arrow_rt_red.png);top: auto;right: 20px;left: auto;bottom: 12px;z-index: 1;}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link:first-child{margin-right: 20px;}
 .pr-tab-updated .pr-tabs-content .pr-tabs-content-img-align-right {text-align: right;}
