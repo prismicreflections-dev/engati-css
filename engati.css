@@ -911,5 +911,16 @@ body{overflow-x: hidden;}
   
 
 
-  .tabs.pr-tab-updated.w-tabs .pr-vertical-tab-wrap{}
+  .tabs.pr-tab-updated.w-tabs .pr-vertical-tab-wrap .w-tab-link {
+    width: 300px;
+    margin-top: 0px;
+    padding-top: 50px;
+    padding-bottom: 90px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(64, 63, 66, 0.1);
+    border-radius: 4px;
+    background-color: #fff;
+}
+.tabs.pr-tab-updated.w-tabs .pr-vertical-tab-wrap .w-tab-link.w--current{box-shadow: 0 16px 35px 0 #d2d2d2;}
   .tabs.pr-tab-updated.w-tabs .pr-tabs-content.w-tab-content.pr-tabs-content-img-align-right {text-align: right;}
