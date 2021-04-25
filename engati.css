@@ -541,7 +541,7 @@ body{overflow-x:hidden}
 .pr-tab-updated .pr-tabs-content{width: 100%;}
 .pr-tab-updated .pr-tabs-content.pr-order-first .pr-tab-pane {padding-right: 0;}
 .pr-tab-updated .pr-tabs-content.pr-order-last .pr-tab-pane {padding-left: 0;}
-.pr-tab-updated {display: flex;flex-direction: column;}
+.pr-tab-updated {display: flex !important;flex-direction: column !important;}
 .pr-tab-updated .pr-tabs-content{order: -1;}
 }
 
