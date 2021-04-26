@@ -313,6 +313,7 @@ body{overflow-x:hidden}
 .mt60{margin-top:60px!important}
 .mb120{margin-bottom:120px!important}
 .mb200{margin-bottom:200px!important}
+.pb250{padding-bottom: 250px !important;}
 .wid50{width:50%}
 .wid40{width:40%}
 .navbar.pr-navbar.w-nav .nav-container.w-container .nav-menu.w-nav-menu>.nav-link{margin-right:16px;margin-left:16px;width:auto;display:inline}
