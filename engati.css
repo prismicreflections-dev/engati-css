@@ -419,6 +419,9 @@ body{overflow-x:hidden}
 }
 @media (min-width:992px) and (max-width:1100px){
 .navbar.pr-navbar.w-nav .nav-link.login{padding-left:0;margin-left:0!important}
+.pr-feature-resources-col-right{position: relative;padding: 30px 35px 10px;}
+.pr-feature-resources-col-right .text-block-15{margin-bottom: 30px;}
+
 }
 @media (min-width:767px) and (max-width:991px){
 .navbar.pr-navbar.w-nav .nav-container.w-container+.w-nav-overlay .nav-menu.w-nav-menu>.nav-link{margin-right:0;margin-left:20px;width:auto;display:inline}
