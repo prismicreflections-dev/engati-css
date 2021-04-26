@@ -418,6 +418,7 @@ body{overflow-x:hidden}
 .pr-section-common .pr-container-1420{margin: auto;}
 @media (min-width:1200px){
 .nav-link.exp{margin-right:0!important}
+.h-600{height: 600px;}
 }
 @media (min-width:1200px) and (max-width:1399px){
 .pr-vertical-tab-wrap.w-tab-menu .w-tab-link{width:290px}
