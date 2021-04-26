@@ -88,7 +88,13 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .slider.home-testimonial-slider{position:relative}
 .home-testimonial-slider .left-arrow{left:-6%;top:50%;right:auto;bottom:auto;transform:translateY(-50%);-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-ms-transform:translateY(-50%);-o-transform:translateY(-50%)}
 .home-testimonial-slider .right-arrow{right:-6%;top:50%;left:auto;bottom:auto;transform:translateY(-50%);-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-ms-transform:translateY(-50%);-o-transform:translateY(-50%)}
-@media screen and (max-width:1599px){
+/*ecom page*/
+.home-hero-img-blk.ecom-blk {top: -136px;left: -24px;}
+
+@media screen and (max-width:1919px) and (min-width:1600px){
+  .home-testimonial-slide {margin-bottom: 70px;}
+}
+@media screen and (max-width:1599px) {
 .footer-links-title{font-size:16px;line-height:24px}
 .home-testimonial-slider-nav{top:0}
 .accolades-mention-logo-img.captera{height:40px}
