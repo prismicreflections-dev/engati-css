@@ -246,7 +246,8 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .h4,h4{font-size:21px;line-height:30px}
 .h5,h5{font-size:20px;line-height:24px}
 .h6,h6{font-size:18px;line-height:28px}
-.floating-share{display:block;height: 0;padding: 0;}
+.floating-share{display:block;height: 0;padding: 0;z-index: 4;}
+.floating-share .w-embed {box-shadow: rgba(0,0,0,.1) 0 15px 20px 1px;}
 .st-btn {margin: 6px 0px !important;width: 30px !important;height: 30px !important;}
 .st-btn > img {height: 20px !important;width: 24px !important;top: 4px !important;}
 .table-wrap{max-width:100vw;overflow-y:hidden;overflow-x:auto}
