@@ -533,6 +533,9 @@ body{overflow-x:hidden}
 .pr-section-common .pr-section-heading{margin-bottom:60px;margin-top:0}
 .pr-testimonial-sect-resp{margin-top:90px}
 .md-mt0{margin-top:0!important}
+.social-icon-wrap img {width: 70px;}
+.social-icon-wrap {padding-top: 10px;padding-bottom: 10px;}
+
 }
 @media (min-width:768px) and (max-width:991px){
 .hide-tab{display:none!important}
@@ -553,6 +556,7 @@ body{overflow-x:hidden}
 .pr-feature-resources-col-right{position:relative;padding:20px 30px 10px}
 .h-550-wrap img,.h-550-wrap>div{height:355px}
 .percent-blk-wrap{padding:0 15px}
+.pr-feature-resources-col-right .link-block-arrow{margin-bottom: 30px;}
 }
 @media (min-width:768px){
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
