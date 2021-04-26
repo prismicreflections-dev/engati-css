@@ -88,7 +88,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .slider.home-testimonial-slider{position:relative}
 .home-testimonial-slider .left-arrow{left:-6%;top:50%;right:auto;bottom:auto;transform:translateY(-50%);-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-ms-transform:translateY(-50%);-o-transform:translateY(-50%)}
 .home-testimonial-slider .right-arrow{right:-6%;top:50%;left:auto;bottom:auto;transform:translateY(-50%);-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-ms-transform:translateY(-50%);-o-transform:translateY(-50%)}
-@media screen and (max-width:1919px) and (min-width:1600){
+@media screen and (max-width:1919px) and (min-width:1600px){
   .home-testimonial-slide {margin-bottom: 70px;}
 }
 @media screen and (max-width:1599px) {
