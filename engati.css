@@ -400,6 +400,7 @@ body{overflow-x:hidden}
 .home-testimonial-slide-inner.xs-mb15-adj .blog-card a.heading-40{position:absolute;bottom:20px;left:20px;z-index:3}
 .pr-engati-today-sec .blog-card .pr-blog-card-title,
 .home-testimonial-slide-inner.xs-mb15-adj .blog-card .pr-blog-card-title{height: 52px !important; overflow: hidden !important; display: block !important;}
+.home-testimonial-slide-inner.xs-mb15-adj .blog-card .pr-card-img-w100{object-fit: cover !important;}
 .home-testimonial-slide-inner .blog-card a.pr-blog-card-title:hover{color: #ae1536 !important;}
 .home-testimonial-wrap.cx.home-testimonial-wrap-adj{margin-bottom:30px}
 .pr-collection-list-wrap.w-dyn-items.w-row .pagination{margin-top:10px}
