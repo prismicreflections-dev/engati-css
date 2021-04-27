@@ -101,7 +101,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 @media screen and (max-width:1699px) and (min-width:1600px){
   .ecom-page .home-testimonial-slide {margin-bottom: 40px;}
   .two-blks-wrap .two-blks-img {max-width: 460px;}
-  .footer-links.hiring {top: 44px;left: 62px;}
+  .footer-links.hiring {top: 35px;left: 64px;}
 }
 @media screen and (max-width:1699px) and (min-width:1500px){
   .pr-section-2 .pr-container-1420{max-width:1240px;padding:0 15px}
