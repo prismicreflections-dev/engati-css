@@ -5,6 +5,7 @@ body{counter-reset:my-sec-counter}
 .home-testimonial-slider-nav.w-slider-nav.w-slider-nav-invert.w-slider-nav.w-round>div.w-active{background-color:#222;width:24px;height:8px;background:#ee5d0b;border-radius:8px;opacity:1}
 .testimonial-blk-company{border-radius:0}
 .footer-credits.w-row{z-index:9;position:relative}
+.footer-links-title {font-size: 18px;line-height: 26px;font-weight: 600;}
 .w-nav-menu .nav-link.w-dropdown-toggle.w--open{color:#b51a3a}
 .w-nav-menu .nav-link.w-dropdown-toggle.w--open{position:relative}
 .w-nav-menu .nav-link.w-dropdown-toggle.w--open::after{content:'';position:absolute;bottom:-26px;left:50%;transform:translateX(-50%) rotate(226deg);-webkit-transform:translateX(-50%) rotate(226deg);-moz-transform:translateX(-50%) rotate(226deg);-ms-transform:translateX(-50%) rotate(226deg);-o-transform:translateX(-50%) rotate(226deg);width:18px;height:18px;background:#fff;border:1px solid #ccc;z-index:99;border-left:0;border-top:0}
@@ -100,6 +101,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 @media screen and (max-width:1699px) and (min-width:1600px){
   .ecom-page .home-testimonial-slide {margin-bottom: 40px;}
   .two-blks-wrap .two-blks-img {max-width: 460px;}
+  .footer-links.hiring {top: 44px;left: 62px;}
 }
 @media screen and (max-width:1699px) and (min-width:1500px){
   .pr-section-2 .pr-container-1420{max-width:1240px;padding:0 15px}
@@ -141,6 +143,8 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .ecom-page .home-testimonial-slide {margin-bottom: 36px;}
 .home-testimonial-wrap-circle-2 {width: 450px;height: 450px;}
 .pr-feature-resources-col-left {height: 380px;}
+.subscribe-box-2 {max-width: 80%;}
+.footer-links.hiring {top: 24px;}
 }
 @media screen and (max-width:1399px) and (min-width:1200px){
 .h1,h1{font-size:52px;line-height:64px}
