@@ -417,6 +417,15 @@ body{overflow-x:hidden}
 .pr-view-more-btn-wrap{padding-top:40px}
 .pr-section-common{position: relative;}
 .pr-section-common .pr-container-1420{margin: auto;}
+.card-box-gradient {
+	opacity: 0.8;
+	background: -moz-linear-gradient(left, rgba(255,219,199,1) 0%, rgba(255,255,255,0) 100%);
+	background: -webkit-linear-gradient(left, rgba(255,219,199,1) 0%,rgba(255,255,255,0) 100%);
+	background: linear-gradient(to right, rgba(255,219,199,1) 0%,rgba(255,255,255,0) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffdbc7', endColorstr='#00ffffff',GradientType=1 );
+}
+.card-box-gradient h3{margin: 0 0 23px;color: #EE5D0B;}
+.card-box-gradient .p-26{max-width: inherit;opacity: 0.6;}
 @media (min-width:1200px){
 .nav-link.exp{margin-right:0!important}
 
@@ -635,3 +644,4 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-section-common{padding-top:60px;padding-bottom:60px}
 .pr-section-common .pr-section-heading{margin-bottom:40px;margin-top:0}
 }
+
