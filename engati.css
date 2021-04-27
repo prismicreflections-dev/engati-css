@@ -94,6 +94,9 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 @media screen and (max-width:1919px) and (min-width:1600px){
   .home-testimonial-slide {margin-bottom: 70px;}
 }
+@media screen and (max-width:1699px) and (min-width:1500px){
+  .pr-section-common .pr-container-1420{max-width:1240px;padding:0 15px}
+}
 @media screen and (max-width:1599px) {
 .footer-links-title{font-size:16px;line-height:24px}
 .home-testimonial-slider-nav{top:0}
