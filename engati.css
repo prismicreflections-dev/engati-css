@@ -136,7 +136,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .p-15{font-size:14px;line-height:24px}
 .p-14{font-size:14px;line-height:24px}
 .home-hero-img-blk{width:620px;top:-190px;left:-70px}
-.pr-section-2.pr-container-1420 {max-width: 80%;}
+.pr-section-2 .pr-container-1420 {max-width: 80%;}
 }
 @media screen and (max-width:1399px) and (min-width:1200px){
 .h1,h1{font-size:52px;line-height:64px}
@@ -155,7 +155,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .pr-hero-section{max-width:1020px}
 .home-hero-img-blk{position:relative;width:560px;height:auto;top:-154px;left:0}
 .pr-container-4{max-width:1020px}
-.pr-section-2.pr-container-1420 {max-width: 80%;}
+.pr-section-2 .pr-container-1420 {max-width: 80%;}
 .industries-blk-icon-2{width:60px;height:60px;min-width:60px}
 .industries-blk-icon-img{max-height:50px}
 .industries-blk{padding:0}
