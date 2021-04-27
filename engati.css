@@ -650,7 +650,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .lastest-blog-sect-xs.white-triangle-before::before {border-width: 0 50vw 50px;top: -50px;}
 .pr-section-common{padding-top:60px;padding-bottom:60px}
 .pr-section-common .pr-section-heading{margin-bottom:40px;margin-top:0}
-.card-box-gradient{padding: 20px 25px;}
+.card-box-gradient{padding: 20px 25px; margin-top: -20px;}
 .card-box-gradient h3 {margin: 0 0 15px;color: #EE5D0B;}
 }
 
