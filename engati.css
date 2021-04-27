@@ -424,6 +424,8 @@ body{overflow-x:hidden}
 .pr-section-common{position: relative;}
 .pr-section-common .pr-container-1420{margin: auto;}
 .card-box-gradient {
+  max-width: 1120px;
+  margin: auto;
 	background: -moz-linear-gradient(left, rgba(255,219,199,1) 0%, rgba(255,255,255,0) 100%);
 	background: -webkit-linear-gradient(left, rgba(255,219,199,1) 0%,rgba(255,255,255,0) 100%);
 	background: linear-gradient(to right, rgba(255,219,199,1) 0%,rgba(255,255,255,0) 100%);
