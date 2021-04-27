@@ -91,7 +91,18 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 /*ecom page*/
 .home-hero-img-blk.ecom-blk {top: -136px;left: -24px;}
 .footer-links.hiring {
-  position: absolute;
+	position: absolute;
+	top: 36px;
+	left: 90px;
+	display: block;
+	background: #816BDA;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 13px;
+	color: #FFFFFF;
+	border-radius: 40px;
+	padding: 4px 10px;
+	z-index: 1;
 }
 @media screen and (max-width:1919px) and (min-width:1600px){
   .home-testimonial-slide {margin-bottom: 70px;}
