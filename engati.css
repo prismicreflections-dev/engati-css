@@ -138,6 +138,8 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .home-hero-img-blk{width:620px;top:-190px;left:-70px}
 .pr-section-2 .pr-container-1420 {max-width: 80%;}
 .two-blks-img-wrap {max-width: 500px;}
+.ecom-page .home-testimonial-slide {margin-bottom: 36px;}
+.home-testimonial-wrap-circle-2 {width: 450px;height: 450px;}
 }
 @media screen and (max-width:1399px) and (min-width:1200px){
 .h1,h1{font-size:52px;line-height:64px}
