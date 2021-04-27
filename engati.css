@@ -99,11 +99,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
   .two-blks-wrap .two-blks-img {max-width: 500px;}
   .ecom-page .home-testimonial-wrap-2 {padding-bottom: 64px;}
   .ecom-page .home-testimonial-slide {margin-bottom: 40px;}
-  .pr-feature-resources-col-left {
-    overflow: hidden;
-    height: 400px;
-    border-radius: 10px;
-  }
+  .pr-feature-resources-col-left {overflow: hidden;height: 400px;border-radius: 10px;}
 }
 @media screen and (max-width:1599px) {
 .footer-links-title{font-size:16px;line-height:24px}
@@ -164,24 +160,14 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .table-of-contents{min-width:200px}
 .rev-box-sec .pr-sec-top-triangle.triangle-white{top:77px}
 
+.four-logo-grid {max-width: 80%;margin: 60px auto auto;}
+.four-logo-grid-logo-wrap {min-height: 50px;}
+.four-logo-grid-logo-wrap .four-logo-grid-logo {max-height: 50px;}
+.percent-blk-wrap {margin: 60px auto auto;max-width: 80%;}
+.two-blks-img-wrap {max-width: 400px;}
+.home-testimonial-slide {margin-bottom: 40px;}
+.pr-section-2.guide-sec {padding-bottom: 40px;}
 
-.four-logo-grid {
-	max-width: 80%;
-	margin: 60px auto auto;
-}
-.four-logo-grid-logo-wrap {
-  min-height: 50px;
-}
-.four-logo-grid-logo-wrap .four-logo-grid-logo {
-	max-height: 50px;
-}
-.percent-blk-wrap {
-	margin: 60px auto auto;
-	max-width: 80%;
-}
-.two-blks-img-wrap {
-	max-width: 400px;
-}
 .pr-feature-resources-col-left {height: 400px;}
 .footer-main .footer-links.footer-links-subheading{cursor:inherit}
 .footer-main .footer-links,.footer-main .footer-links.footer-links-subheading{line-height:20px;margin-bottom:12px}
