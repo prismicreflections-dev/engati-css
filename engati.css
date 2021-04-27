@@ -97,6 +97,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 @media screen and (max-width:1699px) and (min-width:1500px){
   .pr-section-2 .pr-container-1420{max-width:1240px;padding:0 15px}
   .two-blks-wrap .two-blks-img {max-width: 500px;}
+  .ecom-page .home-testimonial-wrap-2 {padding-bottom: 64px;}
 }
 @media screen and (max-width:1599px) {
 .footer-links-title{font-size:16px;line-height:24px}
