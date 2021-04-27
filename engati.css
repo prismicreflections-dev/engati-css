@@ -98,6 +98,9 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 	left: -24px;
 	width: 650px;
 }
+.travel-page .case-study-img-wrap {
+  min-height: 550px;
+}
 @media screen and (min-width:1699px){
   .ecom-page .pr-hero-section {padding-top: 140px;padding-bottom: 120px;}  
   .ecom-page.travel-page .pr-hero-section {padding-bottom: 200px;}
