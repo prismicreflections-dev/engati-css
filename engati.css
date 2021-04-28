@@ -348,11 +348,16 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .text-white{color:#fff!important}
 .text-center{text-align:center!important}
 body{overflow-x:hidden}
-.mt100{margin-top:100px!important}
-.mb100{margin-bottom:100px!important}
+.mb20{margin-bottom:20px!important}
 .mb30{margin-bottom:30px!important}
 .mb60{margin-bottom:60px!important}
+.mb100{margin-bottom:100px!important}
+.mb120{margin-bottom:120px!important}
+.mb130{margin-bottom: 130px !important;}
+.mb200{margin-bottom:200px!important}
 .mt0{margin-top:0!important}
+.mt60{margin-top:60px!important}
+.mt100{margin-top:100px!important}
 .mr0{margin-right:0!important}
 .mb0{margin-bottom:0!important}
 .ml0{margin-left:0!important}
@@ -360,9 +365,8 @@ body{overflow-x:hidden}
 .pr0{padding-right:0!important}
 .pb0{padding-bottom:0!important}
 .pl0{padding-left:0!important}
-.mt60{margin-top:60px!important}
-.mb120{margin-bottom:120px!important}
-.mb200{margin-bottom:200px!important}
+
+
 .pb250{padding-bottom:250px!important}
 .wid50{width:50%}
 .wid40{width:40%}
