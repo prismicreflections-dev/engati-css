@@ -523,6 +523,8 @@ body{overflow-x:hidden}
 .lang-37-box img{width:250px}
 .pr-section-common.grey-triangle-before.pb250 .column-pl.mt100 .box-wrap.border-orange{margin-right:30px;margin-left:30px}
 .w-layout-grid.social-icon-wrapper img{width:80px}
+.subscribe-section .pr-container-4 {max-width: 1160px !important;}
+.pr-section-2.pr-footer-section .footer-wrap-2 {max-width: 1160px !important;}
 }
 @media (min-width:991px){
 .hide-desktop{display:none!important}
