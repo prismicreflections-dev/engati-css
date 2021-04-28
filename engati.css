@@ -496,8 +496,8 @@ body{overflow-x:hidden}
 .tabs-menu-2.tab-menu-adj.w-tab-menu{margin-right:-30px;width:553px}
 .h-550-wrap img,.h-550-wrap>div{height:550px}
 .flexbox-cx.mb100.pr-container-wrap-adj{max-width:1420px}
-.tab-banner-left-image {width: 600px;max-width: inherit;left: 50px;position: relative;}
-.tab-banner-right-image {width: 600px;max-width: inherit;right: 50px;position: relative;}
+.pr-tab-updated .pr-tabs-content .pr-tab-pane img.tab-banner-left-image {width: 600px;max-width: inherit;left: 50px;position: relative;}
+.pr-tab-updated .pr-tabs-content .pr-tab-pane img.tab-banner-right-image {width: 600px;max-width: inherit;right: 50px;position: relative;}
 }
 @media (min-width:1200px) and (max-width:1599px){
 .flexbox-cx.mb100.pr-container-wrap-adj{max-width:1160px}
@@ -529,8 +529,8 @@ body{overflow-x:hidden}
 .w-layout-grid.social-icon-wrapper img{width:80px}
 .subscribe-section .pr-container-4 {max-width: 1160px !important;}
 .pr-section-2.pr-footer-section .footer-wrap-2 {max-width: 1160px !important;}
-.tab-banner-left-image {width: 530px;max-width: inherit;left: 30px;position: relative;}
-.tab-banner-right-image {width: 530px;max-width: inherit;right: 30px;position: relative;}
+.pr-tab-updated .pr-tabs-content .pr-tab-pane img.tab-banner-left-image {width: 530px;max-width: inherit;left: 30px;position: relative;}
+.pr-tab-updated .pr-tabs-content .pr-tab-pane img.tab-banner-right-image {width: 530px;max-width: inherit;right: 30px;position: relative;}
 }
 @media (min-width:991px){
 .hide-desktop{display:none!important}
