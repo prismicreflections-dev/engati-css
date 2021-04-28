@@ -550,11 +550,12 @@ body{overflow-x:hidden}
 .w-layout-grid.social-icon-wrapper img{width:80px}
 .subscribe-section .pr-container-4 {max-width: 1160px !important;}
 .pr-section-2.pr-footer-section .footer-wrap-2 {max-width: 1160px !important;}
-.pr-tab-updated .pr-tabs-content .pr-tab-pane img.tab-banner-left-image {width: 530px;max-width: inherit;left: 30px;position: relative; max-height: inherit;}
-.pr-tab-updated .pr-tabs-content .pr-tab-pane img.tab-banner-right-image {width: 530px;max-width: inherit;right: 30px;position: relative; max-height: inherit;}
+.pr-tab-updated .pr-tabs-content .pr-tab-pane img.tab-banner-left-image {width: 500px;max-width: inherit;left: 30px;position: relative; max-height: inherit;}
+.pr-tab-updated .pr-tabs-content .pr-tab-pane img.tab-banner-right-image {width: 500px;max-width: inherit;right: 30px;position: relative; max-height: inherit;}
 .home-testimonial-card-3{box-shadow: 3px 3px 30px -5px rgba(0, 0, 0, 0.1) !important;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap {width: 1000px;margin-left: 300px;}
-.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{width: 900px;margin-left: -310px;}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{width: 900px;margin-left: -310px; bottom: -200px;}
+.tabs.pr-tab-updated.pt-200.md-pt0.xs-pt0.w-tabs {padding-top: 120px !important;}
 }
 @media (min-width:991px){
 .hide-desktop{display:none!important}
@@ -567,6 +568,7 @@ body{overflow-x:hidden}
 .footer-links.hiring{top: 20px !important;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap {width: 900px;margin-left: 300px; bottom: -250px;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{width: 900px;margin-left: -300px; bottom: -250px;}
+.tabs.pr-tab-updated.pt-200.md-pt0.xs-pt0.w-tabs {padding-top: 180px !important;}
 
 }
 @media (min-width:768px) and (max-width:1199px){
@@ -594,6 +596,7 @@ body{overflow-x:hidden}
 .lang-37-box img{width:200px}
 .w-layout-grid.social-icon-wrapper img{width:80px}
 .home-testimonial-card-3{box-shadow: 3px 3px 30px -5px rgba(0, 0, 0, 0.1) !important;}
+.tabs.pr-tab-updated.pt-200.md-pt0.xs-pt0.w-tabs {padding-top: 0px !important;}
 }
 @media (min-width:768px) and (max-width:991px){
   .md-pt0{padding-top: 0 !important;}
