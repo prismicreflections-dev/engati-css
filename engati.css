@@ -442,7 +442,7 @@ body{overflow-x:hidden}
 .home-testimonial-wrap.cx.home-testimonial-wrap-adj{margin-bottom:30px}
 .pr-collection-list-wrap.w-dyn-items.w-row .pagination{margin-top:10px}
 .pr-tab-updated .pr-vertical-tab-wrap{display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-items:stretch;align-content:stretch}
-.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link{width:300px;margin-top:0;padding-top:50px;padding-bottom:90px;border-style:solid;border-width:1px;border-color:rgba(64,63,66,.1);border-radius:4px;background-color:transparent;padding-left:27px;padding-right:27px}
+.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link{width:300px;margin-top:0;padding-top:50px;padding-bottom:90px;border-style:solid;border-width:1px;border-color:rgba(64,63,66,.1);border-radius:4px;background:transparent;padding-left:27px;padding-right:27px}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link.w--current{box-shadow:0 16px 35px 0 #d2d2d2;background:#fff}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link.w--current::after{position:absolute;content:url(https://assets.website-files.com/6062c1add12da6add0e4236d/607b9d6c4b263d5959313eab_arrow_rt_red.png);top:auto;right:20px;left:auto;bottom:12px;z-index:1}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link:first-child{margin-right:20px}
