@@ -569,8 +569,9 @@ body{overflow-x:hidden}
 @media (min-width:992px) and (max-width:1199px){
 .pr-section-common{padding-top:90px;padding-bottom:90px}
 .pr-section-common .pr-container-1200,
-.pr-section-common .pr-container-1420{max-width:940px;padding:0 15px}
+.pr-section-common .pr-container-1420{padding:0 15px}
 .pr-section-common .pr-section-heading{margin-bottom:60px;margin-top:0}
+.get-started-section .pl-container-weprovide.w-container {padding: 0 15px;}
 .navbar.pr-navbar.w-nav .nav-link.login{padding-left:0;margin-left:0!important}
 .pr-feature-resources-col-right{position:relative;padding:30px 35px 10px}
 .pr-feature-resources-col-right .text-block-15{margin-bottom:30px}
