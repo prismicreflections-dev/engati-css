@@ -479,6 +479,7 @@ body{overflow-x:hidden}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 .p-20{font-style: normal;font-weight: 500;font-size: 20px;text-align: center;color: #403F42; margin: 20px 0 0;}
 
 
+
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
@@ -550,7 +551,7 @@ body{overflow-x:hidden}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link{width:290px}
 .w-layout-grid.language-grid .language-img{width:100px}
 .lang-37-box img{width:250px}
-.pr-section-common.grey-triangle-before.pb250 .column-pl.mt100 .box-wrap.border-orange{margin-right:30px;margin-left:30px}
+/* .pr-section-common.grey-triangle-before.pb250 .column-pl.mt100 .box-wrap.border-orange{margin-right:30px;margin-left:30px} */
 .w-layout-grid.social-icon-wrapper img{width:80px}
 .subscribe-section .pr-container-4 {max-width: 1160px !important;}
 .pr-section-2.pr-footer-section .footer-wrap-2 {max-width: 1160px !important;}
