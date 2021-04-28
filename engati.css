@@ -601,6 +601,7 @@ body{overflow-x:hidden}
 .navbar.pr-navbar.w-nav .nav-menu.w-nav-menu{background:#ffff;border-bottom:1px solid #ccc;padding-bottom:20px;padding-top:20px;border-top:1px solid #f7f8fa}
 .navbar.pr-navbar.w-nav .nav-link.login{margin-left:0!important;padding-left:20px}
 .navbar.pr-navbar.w-nav .nav-link.exp{margin-top:-8px;padding:10px 20px}
+.w-layout-grid.social-icon-wrapper {margin-top: -90px !important;}
 }
 @media (min-width:768px){
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
