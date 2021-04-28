@@ -463,7 +463,7 @@ body{overflow-x:hidden}
 .card-box-gradient h3{margin:0 0 23px;color:#ee5d0b}
 .card-box-gradient .p-26{max-width:inherit;opacity:.6}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big{overflow: inherit;}
-.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap{ position: absolute; bottom: -160px; width: 1420px; left: 50%; transform: translateX(-50%); margin-left: 410px; -webkit-transform: translateX(-50%); -moz-transform: translateX(-50%); -ms-transform: translateX(-50%); -o-transform: translateX(-50%);}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap{ position: absolute; bottom: -160px; width: 1150px; left: 50%; transform: translateX(-50%); margin-left: 410px; -webkit-transform: translateX(-50%); -moz-transform: translateX(-50%); -ms-transform: translateX(-50%); -o-transform: translateX(-50%);}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap .veticle-bottom-grid{width: 100%;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap img{margin: auto !important;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap .p-20{font-style: normal;font-weight: 500;font-size: 20px;text-align: center;color: #403F42; margin: 20px 0 0;}
