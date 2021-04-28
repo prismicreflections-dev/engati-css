@@ -367,7 +367,7 @@ body{overflow-x:hidden}
 .wid50{width:50%}
 .wid40{width:40%}
 ._w-120{width: 120px !important;}
-.pt-250{padding-top: 250px !important;}
+.pt-200{padding-top: 200px !important;}
 .navbar.pr-navbar.w-nav .nav-container.w-container .nav-menu.w-nav-menu>.nav-link{margin-right:16px;margin-left:16px;width:auto;display:inline}
 .navbar.pr-navbar.w-nav .nav-container.w-container .nav-menu.w-nav-menu>.nav-link>.nav-link{margin-right:0;margin-left:0}
 .navbar.pr-navbar.w-nav .nav-container.w-container .nav-menu.w-nav-menu>.nav-link .nav-link-icon{display:none}
@@ -463,14 +463,14 @@ body{overflow-x:hidden}
 .card-box-gradient h3{margin:0 0 23px;color:#ee5d0b}
 .card-box-gradient .p-26{max-width:inherit;opacity:.6}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big{overflow: inherit;}
-.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap{position: absolute;bottom: -180px;width: 1420px; left: 0;}
-.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap .veticle-bottom-grid{width: 100%;}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap{position: absolute;bottom: -160px;width: 1420px; left: 0;}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap .veticle-bottom-grid{width: 100%; max-width: 1050px;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap img{margin: auto !important;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap .p-20{font-style: normal;font-weight: 500;font-size: 20px;text-align: center;color: #403F42; margin: 20px 0 0;}
 
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big{overflow: inherit;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{position: absolute;bottom: -180px;width: 1420px; right: 0;}
-.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 .veticle-bottom-grid{width: 100%;}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 .veticle-bottom-grid{width: 100%; max-width: 965px;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 img{margin: auto !important;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 .p-20{font-style: normal;font-weight: 500;font-size: 20px;text-align: center;color: #403F42; margin: 20px 0 0;}
 
