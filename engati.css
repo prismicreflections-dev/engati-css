@@ -607,7 +607,6 @@ body{overflow-x:hidden}
 .lang-37-box img{width:200px}
 .w-layout-grid.social-icon-wrapper img{width:80px}
 .home-testimonial-card-3{box-shadow: 3px 3px 30px -5px rgba(0, 0, 0, 0.1) !important;}
-.tabs.pr-tab-updated.pt-200.md-pt0.xs-pt0.w-tabs {padding-top: 0px !important;}
 }
 @media (min-width:768px) and (max-width:991px){
   .pr-section-common{padding-top:90px;padding-bottom:90px}
@@ -654,7 +653,7 @@ body{overflow-x:hidden}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{width: 900px;margin-left: -300px; bottom: -250px;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap,
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 {position: static;bottom: 0;width: 100%;left: auto;transform: none;margin-left: 0;-webkit-transform: none;-moz-transform: none;-ms-transform: none;-o-transform: none;margin-top: 20px;margin-bottom: 40px;}
-
+.tabs.pr-tab-updated.pt-200.md-pt0.xs-pt0.w-tabs {padding-top: 0px !important;}
 
 }
 @media (min-width:768px){
