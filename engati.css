@@ -145,7 +145,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .ecom-page .home-testimonial-slide{margin-bottom:36px}
 .home-testimonial-wrap-circle-2{width:450px;height:450px}
 .pr-feature-resources-col-left{height:380px}
-.subscribe-box-2{max-width:80%}
+/* .subscribe-box-2{max-width:80%} */
 .footer-links.hiring{top:24px}
 }
 @media screen and (max-width:1399px) and (min-width:1200px){
