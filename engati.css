@@ -460,6 +460,13 @@ body{overflow-x:hidden}
 .card-box-gradient{max-width:1120px;margin:auto;background:-moz-linear-gradient(left,rgba(255,219,199,1) 0,rgba(255,255,255,0) 100%);background:-webkit-linear-gradient(left,rgba(255,219,199,1) 0,rgba(255,255,255,0) 100%);background:linear-gradient(to right,rgba(255,219,199,1) 0,rgba(255,255,255,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffdbc7', endColorstr='#00ffffff', GradientType=1 )}
 .card-box-gradient h3{margin:0 0 23px;color:#ee5d0b}
 .card-box-gradient .p-26{max-width:inherit;opacity:.6}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big{overflow: inherit;}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap{position: absolute;bottom: -250px;width: 1420px; left: 0;}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap img{margin: auto !important;}
+
+
+
+
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
