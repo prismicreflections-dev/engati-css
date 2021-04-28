@@ -596,6 +596,7 @@ body{overflow-x:hidden}
 .home-testimonial-card-3{box-shadow: 3px 3px 30px -5px rgba(0, 0, 0, 0.1) !important;}
 }
 @media (min-width:768px) and (max-width:991px){
+  .md-pt0{padding-top: 0 !important;}
 .hide-tab{display:none!important}
 .view-more-btn-wrap-adj{margin-top:-70px!important;margin-bottom:0}
 .div-block-41.pb0.pr-engati-today-sec{padding-top:0}
