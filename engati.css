@@ -534,6 +534,7 @@ body{overflow-x:hidden}
 .pr-section-2.pr-footer-section .footer-wrap-2 {max-width: 1160px !important;}
 .pr-tab-updated .pr-tabs-content .pr-tab-pane img.tab-banner-left-image {width: 530px;max-width: inherit;left: 30px;position: relative; max-height: inherit;}
 .pr-tab-updated .pr-tabs-content .pr-tab-pane img.tab-banner-right-image {width: 530px;max-width: inherit;right: 30px;position: relative; max-height: inherit;}
+.home-testimonial-card-3{box-shadow: 3px 3px 30px -5px rgba(0, 0, 0, 0.1) !important;}
 }
 @media (min-width:991px){
 .hide-desktop{display:none!important}
