@@ -553,6 +553,8 @@ body{overflow-x:hidden}
 .pr-tab-updated .pr-tabs-content .pr-tab-pane img.tab-banner-left-image {width: 530px;max-width: inherit;left: 30px;position: relative; max-height: inherit;}
 .pr-tab-updated .pr-tabs-content .pr-tab-pane img.tab-banner-right-image {width: 530px;max-width: inherit;right: 30px;position: relative; max-height: inherit;}
 .home-testimonial-card-3{box-shadow: 3px 3px 30px -5px rgba(0, 0, 0, 0.1) !important;}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap {width: 1000px;margin-left: 300px;}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{width: 900px;margin-left: -310px;}
 }
 @media (min-width:991px){
 .hide-desktop{display:none!important}
@@ -563,6 +565,9 @@ body{overflow-x:hidden}
 .pr-feature-resources-col-right .text-block-15{margin-bottom:30px}
 .pr-tab-updated .pr-tabs-content{width:400px;height:560px}
 .footer-links.hiring{top: 20px !important;}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap {width: 900px;margin-left: 300px; bottom: -250px;}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{width: 900px;margin-left: -300px; bottom: -250px;}
+
 }
 @media (min-width:768px) and (max-width:1199px){
 .pr-container-wrap-adj{padding-left:20px;padding-right:20px}
@@ -625,6 +630,12 @@ body{overflow-x:hidden}
 .navbar.pr-navbar.w-nav .nav-link.exp{margin-top:-8px;padding:10px 20px}
 .w-layout-grid.social-icon-wrapper{margin-top:-90px!important}
 .footer-links.hiring{top: 20px !important;}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap {width: 900px;margin-left: 300px; bottom: -250px;}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{width: 900px;margin-left: -300px; bottom: -250px;}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap,
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 {position: static;bottom: 0;width: 100%;left: auto;transform: none;margin-left: 0;-webkit-transform: none;-moz-transform: none;-ms-transform: none;-o-transform: none;margin-top: 20px;margin-bottom: 40px;}
+
+
 }
 @media (min-width:768px){
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
