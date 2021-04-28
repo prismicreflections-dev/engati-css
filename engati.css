@@ -91,7 +91,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .home-testimonial-slider .left-arrow{left:-6%;top:50%;right:auto;bottom:auto;transform:translateY(-50%);-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-ms-transform:translateY(-50%);-o-transform:translateY(-50%)}
 .home-testimonial-slider .right-arrow{right:-6%;top:50%;left:auto;bottom:auto;transform:translateY(-50%);-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-ms-transform:translateY(-50%);-o-transform:translateY(-50%)}
 .home-hero-img-blk.ecom-blk{top:-136px;left:-24px}
-.footer-links.hiring{position:absolute;top:36px;left:90px;display:block;background:#816bda;font-weight:400;font-size:12px;line-height:13px;color:#fff;border-radius:40px;-webkit-border-radius:40px;-moz-border-radius:40px;-ms-border-radius:40px;-o-border-radius:40px;padding:4px 10px;z-index:1;cursor:inherit}
+.footer-links.hiring{position:absolute;top:36px;left:80px;display:block;background:#816bda;font-weight:400;font-size:12px;line-height:13px;color:#fff;border-radius:40px;-webkit-border-radius:40px;-moz-border-radius:40px;-ms-border-radius:40px;-o-border-radius:40px;padding:4px 10px;z-index:1;cursor:inherit}
 .travel-page .home-hero-img-blk.ecom-blk{top:-290px;left:-24px;width:650px}
 .travel-page .case-study-img-wrap{min-height:550px}
 @media screen and (min-width:1699px){
