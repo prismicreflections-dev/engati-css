@@ -193,6 +193,8 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .footer-main .footer-links.footer-links-subheading{cursor:inherit}
 .footer-main .footer-links,.footer-main .footer-links.footer-links-subheading{line-height:20px;margin-bottom:12px}
 .footer-links.hiring{top:23px;left:60px;font-size:10px;padding:1px 8px}
+.pr-tabs-wrapper.pr-tabs-wrapper-mobile {max-width: 100%;}
+
 }
 @media screen and (max-width:1199px){
 .h1,h1{font-size:42px;line-height:56px}
@@ -600,7 +602,9 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card {mar
 .case-study-row.reverse-order-adj.w-row {margin-top: 260px;padding-bottom: 20px;}
 .case-study-row.reverse-order-adj.w-row .case-study-inf-blk {position: absolute;bottom: -200px;width: 100vh;right: 0;}
 .case-study-wrap.md-mb-40{margin-bottom: 40px !important;}
-.pr-tabs-wrapper.pt0.pr-tabs-wrapper-mobile {max-width: 100%;}
+.pr-tabs-wrapper.pr-tabs-wrapper-mobile {max-width: 100%;}
+.pr-tabs-wrapper.pr-tabs-wrapper-mobile .tab-img-wrappper{width: 500px;}
+.section-breadcrum .hero-container.pl.w-container{padding: 0 20px;max-width: 100%;}
 
 }
 @media (min-width:768px) and (max-width:1199px){
@@ -676,6 +680,12 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card {mar
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 {position: static;bottom: 0;width: 100%;left: auto;transform: none;margin-left: 0;-webkit-transform: none;-moz-transform: none;-ms-transform: none;-o-transform: none;margin-top: 20px;margin-bottom: 40px;}
 .tabs.pr-tab-updated.pt-200.md-pt0.xs-pt0.w-tabs {padding-top: 0px !important;}
 .get-started-corner-adj{margin-bottom: -90px;margin-top: 100px;}
+.pr-tabs-wrapper.pr-tabs-wrapper-mobile,
+.pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-menu,
+.pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-content{max-width: 100%;}
+.pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-menu.pr-tabs-menu-mobile{max-width: 100%;}
+.pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-link-2.w-tab-link {position: relative;z-index: 3;min-width: 200px;margin: 0 15px;}
+
 }
 @media (min-width:768px){
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
