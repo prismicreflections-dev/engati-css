@@ -323,7 +323,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .sec-bl-li-slider{margin-bottom:0}
 .sec-bl-li-slider .home-testimonial-slider .home-testimonial-slide{margin-bottom:0}
 .pr-hero-section{padding:10px 0}
-.banking-sec-ttl{font-size:20px;line-height:30px}
+/* .banking-sec-ttl{font-size:20px;line-height:30px} */
 .industries-blk .industries-blk-body .p-20.mt-20{margin:12px 0}
 .pr-counter-wrapper-2 .pr-counter-block h5{font-size:26px}
 .pr-tabs-wrapper{max-width:100%}
@@ -714,7 +714,11 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .xs-mt0{margin-top:0!important}
 .xs-pd0{padding: 0 !important;}
 .xs-pb0{padding-bottom:0!important}
+.xs-mt50{margin-top: 50px !important;}
+.xs-mt70{margin-top: 70px !important;}
 .xs-pt0{padding-top:0!important}
+.xs-pl0{padding-left: 0 !important;}
+.xs-pr0{padding-right: 0 !important;}
 .hide-mobile{display:none!important}
 .w-nav-overlay{height:calc(100vh - 86px)!important}
 .navbar.pr-navbar.w-nav .nav-container.w-container .w-nav-brand{padding-left:0!important}
