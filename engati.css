@@ -751,7 +751,8 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .four-buttons{padding:4px 20px;font-size:12px;margin-right:7px;margin-left:7px}
 .subscribe-section>.pr-container-4>.subscribe-box-2{max-width:100%;margin-right:15px;margin-left:15px}
 .slider.home-testimonial-slider.engati-cx-today-adj.w-slider .home-testimonial-slide-inner .block-grid .blog-card{margin-bottom:20px;max-width:100%;margin-left:auto;margin-right:auto}
-.footer-wrap-2{max-width:97%}
+.footer-wrap-2{max-width:100% !important;}
+.footer-wrap-2 > .w-col{padding: 0 !important;}
 .home-testimonial-slide-inner.xs-mb15-adj .blog-card a.heading-40,.pr-collection-list-wrap .blog-card .blog-content a.heading-40{position:static!important}
 .div-block-41.pb0.pr-engati-today-sec::before{border-width:0 50vw 30px;top:-30px}
 .flexbox-cx-bottom.pb0.pr-engati-offering-sec::before{border-width:0 50vw 30px;top:-30px}
