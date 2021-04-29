@@ -598,7 +598,7 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card {mar
 .case-study-img-wrap.case-study-img-wrap-tab {min-height: 380px;}
 .case-study-img-wrap.case-study-img-wrap-tab + .case-study-inf-blk.case-study-inf-blk-tab{position: absolute;bottom: -200px;width: 100vh;left: 0;right: 0;}
 .case-study-row.reverse-order-adj.w-row {margin-top: 260px;padding-bottom: 20px;}
-.case-study-row.reverse-order-adj.w-row .case-study-row.reverse-order-adj.w-row .case-study-inf-blk {position: absolute;bottom: -200px;width: 100vh;right: 0;}
+.case-study-row.reverse-order-adj.w-row .case-study-inf-blk {position: absolute;bottom: -200px;width: 100vh;right: 0;}
 .case-study-wrap.md-mb-40{margin-bottom: 40px !important;}
 
 }
