@@ -485,7 +485,9 @@ body{overflow-x:hidden}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 .p-20{font-style: normal;font-weight: 500;font-size: 20px;text-align: center;color: #403F42; margin: 20px 0 0;}
 .case-study-inf-wrap-adj .case-study-inf {margin-right: 40px;min-width: 150px;}
 .case-study-inf-wrap-adj .case-study-inf:last-child{margin-right: 0;}
-
+.case-study-row.reverse-order-adj.w-row {margin-top: 160px;}
+.case-study-row.reverse-order-adj.w-row .case-study-rt {padding: 25px 100px 25px 25px;}
+.case-study-row.reverse-order-adj.w-row .case-study-inf-blk{left: auto; right: 20%;}
 
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
