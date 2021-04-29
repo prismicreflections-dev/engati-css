@@ -824,6 +824,8 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .case-study-img-wrap.case-study-img-wrap-tab img.case-study-img{width: 100%;}
 .section-breadcrum .hero-container.pl.w-container {padding: 0 20px;max-width: 100%;}
 .case-study-row.case-study-row-mobile .p-20-2.case-study-p {font-size: 15px;line-height: normal;}
+.pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tab-pane-inner {min-height: inherit;}
+.pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tab-pane{min-height: inherit;}
 
 }
 
