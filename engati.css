@@ -484,6 +484,7 @@ body{overflow-x:hidden}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 img{margin: auto !important;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 .p-20{font-style: normal;font-weight: 500;font-size: 20px;text-align: center;color: #403F42; margin: 20px 0 0;}
 .case-study-inf-wrap-adj .case-study-inf {margin-right: 40px;min-width: 150px;}
+.case-study-inf-wrap-adj .case-study-inf:last-child{margin-right: 0;}
 
 
 @media (min-width:1400px){
