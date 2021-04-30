@@ -827,8 +827,8 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .case-study-row.case-study-row-mobile .case-study-lt,
 .case-study-row.case-study-row-mobile .case-study-rt{width: 100%; padding: 0; margin-top: 20px;}
 .case-study-row.case-study-row-mobile .case-study-inf-blk.case-study-inf-blk-tab {position: static;margin-top: 30px;width: 100%;}
-.case-study-row.case-study-row-mobile .case-study-inf-blk.case-study-inf-blk-tab .case-study-inf-wrap-adj .case-study-inf{margin-right: 10px !important;}
-.case-study-row.reverse-order-adj.w-row {margin-top: 50px;}
+.case-study-row.case-study-row-mobile .case-study-inf-blk.case-study-inf-blk-tab .case-study-inf-wrap-adj .case-study-inf{margin-right: 10px !important; min-width: 130px;}
+.case-study-row.reverse-order-adj.w-row {margin-top: 0px;}
 .case-study-row.reverse-order-adj.w-row .case-study-lt,
 .case-study-row.reverse-order-adj.w-row .case-study-rt{width: 100%; padding: 25px 0 0;}
 .case-study-row.reverse-order-adj.w-row .case-study-inf-blk {position: static;margin-top: 30px;width: 100%;}
@@ -843,6 +843,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tab-pane-inner {min-height: inherit;}
 .pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tab-pane{min-height: inherit;}
 .case-study-row.case-study-row-mobile .case-study-img-wrap.case-study-img-wrap-tab {min-height: 240px;}
+.case-study-row.reverse-order-adj.w-row .case-study-rt {margin-top: 0;}
 }
 
 .four-g-box-shadow-adj{box-shadow: 3px 3px 30px -5px rgb(0 0 0 / 10%);}
