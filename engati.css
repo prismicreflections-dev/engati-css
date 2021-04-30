@@ -630,6 +630,9 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card {mar
 .subscribe-section .pr-container-4 {max-width: 100%;}
 .pr-section-2.pr-footer-section .footer-wrap-2 {max-width: 100%;padding-left: 15px;padding-right: 20px;}
 .about-right-panel {max-width: inherit;float: none;}
+.about-engati-cols.w-row .case-study-inf-wrap-adj .case-study-inf {margin-right: 30px;min-width: 90px;}
+.pr-section-common.grey-triangle-before.about-engati-sec-wrap .pr-container-1420.w-container{padding-top: 30px;}
+.about-engati-sec-wrap.pr-section-common.pb0.pr-testimonial-sect-resp.white-triangle-before.testimonila-about-sec {margin-top: 0 !important;}
 
 }
 @media (min-width:768px) and (max-width:1199px){
