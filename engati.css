@@ -320,7 +320,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .heading-10{font-size:18px;line-height:21px}
 .subscribe-box-2{max-width:100%;margin-left:20px;margin-right:20px}
 .subscribe-box-title-2{font-size:25px;line-height:36px;max-width:100%;margin:0 auto 15px}
-.footer-wrap-2{max-width:100%;padding-top:80px;padding:80px 20px 40px}
+.footer-wrap-2{max-width:100%;padding-top:80px;padding:80px 10px 40px}
 .footer-main .p-14{font-size:14px!important}
 .blog-hero{min-height:calc(100vh - 80px)}
 .blog-hero-card{top:auto;left:20px;bottom:60px}
