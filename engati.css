@@ -833,6 +833,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .case-study-row.reverse-order-adj.w-row .case-study-lt,
 .case-study-row.reverse-order-adj.w-row .case-study-rt{width: 100%; padding: 25px 0 0;}
 .case-study-row.reverse-order-adj.w-row .case-study-inf-blk {position: static;margin-top: 30px;width: 100%;}
+.pr-tabs-menu .pr-tabs-link-2.w--current .pr-tabs-card:after {position: absolute;content: url(https://assets.website-files.com/6062c1add12da6add0e4236d/607b9d6c4b263d5959313eab_arrow_rt_red.png);top: auto;right: 13px;left: auto;bottom: 12px;z-index: 1;width: 24px;height: 20px;display: block;}
 
 .case-study-wrap-mobile.case-study-wrap {margin-bottom: 20px;}
 .pr-feature-resources.w-row>.pr-feature-resources-col-left,
