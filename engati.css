@@ -633,7 +633,7 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card {mar
 .about-engati-cols.w-row .case-study-inf-wrap-adj .case-study-inf {margin-right: 30px;min-width: 90px;}
 .pr-section-common.grey-triangle-before.about-engati-sec-wrap .pr-container-1420.w-container{padding-top: 30px;}
 .about-engati-sec-wrap.pr-section-common.pb0.pr-testimonial-sect-resp.white-triangle-before.testimonila-about-sec {margin-top: 0 !important;}
-
+.pr-section-common.pb0.pr-testimonial-sect-resp.white-triangle-before.testimonila-about-sec {margin-top: 0 !important;}
 }
 @media (min-width:768px) and (max-width:1199px){
 .pr-container-wrap-adj{padding-left:20px;padding-right:20px}
@@ -729,14 +729,16 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card {mar
 .case-study-img-wrap.case-study-img-wrap-tab img.case-study-img{width: 100%;}
 .subscribe-section{padding-top: 60px;}
 .about-right-panel {max-width: inherit;float: none;}
-
+.pr-section-common.pb0.pr-testimonial-sect-resp.white-triangle-before.testimonila-about-sec {margin-top: 0 !important;}
+.pr-section-common.grey-triangle-before.about-engati-sec-wrap .pr-container-1420.w-container {padding-top: 30px !important;}
+.pr-section-common.grey-triangle-before.about-engati-sec-wrap .about-right-panel .recong-img-wrap .recong-img {width: auto;padding: 0 10px;}
+.pr-section-2.pr-footer-section .footer-wrap-2 {max-width: 100%;}
 }
 @media (min-width:768px){
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
 .pr-news-hero-section{background-size: cover !important;}
 .pr-news-hero-section .pr-news-hero-box-inner {bottom: -80px;}
 .mt140-adj{margin-top: 140px !important;}
-
 }
 @media (max-width:767px){
 .pr-section-common{padding-top:60px;padding-bottom:60px}
@@ -871,6 +873,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .case-study-row.case-study-row-mobile .case-study-img-wrap.case-study-img-wrap-tab {min-height: 240px;}
 .case-study-row.reverse-order-adj.w-row .case-study-rt {margin-top: 0;}
 .about-right-panel {max-width: inherit;float: none;}
+.pr-section-common.grey-triangle-before.about-engati-sec-wrap .case-study-inf-wrap-adj .case-study-inf {margin-right: 15px;min-width: 100px;}
 }
 
 
