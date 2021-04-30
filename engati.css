@@ -506,6 +506,7 @@ body{overflow-x:hidden}
 .about-right-panel .recong-row.w-row .p-22 {color: #77777A;}
 .about-right-panel .recong-row.w-row .p-15{font-weight: 600;}
 .about-right-panel .recong-img-wrap .recong-img{width: auto;}
+.about-left-panel .image-responsive{width: 660px;}
 
 
 @media (min-width:1400px){
