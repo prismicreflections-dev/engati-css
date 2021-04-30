@@ -612,6 +612,9 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card {mar
 .pr-tabs-wrapper.pr-tabs-wrapper-mobile {max-width: 100%; margin-top: -50px;}
 .pr-tabs-wrapper.pr-tabs-wrapper-mobile .tab-img-wrappper{width: 500px; max-height: inherit;}
 .section-breadcrum .hero-container.pl.w-container{padding: 0 20px;max-width: 100%;}
+.subscribe-section .pr-container-4 {max-width: 100%;}
+.pr-section-2.pr-footer-section .footer-wrap-2 {max-width: 100%;padding-left: 15px;padding-right: 20px;}
+
 
 }
 @media (min-width:768px) and (max-width:1199px){
