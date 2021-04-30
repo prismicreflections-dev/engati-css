@@ -498,10 +498,14 @@ body{overflow-x:hidden}
 .case-study-row.reverse-order-adj.w-row .case-study-rt {padding: 25px 100px 25px 25px;}
 .case-study-row.reverse-order-adj.w-row .case-study-inf-blk{left: auto; right: 20%;}
 .pr-section-common .pr-section-heading{position: relative; z-index: 3;}
+.about-right-panel{max-width: 600px;}
 .about-right-panel .pr-section-heading.text-left.text-red-adj{margin-bottom: 30px;}
 .about-right-panel .case-study-inf-blk.case-study-inf-blk-tab.about-right-count{margin-top: 37px; margin-bottom: 40px;}
 .about-right-panel .case-study-inf-blk.case-study-inf-blk-tab.about-right-count .case-study-inf-wrap{padding: 13px 27px;}
-
+.about-right-panel .recong-row.w-row{margin-bottom: 30px;}
+.about-right-panel .recong-row.w-row .p-22 {color: #77777A;}
+.about-right-panel .recong-row.w-row .p-15{font-weight: 600;}
+.about-right-panel .recong-img-wrap .recong-img{width: auto;}
 
 
 @media (min-width:1400px){
