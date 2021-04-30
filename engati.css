@@ -580,6 +580,9 @@ body{overflow-x:hidden}
 .get-started-corner-adj{margin-bottom: -90px;margin-top: 100px;}
 .case-study-inf-wrap-adj .case-study-inf {margin-right: 3px;min-width: 150px;}
 .tab-img-adj-lg{width: 500px;max-width: inherit;}
+.pr-container-1420.xs-pl0.xs-pr0 .pr-section-heading.xs-mt70 {margin-top: 20px;}
+.pr-container-1420.xs-pd0.xs-mt70 .pr-section-heading{margin-top: 20px;}
+.pr-section-common.white-triangle-before.pr-section-3.xs-pb0 .pr-section-title {margin-bottom: 80px;}
 }
 @media (min-width:991px){
 .hide-desktop{display:none!important}
