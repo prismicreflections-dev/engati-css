@@ -101,6 +101,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .pr-tabs-menu.lg-left-17.pr-tabs-menu-mobile.w-tab-menu {padding-top: 10px;}
 .pr-container-1420.xs-pl0.xs-pr0 .pr-section-heading.xs-mt70 {margin-top: 20px;}
 .pr-container-1420.xs-pd0.xs-mt70 .pr-section-heading{margin-top: 20px;}
+.pr-section-common.white-triangle-before.pr-section-3.xs-pb0 .pr-section-title {margin-bottom: 80px;}
 }
 @media screen and (max-width:1919px) and (min-width:1600px){
 .home-testimonial-slide{margin-bottom:70px}
