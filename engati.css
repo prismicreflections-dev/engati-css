@@ -630,7 +630,7 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card {mar
 .subscribe-section .pr-container-4 {max-width: 100%;}
 .pr-section-2.pr-footer-section .footer-wrap-2 {max-width: 100%;padding-left: 15px;padding-right: 20px;}
 .about-right-panel {max-width: inherit;float: none;}
-.about-engati-cols.w-row .case-study-inf-wrap-adj .case-study-inf {margin-right: 30px;min-width: 90px;}
+.about-engati-cols.w-row .case-study-inf-wrap-adj .case-study-inf {margin-right: 20px;min-width: 90px;}
 .pr-section-common.grey-triangle-before.about-engati-sec-wrap .pr-container-1420.w-container{padding-top: 30px;}
 .about-engati-sec-wrap.pr-section-common.pb0.pr-testimonial-sect-resp.white-triangle-before.testimonila-about-sec {margin-top: 0 !important;}
 .pr-section-common.pb0.pr-testimonial-sect-resp.white-triangle-before.testimonila-about-sec {margin-top: 0 !important;}
@@ -733,6 +733,7 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card {mar
 .pr-section-common.grey-triangle-before.about-engati-sec-wrap .pr-container-1420.w-container {padding-top: 30px !important;}
 .pr-section-common.grey-triangle-before.about-engati-sec-wrap .about-right-panel .recong-img-wrap .recong-img {width: auto;padding: 0 10px;}
 .pr-section-2.pr-footer-section .footer-wrap-2 {max-width: 100%;}
+.about-engati-cols.w-row .case-study-inf-wrap-adj .case-study-inf {margin-right: 20px;min-width: inherit;}
 }
 @media (min-width:768px){
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
