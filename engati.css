@@ -812,8 +812,9 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link{width:100%;margin-top:0;padding-top:20px;padding-bottom:20px;border-style:solid;border-width:1px;border-color:rgba(64,63,66,.1);border-radius:4px;padding-left:20px;padding-right:20px;margin-bottom:20px}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link h1{margin-top:0;margin-bottom:0}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab{position:relative;padding-left:70px}
-.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link p{margin-top:10px}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab img{position:absolute;top:0;left:0;z-index:3}
+.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab h6 + img{display: none;}
+.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link p{margin-top:10px}
 .pr-tab-updated{display:flex!important;flex-direction:column!important}
 .pr-tab-updated .pr-tabs-content{width:100%;max-width:100%;margin-bottom:20px;margin-top:60px;height:inherit}
 .pr-tab-updated .pr-tabs-content.pr-order-first .pr-tab-pane{padding-right:0}
