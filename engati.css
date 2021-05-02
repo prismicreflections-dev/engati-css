@@ -671,6 +671,7 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card {mar
 .pr-section-common .pr-section-heading{margin-bottom:60px;margin-top:0}
 
   .md-pt0{padding-top: 0 !important;}
+  .md-mt0px{margin-top: 0 !important;}
 .hide-tab{display:none!important}
 .view-more-btn-wrap-adj{margin-top:-70px!important;margin-bottom:0}
 .div-block-41.pb0.pr-engati-today-sec{padding-top:0}
@@ -737,6 +738,9 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card {mar
 .pr-section-common.grey-triangle-before.about-engati-sec-wrap .about-right-panel .recong-img-wrap .recong-img {width: auto;padding: 0 10px;}
 .pr-section-2.pr-footer-section .footer-wrap-2 {max-width: 100%;}
 .about-engati-cols.w-row .case-study-inf-wrap-adj .case-study-inf {margin-right: 20px;min-width: inherit;}
+.w-layout-grid.number-counter-grid.mb80 h2{font-size: 34px;}
+.pr-section-common.grey-triangle-before.pb120 .flexbox-pl-weprovide.upper.mb80.conve-sect {margin-bottom: 0 !important;}
+
 }
 @media (min-width:768px){
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
