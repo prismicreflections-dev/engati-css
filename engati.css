@@ -742,6 +742,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .mt140-adj{margin-top: 140px !important;}
 }
 @media (max-width:767px){
+  .xs-mt-30{margin-top: -30px !important;}
   .xs-pr10{padding-right: 10px !important;}
   .xs-pl10{padding-left: 10px !important;}
 .pr-section-common{padding-top:60px;padding-bottom:60px}
