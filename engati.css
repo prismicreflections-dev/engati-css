@@ -838,7 +838,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{width:auto;margin-left:0;bottom:0}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap,.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{position:static;bottom:0;width:100%;left:auto;transform:none;margin-left:0;-webkit-transform:none;-moz-transform:none;-ms-transform:none;-o-transform:none;margin-top:20px;margin-bottom:40px}
 .get-started-corner-adj{margin-bottom:-60px;margin-top:100px}
-.pr-section-common.get-started-section.grey-triangle-before .pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white.get-started-corner-adj{border-width:0 50vw 50px}
+.pr-section-common.get-started-section.grey-triangle-before .pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white.get-started-corner-adj{border-width:0 50vw 50px; margin-top: 60px;}
 .pr-tabs-wrapper.pr-tabs-wrapper-mobile,.pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-content,.pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-menu{max-width:100%}
 .pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-link-2.w-tab-link{margin:0 0 20px}
 .pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-menu.pr-tabs-menu-mobile{max-width:100%}
