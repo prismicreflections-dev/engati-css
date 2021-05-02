@@ -741,7 +741,9 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card {mar
 .w-layout-grid.number-counter-grid h2{font-size: 34px;}
 .pr-section-common.grey-triangle-before.pb120 .flexbox-pl-weprovide.upper.mb80.conve-sect {margin-bottom: 0 !important;}
 .card-blog.live-chat-link img {width: auto!important;margin-right: 20px;height: auto !important;}
-
+.flexbox-pl-weprovide.conve-sect .flex-right.wid40.md-mr0-adj {width: 100%;}
+.pr-section-common.grey-triangle-before.pb120 > div > div:nth-child(4) > div.flex-right.wid40.md-mr0-adj {width: 100%;}
+.pr-section-common.white-triangle-before.pr-tab-section-resp {margin-top: 0 !important;}
 }
 @media (min-width:768px){
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
