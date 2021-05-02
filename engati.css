@@ -868,7 +868,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .w-layout-grid.number-counter-grid div{font-size:16px}
 .w-layout-grid.number-counter-grid div br{display:none}
 .pr-section-common.grey-triangle-before.pb120 .flexbox-pl-weprovide.upper.mb80.conve-sect{margin-bottom:0!important;margin-top:10px!important}
-.card-blog.live-chat-link img{width:auto!important;margin-right:20px;height:auto!important}
+.card-blog.live-chat-link img {width: auto!important;margin-right: 15px;height: auto!important;max-width: 46px;position: relative;top: -5px;}
 .flex-right.wid40{width:100%}
 .pr-section-common.white-triangle-before.pr-tab-section-resp{margin-top:0!important}
 .pr-tabs-content.pr-order-first.pr-tabs-content-big.w-tab-content{margin-top:20px}
