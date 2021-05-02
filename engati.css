@@ -801,7 +801,9 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link h1{margin-top:0;margin-bottom:0}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab{position:relative;padding-left:70px}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab img{position:absolute;top:0;left:0;z-index:3}
+.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab h6{margin-top: 5px; margin-bottom: 0;}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab h6+img{display:none}
+.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab p{margin-bottom: 0;}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link p{margin-top:10px}
 .pr-tab-updated{display:flex!important;flex-direction:column!important}
 .pr-tab-updated .pr-tabs-content{width:100%;max-width:100%;margin-bottom:20px;margin-top:60px;height:inherit}
@@ -831,11 +833,12 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .w-layout-grid.social-icon-wrapper img{width:60px}
 .footer-links.hiring{top:20px!important;left:56px!important}
 .home-testimonial-card-3{box-shadow:3px 3px 30px -5px rgba(0,0,0,.1)!important}
-.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap img,.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 img{width:50px}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap img,.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 img{max-width:50px; width: auto;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap{width:auto;margin-left:0;bottom:0}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{width:auto;margin-left:0;bottom:0}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap,.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{position:static;bottom:0;width:100%;left:auto;transform:none;margin-left:0;-webkit-transform:none;-moz-transform:none;-ms-transform:none;-o-transform:none;margin-top:20px;margin-bottom:40px}
-.get-started-corner-adj{margin-bottom:-90px;margin-top:100px}
+.get-started-corner-adj{margin-bottom:-60px;margin-top:100px}
+.pr-section-common.get-started-section.grey-triangle-before .pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white.get-started-corner-adj{border-width: 0px 50vw 50px;}
 .pr-tabs-wrapper.pr-tabs-wrapper-mobile,.pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-content,.pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-menu{max-width:100%}
 .pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-link-2.w-tab-link{margin:0 0 20px}
 .pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-menu.pr-tabs-menu-mobile{max-width:100%}
@@ -873,8 +876,10 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .get-started-section .get-started-head{margin-bottom:40px;margin-top:60px}
 .get-started-section .get-started-head .p-26{font-size:16px;line-height:160%}
 .get-started-section .get-started-tabs{display:flex;flex-direction:column}
-.get-started-section .w-tab-menu{flex-direction:row}
-.get-started-section .w-tab-menu .w-tab-link{padding:23px 15px;width:50%;min-height:inherit}
+.get-started-section .w-tab-menu{flex-direction:row; width: 100%;}
+.get-started-section .w-tab-menu .w-tab-link{padding:23px 15px;width:45%;min-height:inherit}
+.get-started-section .w-tab-menu .w-tab-link:first-child{margin-right: 5%;}
+.get-started-section .tabs-content-2.w-tab-content{width: 100%; padding: 0;}
 .get-started-section .w-tab-menu .w-tab-link .we-enable-tab{display:flex;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-items:center;align-content:center}
 .get-started-section .w-tab-menu .w-tab-link .we-enable-tab h1{margin-top:0!important;font-size:16px;margin-left:10px!important;text-align:left}
 .pr-section-common.grey-triangle-before.pb120.xs-mt-30.xs-pb60 .pr-container-1420.md-pt0-adj.xs-mt60 .flexbox-pl-weprovide.conve-sect.xs-mt60 .flex-left{margin-left:0!important}
