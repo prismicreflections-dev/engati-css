@@ -862,8 +862,8 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-section-common.pb0.pr-testimonial-sect-resp.white-triangle-before.testimonila-about-sec .pr-container-2{margin-top:80px}
 .about-engati-cols.w-row .case-study-inf-wrap-adj .case-study-inf{margin-right:20px;min-width:inherit}
 .w-layout-grid.number-counter-grid h2{font-size:24px}
-.w-layout-grid.number-counter-grid p{font-size:16px}
-.w-layout-grid.number-counter-grid p br{display:none}
+.w-layout-grid.number-counter-grid div{font-size:16px}
+.w-layout-grid.number-counter-grid div br{display:none}
 .pr-section-common.grey-triangle-before.pb120 .flexbox-pl-weprovide.upper.mb80.conve-sect{margin-bottom:0!important;margin-top:10px!important}
 .card-blog.live-chat-link img{width:auto!important;margin-right:20px;height:auto!important}
 .flex-right.wid40{width:100%}
