@@ -897,7 +897,10 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-section-common.grey-triangle-before.pb120.xs-mt-30.xs-pb60 .pr-container-1420.md-pt0-adj.xs-mt60 .flexbox-pl-weprovide.conve-sect.xs-mt60 .flex-left{margin-left:0!important}
 .number-counter-grid .box-wrap{padding:15px 25px 15px;position:relative;overflow:hidden}
 .number-counter-grid .box-wrap img{top:0;right:-50px;z-index:3;position:absolute;padding-top:0!important;width:190px}
+.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab h6,
 .pr-tabs-card-ttl {font-size: 17px;line-height: 22px;}
+.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab h6 br,
 .pr-tabs-card-ttl br{display: none;}
+.pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab p,
 .pr-tabs-card .pr-tabs-card-p {font-size: 13px;line-height: 20px;}
 }
