@@ -546,6 +546,7 @@ body{overflow-x:hidden}
 .get-started-corner-adj{margin-bottom:-90px;margin-top:100px}
 }
 @media (min-width:1200px) and (max-width:1599px){
+.lg-pt30{padding-top: 30px !important;}
 .max-h-550{max-height:550px}
 .flexbox-cx.mb100.pr-container-wrap-adj{max-width:1160px}
 .flexbox-cx.mb100.pr-container-wrap-adj .heading-37{margin-bottom:25px!important}
