@@ -593,7 +593,7 @@ body{overflow-x:hidden}
 .hide-desktop{display:none!important}
 }
 @media (min-width:992px) and (max-width:1199px){
-    .w-800-md-adj{width: 800px;}
+    ._w-800-md-adj{width: 800px;}
     .w-layout-grid.language-grid{padding-top: 0;}
 .w-layout-grid.language-grid .language-img {width: 90px;}
 .md-mt0-adj{margin-top:0!important}
