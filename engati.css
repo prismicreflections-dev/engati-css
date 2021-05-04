@@ -361,22 +361,11 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .footer-main .footer-links.footer-links-subheading{cursor:inherit}
 
 .ecom-page .pr-hero-section {padding-top: 20px;padding-bottom: 0;}
-.home-hero-img-blk.ecom-blk {
-	top: 0;
-	left: 0;
-	padding: 30px 0;
-}
-.ecom-page .four-col-sec,
-.ecom-page .percent-sec {
-  padding-top: 0;
-  padding-bottom: 50px;
-}
-.grey-triangle-before {
-	padding-top: 40px;
-}
-.white-triangle-before {
-	padding-top: 40px;
-}
+.home-hero-img-blk.ecom-blk {top: 0;left: 0;padding: 30px 0;}
+.ecom-page .four-col-sec, .ecom-page .percent-sec { padding-top: 0;padding-bottom: 50px;}
+.grey-triangle-before {padding-top: 40px;}
+.white-triangle-before {padding-top: 40px;}
+.case-study-img-wrap {width: 100%;min-height: 260px;}
 
 .footer-main .footer-links,.footer-main .footer-links.footer-links-subheading{line-height:20px;margin-bottom:12px}
 .blogs-card-mob-slide-wrap div.w-slider div.w-slider-nav.w-round div.w-slider-dot.w-active{background-color:#222;width:24px;height:8px;background:#ee5d0b;border-radius:8px;opacity:1}
