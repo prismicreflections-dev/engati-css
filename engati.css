@@ -775,6 +775,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .flex-revers-colums-xs{display:flex!important;flex-direction:column-reverse!important}
 .xs-mt-20{margin-top:-20px!important}
 .flexbox-cx.mb100.pr-container-wrap-adj.xs-mb0{margin-bottom:0!important}
+.xs-mb60{margin-bottom: 60px !important;}
 .xs-mb15{margin-bottom:15px!important}
 .xs-mb0{margin-bottom:0!important}
 .xs-mt0{margin-top:0!important}
@@ -938,8 +939,9 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab h6 br,.pr-tabs-card-ttl br{display:none}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab p,.pr-tabs-card .pr-tabs-card-p{font-size:13px;line-height:20px}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link.w--current::after{top:auto;right:10px;left:auto;bottom:5px}
-.pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-ul li::before{margin-left:-28px;font-size:28px;top:2px;position:relative;left:10px}
+.pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-ul li::before{margin-left:-28px;font-size:24px;top:2px;position:relative;left:15px}
 .home-testimonial-card-3.pr-busi-slider-card{margin-bottom:0!important}
+.home-testimonial-card-3.pr-busi-slider-card .testimonial-blk-company .testimonial-blk-company img {max-width: 100px;}
 .pr-sect-busi-card-wrap .revolution-box-2.revolution-box-mt-50{margin-top:-155px;max-width:100%;padding:20px 15px}
 .pr-sect-busi-card-wrap .pr-busi-para{font-size:15px;line-height:24px}
 .pr-sect-busi-card-wrap .testimonial-blk.testi-repeat{min-height:inherit}
@@ -947,4 +949,5 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-sect-busi-card-wrap .revol-adj.button-8.revol .revol-btn-bg{display:none!important}
 form.search.w-form .search-input{height:38px}
 form.search.w-form .search-button{width:38px;height:38px}
+
 }
