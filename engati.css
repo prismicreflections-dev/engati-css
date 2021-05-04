@@ -916,15 +916,39 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link.w--current::after{top:auto;right:10px;left:auto;bottom:5px}
 }
 .pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-heding{margin-top: 0; margin-bottom: 20px;}
-.pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-ul{margin-top: 30px;  list-style: none; padding-left: 28px;}
+.pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-ul{margin-top: 20px;  list-style: none; padding-left: 28px;}
 .pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-ul li{margin-bottom: 8px;}
 .pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-ul li::before {
     content: "\2022";
-    color: red;
+    color: #AE1535;
     font-weight: bold;
     display: inline-block;
     margin-left: -28px;
     font-size: 40px;
     width: 30px;
     vertical-align: middle;
+    top: 2px;
+    position: relative;
 }
+.pr-sect-busi-card-wrap .revol-adj.button-8.revol{
+    margin-top: -22px;
+    margin-left: -90px;
+    position: absolute;
+    z-index: 9;
+}
+.pr-sect-busi-card-wrap .revolution-box-2.revolution-box-mt-50{margin-top: -155px;}
+.pr-sect-busi-card-wrap .pr-busi-para{font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: #686873;}
+
+    .home-testimonial-card-3.pr-busi-slider-card{
+        padding: 23px 25px;
+    }    
+    .home-testimonial-card-3.pr-busi-slider-card .home-testimonial-card-body-txt{font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 25px;
+        color: #686873;}
