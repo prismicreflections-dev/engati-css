@@ -576,6 +576,7 @@ body{overflow-x:hidden}
 .pr-sect-busi-card-wrap .pr-busi-para{font-style:normal;font-weight:400;font-size:18px;line-height:30px;text-align:center;color:#686873}
 .home-testimonial-card-3.pr-busi-slider-card{padding:23px 25px}
 .home-testimonial-card-3.pr-busi-slider-card .home-testimonial-card-body-txt{font-style:normal;font-weight:400;font-size:16px;line-height:25px;color:#686873}
+.top-cate-btn-wrap-adj.top-cate-btn-wrap-adj3{overflow: auto; justify-content: flex-start; -webkit-justify-content: flex-start;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
@@ -661,6 +662,7 @@ body{overflow-x:hidden}
 .pr-container-1420.xs-pd0.xs-mt70 .pr-section-heading{margin-top:20px}
 .pr-section-common.white-triangle-before.pr-section-3.xs-pb0 .pr-section-title{margin-bottom:80px}
 .pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-ul li::before{margin-left:-28px;font-size:32px;top:2px;position:relative;left:5px}
+.home-testimonial-wrap-circle-3.home-testimonial-wrap-circle-lg {top: 70px;width: 700px;height: 700px;}
 }
 @media (min-width:991px){
 .hide-desktop{display:none!important}
@@ -669,6 +671,7 @@ body{overflow-x:hidden}
 ._w-800-md-adj{width:800px}
 .w-layout-grid.language-grid{padding-top:0}
 .w-layout-grid.language-grid .language-img{width:90px}
+.md-pt100-adj{padding-top: 100px !important;}
 .md-mt0-adj{margin-top:0!important}
 .md-pb30-adj{padding-bottom:30px!important}
 .md-pt30-adj{padding-top:30px!important}
@@ -691,7 +694,7 @@ body{overflow-x:hidden}
 .pr-section-common.white-triangle-before.pr-tab-section-resp{margin-top:0!important}
 div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card{margin-left:20px!important}
 .case-study-img-wrap.case-study-img-wrap-tab{min-height:380px}
-.case-study-img-wrap.case-study-img-wrap-tab+.case-study-inf-blk.case-study-inf-blk-tab{position:absolute;bottom:-200px;width:100vh;left:0;right:0}
+.case-study-img-wrap.case-study-img-wrap-tab+.case-study-inf-blk.case-study-inf-blk-tab{position:absolute;bottom:-170px;width:100vh;left:0;right:0}
 .case-study-row.reverse-order-adj.w-row{margin-top:260px;padding-bottom:20px}
 .case-study-row.reverse-order-adj.w-row .case-study-inf-blk{position:absolute;bottom:-200px;width:100vh;right:0}
 .case-study-wrap.md-mb-40{margin-bottom:40px!important}
@@ -707,7 +710,8 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card{marg
 .pr-section-common.pb0.pr-testimonial-sect-resp.white-triangle-before.testimonila-about-sec{margin-top:0!important}
 .pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-ul li::before{margin-left:-28px;font-size:28px;top:2px;position:relative;left:10px}
 .grid-14.custom-6-grid.mb90 {margin-bottom: 30px;}
-
+.case-study-row.case-study-row-mobile.mt160 {margin-top: 250px;}
+.home-testimonial-wrap-circle-3.home-testimonial-wrap-circle-lg {top: 70px;width: 700px;height: 700px;}
 }
 @media (min-width:768px) and (max-width:1199px){
 .pr-container-wrap-adj{padding-left:20px;padding-right:20px}
@@ -740,6 +744,7 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card{marg
 .md-pb30{padding-bottom:30px!important}
 .md-pt30{padding-top:30px!important}
 .md-pt0{padding-top:0!important}
+.md-mt50{margin-top: 50px !important;}
 .md-mt0px{margin-top:0!important}
 .hide-tab{display:none!important}
 .view-more-btn-wrap-adj{margin-top:-70px!important;margin-bottom:0}
@@ -810,6 +815,11 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card{marg
 .w-layout-grid.language-grid .language-img{width:90px}
 .lang-37-box img{width:250px!important}
 .pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-ul li::before{margin-left:-28px;font-size:28px;top:2px;position:relative;left:10px}
+.home-testimonial-wrap-circle-3.home-testimonial-wrap-circle-lg {
+    top: 160px;
+    width: 700px;
+    height: 700px;
+}
 }
 @media (min-width:768px){
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
