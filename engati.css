@@ -1012,5 +1012,6 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-sect-busi-card-wrap .revol-adj.button-8.revol .revol-btn-bg{display:none!important}
 form.search.w-form .search-input{height:38px}
 form.search.w-form .search-button{width:38px;height:38px}
-
-}
+.clearboth.search-btn-adj-mt20 {margin-top: 25px;margin-bottom: 25px;}
+.home-testimonial-wrap-3.xs-mt-20 .w-layout-grid.grid-14.custom-6-grid.mb90.xs-mb30 .home-testimonial-card-3{margin-bottom: 0 !important;}
+ }
