@@ -213,8 +213,13 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .p-16{font-size:14px;line-height:24px}
 .p-15{font-size:13px;line-height:24px}
 .p-14{font-size:12px;line-height:24px}
+.grey-triangle-before {background: linear-gradient(180deg,#fff 60px,#f7f8fa 0);}
+.grey-triangle-before::before {border-width: 0 50vw 60px;}
+.white-triangle-before {background: linear-gradient(180deg,#f7f8fa 60px,#fff 0);}
+.white-triangle-before::before {border-width: 0 50vw 60px;}
 .subscribe-box-2{max-width:100%;padding:20px}
 .pr-container-4{max-width:80%}
+.pr-container-1200 {max-width: 80%;}
 .footer-wrap-2{max-width:80%;padding-top:120px}
 .credit-text{margin-right:10px;margin-left:10px}
 .footer-cr-links{margin-right:5px;margin-left:5px}
@@ -229,6 +234,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .table-of-contents{min-width:200px}
 .marqueecard{height:auto}
 .pr-hero-section{max-width:80%}
+.ecom-page .pr-hero-section {height: auto;padding-top: 60px;padding-bottom: 0px;}
 .home-hero-img-blk{width:460px;top:-136px;left:0}
 .pr-tabs-card-img-wrap{width:36px;height:36px;min-width:36px;margin-right:10px}
 .pr-tabs-card-ttl{font-size:17px;line-height:22px}
@@ -244,6 +250,10 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .home-accolades-mentions{padding:12px 20px}
 .accolades-mention-logo-img.captera{height:30px}
 .start-rating .ratings i{font-size:14px;margin:8px 3px 0}
+
+.ecom-page .pr-hero-section {padding-top: 60px;padding-bottom: 40px;}
+.four-logo-grid-logo {max-height: 45px;}
+
 .footer-main .footer-links.footer-links-subheading{cursor:inherit}
 .footer-main .footer-links,.footer-main .footer-links.footer-links-subheading{line-height:20px;margin-bottom:12px}
 }
