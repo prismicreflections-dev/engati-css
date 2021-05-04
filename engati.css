@@ -394,6 +394,9 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .ecom-page .pr-feature-resources.w-row > .pr-feature-resources-col-left {height: 250px !important;}
 .ecom-page .guide-sec {padding-bottom: 0;}
 .ecom-page .template-sec {padding-bottom: 40px;}
+.two-blks-wrap {
+	margin-top: 20px;
+}
 .travel-page .home-hero-img-blk.ecom-blk {
 	width: 100%;
 	margin: 0 auto;
