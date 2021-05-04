@@ -367,6 +367,8 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .grey-triangle-before {padding-top: 40px;}
 .white-triangle-before {padding-top: 40px;}
 .case-study-img-wrap {width: 100%;min-height: 260px;}
+.ecom-page .pr-feature-resources.w-row > .pr-feature-resources-col-left {height: 250px !important;}
+.ecom-page .guide-sec {padding-bottom: 0;}
 
 .footer-main .footer-links,.footer-main .footer-links.footer-links-subheading{line-height:20px;margin-bottom:12px}
 .blogs-card-mob-slide-wrap div.w-slider div.w-slider-nav.w-round div.w-slider-dot.w-active{background-color:#222;width:24px;height:8px;background:#ee5d0b;border-radius:8px;opacity:1}
