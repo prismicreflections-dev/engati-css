@@ -265,6 +265,8 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .blog-collection-wrapper .collection-item.w-col.w-col-4{width:50%!important}
 .bl-container .related-blog-wrap .blog-collection-wrapper .w-dyn-item.w-col.w-col-4,.blogs-card-wrapper .w-dyn-item.w-col.w-col-4{width:50%!important}
 .bl-container .related-blog-wrap .blog-collection-wrapper .w-dyn-item:nth-child(3),.blogs-card-wrapper .w-dyn-item:nth-child(3){display:none!important}
+.ecom-page .card-container .w-col.w-col-4 {width:50%!important}
+.ecom-page .card-container .w-col:nth-child(3){display:none!important}
 .pr-collection-list-wrap .blog-card .blog-content{min-height:260px;position:relative}
 .pr-section-common.white-triangle-before.pr-tab-section-resp .pr-container-1420.mb130.w-container{margin-bottom:20px!important}
 .flexbox-pl-weprovide.upper.mb80.conve-sect .flex-right.wid40{width:100%;margin-left:0}
@@ -287,7 +289,8 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .home-testimonial-slider .left-arrow{left:0}
 .home-testimonial-slider .right-arrow{right:0}
 
-.ecom-page .pr-feature-resources.w-row > .pr-feature-resources-col-left {height: 400px;}
+.ecom-page .pr-feature-resources.w-row > .pr-feature-resources-col-left {height: 360px;}
+
 
 }
 @media screen and (max-width:767px){
