@@ -268,6 +268,12 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .footer-main .footer-links.footer-links-subheading{cursor:inherit}
 .footer-main .footer-links,.footer-main .footer-links.footer-links-subheading{line-height:20px;margin-bottom:12px}
 }
+@media screen and (max-width:1199px) and (min-width:991px){
+.ecom-page.insurance-page .guide-sec .pr-feature-resources.w-row > .pr-feature-resources-col-left {
+	height: 450px !important;
+}
+}
+
 @media screen and (max-width:991px) and (min-width:768px){
 .h1,h1{font-size:38px;line-height:52px}
 .h2,h2{font-size:35px;line-height:48px}
