@@ -916,12 +916,15 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link.w--current::after{top:auto;right:10px;left:auto;bottom:5px}
 }
 .pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-heding{margin-top: 0; margin-bottom: 20px;}
-.pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-ul{margin-top: 30px;  list-style: none;}
+.pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-ul{margin-top: 30px;  list-style: none; padding-left: 28px;}
+.pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-ul li{margin-bottom: 8px;}
 .pr-box-info-wrap .pr-box-info-column .pr-box-info-wrap .pr-box-ul li::before {
     content: "\2022";
     color: red;
     font-weight: bold;
-    display: inline-block; 
-    width: 1em;
-    margin-left: -1em;
-  }
+    display: inline-block;
+    margin-left: -28px;
+    font-size: 40px;
+    width: 30px;
+    vertical-align: middle;
+}
