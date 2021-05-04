@@ -333,7 +333,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .rev-box-sec .pr-sec-top-triangle.triangle-white{top:88px}
 .heading-10{font-size:18px;line-height:21px}
 .subscribe-box-2{max-width:100%;margin-left:20px;margin-right:20px}
-.subscribe-box-title-2{font-size:25px;line-height:36px;max-width:100%;margin:0 auto 15px}
+.subscribe-box-title-2{font-size:24px;line-height:28px;max-width:100%;margin:0 auto 15px}
 .footer-wrap-2{max-width:100%;padding-top:80px;padding:80px 10px 40px}
 .footer-main .p-14{font-size:14px!important}
 .blog-hero{min-height:calc(100vh - 80px)}
@@ -369,6 +369,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .case-study-img-wrap {width: 100%;min-height: 260px;}
 .ecom-page .pr-feature-resources.w-row > .pr-feature-resources-col-left {height: 250px !important;}
 .ecom-page .guide-sec {padding-bottom: 0;}
+.ecom-page .template-sec {padding-bottom: 40px;}
 
 .footer-main .footer-links,.footer-main .footer-links.footer-links-subheading{line-height:20px;margin-bottom:12px}
 .blogs-card-mob-slide-wrap div.w-slider div.w-slider-nav.w-round div.w-slider-dot.w-active{background-color:#222;width:24px;height:8px;background:#ee5d0b;border-radius:8px;opacity:1}
