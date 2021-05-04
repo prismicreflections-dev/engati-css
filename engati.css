@@ -1015,5 +1015,6 @@ form.search.w-form .search-button{width:38px;height:38px}
 .clearboth.search-btn-adj-mt20 {margin-top: 25px;margin-bottom: 25px;}
 .home-testimonial-wrap-3.xs-mt-20 .w-layout-grid.grid-14.custom-6-grid.mb90.xs-mb30 .home-testimonial-card-3{margin-bottom: 0 !important;}
 .home-testimonial-wrap-3.xs-mt-20 .w-layout-grid.grid-14.custom-6-grid.mb90.xs-mb30 .home-testimonial-card-3 .testimonial-blk .testimonial-blk-body{min-width: 140px; padding-right: 10px;}
+.home-testimonial-wrap-3.xs-mt-20 .w-layout-grid.grid-14.custom-6-grid.mb90.xs-mb30 .home-testimonial-card-3 .testimonial-blk{min-height: inherit;}
 .top-cate-btn-wrap-adj.top-cate-btn-wrap-adj3{overflow: auto; justify-content: flex-start; -webkit-justify-content: flex-start; width: calc(100vw);margin-left: -5vw; padding-left: 15px;}
  }
