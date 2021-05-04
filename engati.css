@@ -376,6 +376,7 @@ body{overflow-x:hidden}
 .pb0{padding-bottom:0!important}
 .pl0{padding-left:0!important}
 .pt30{padding-top:30px!important}
+.pt50{padding-top:50px!important}
 .pb30{padding-bottom:30px!important}
 .pb120{padding-bottom:120px!important}
 .pb250{padding-bottom:250px!important}
@@ -914,3 +915,13 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link .we-enable-tab p,.pr-tabs-card .pr-tabs-card-p{font-size:13px;line-height:20px}
 .pr-tab-updated .pr-vertical-tab-wrap .w-tab-link.w--current::after{top:auto;right:10px;left:auto;bottom:5px}
 }
+.pr-box-info-wrap .pr-box-img-column .pr-box-info-wrap .pr-box-heding{margin-top: 0; margin-bottom: 20px;}
+.pr-box-info-wrap .pr-box-img-column .pr-box-info-wrap .pr-box-ul{margin-top: 30px;  list-style: none;}
+.pr-box-info-wrap .pr-box-img-column .pr-box-info-wrap .pr-box-ul li::before {
+    content: "\2022";
+    color: red;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
