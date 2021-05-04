@@ -99,6 +99,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 @media screen and (min-width:1699px){
 .ecom-page .pr-hero-section{padding-top:140px;padding-bottom:120px}
 .ecom-page.travel-page .pr-hero-section{padding-bottom:200px}
+.ecom-page.insurance-page .pr-hero-section {height: 700px;max-height: 700px;}
 .pr-tabs-menu.lg-left-17.pr-tabs-menu-mobile.w-tab-menu{padding-top:10px}
 .pr-container-1420.xs-pl0.xs-pr0 .pr-section-heading.xs-mt70{margin-top:20px}
 .pr-container-1420.xs-pd0.xs-mt70 .pr-section-heading{margin-top:20px}
@@ -170,6 +171,11 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .p-14{font-size:12px;line-height:24px}
 .pr-hero-section{max-width:1020px}
 .home-hero-img-blk{position:relative;width:560px;height:auto;top:-154px;left:0}
+.travel-page .home-hero-img-blk.ecom-blk {
+	top: -230px;
+	left: 30px;
+	width: 460px;
+}
 .pr-container-4{max-width:1020px}
 .pr-section-2 .pr-container-1420{max-width:80%}
 .industries-blk-icon-2{width:60px;height:60px;min-width:60px}
@@ -236,6 +242,11 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .pr-hero-section{max-width:80%}
 .ecom-page .pr-hero-section{height:auto;padding-top:60px;padding-bottom:0}
 .home-hero-img-blk{width:460px;top:-136px;left:0}
+.travel-page .home-hero-img-blk.ecom-blk {
+	top: 0px;
+	left: 0;
+	width: 460px;
+}
 .pr-tabs-card-img-wrap{width:36px;height:36px;min-width:36px;margin-right:10px}
 .pr-tabs-card-ttl{font-size:17px;line-height:22px}
 .pr-tabs-card-p{font-size:14px;line-height:18px}
@@ -252,6 +263,8 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .start-rating .ratings i{font-size:14px;margin:8px 3px 0}
 .ecom-page .pr-hero-section{padding-top:60px;padding-bottom:40px}
 .four-logo-grid-logo{max-height:45px}
+.ecom-page .guide-sec {padding-bottom: 20px;}
+.ecom-page .home-testimonial-slider .home-testimonial-slide {margin-bottom: 40px;}
 .footer-main .footer-links.footer-links-subheading{cursor:inherit}
 .footer-main .footer-links,.footer-main .footer-links.footer-links-subheading{line-height:20px;margin-bottom:12px}
 }
