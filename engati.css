@@ -290,6 +290,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .floating-share{right:0;padding:7px 0 10px}
 .pr-hero-section{max-width:100%;padding:50px 20px}
 .home-hero-img-blk{position:static;width:580px;margin:40px auto 20px}
+.travel-page .home-hero-img-blk.ecom-blk {width: 500px;margin: 0 auto;}
 .home-hero-img-blk img{position:static}
 .tab-img-wrappper{position:static}
 .testimonial-blk{min-height:90px}
@@ -304,6 +305,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 
 .ecom-page .pr-feature-resources.w-row > .pr-feature-resources-col-left {height: 420px !important;}
 .four-logo-grid-logo {max-height: 36px;}
+.ecom-page .four-col-sec,.ecom-page .percent-sec {padding: 60px 0;}
 
 }
 @media screen and (max-width:767px){
