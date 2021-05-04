@@ -384,11 +384,17 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .ecom-page .four-col-sec, .ecom-page .percent-sec { padding-top: 0;padding-bottom: 50px;}
 .grey-triangle-before {padding-top: 40px;}
 .white-triangle-before {padding-top: 40px;}
-.case-study-img-wrap {width: 100%;min-height: 260px;}
+.case-study-img-wrap {width: 100% !important;min-height: 260px;}
 .ecom-page .pr-feature-resources.w-row > .pr-feature-resources-col-left {height: 250px !important;}
 .ecom-page .guide-sec {padding-bottom: 0;}
 .ecom-page .template-sec {padding-bottom: 40px;}
-
+.travel-page .home-hero-img-blk.ecom-blk {
+	width: 100%;
+	margin: 0 auto;
+}
+.banking-sec-ttl {
+	max-width: 100%;
+}
 .footer-main .footer-links,.footer-main .footer-links.footer-links-subheading{line-height:20px;margin-bottom:12px}
 .blogs-card-mob-slide-wrap div.w-slider div.w-slider-nav.w-round div.w-slider-dot.w-active{background-color:#222;width:24px;height:8px;background:#ee5d0b;border-radius:8px;opacity:1}
 .blogs-card-mob-slide-wrap div.w-slider div.w-slider-nav.w-round div.w-slider-dot{border-radius:100%;width:8px;height:8px;background:#ee5d0b;opacity:.2}
