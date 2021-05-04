@@ -384,7 +384,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .ecom-page .four-col-sec, .ecom-page .percent-sec { padding-top: 0;padding-bottom: 50px;}
 .grey-triangle-before {padding-top: 40px;}
 .white-triangle-before {padding-top: 40px;}
-.case-study-img-wrap {width: 100% !important;min-height: 260px;}
+.case-study-img-wrap {width: 100% !important;min-height: 260px !important;}
 .ecom-page .pr-feature-resources.w-row > .pr-feature-resources-col-left {height: 250px !important;}
 .ecom-page .guide-sec {padding-bottom: 0;}
 .ecom-page .template-sec {padding-bottom: 40px;}
