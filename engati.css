@@ -288,6 +288,9 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .footer-main .footer-links,.footer-main .footer-links.footer-links-subheading{line-height:20px;margin-bottom:12px}
 .home-testimonial-slider .left-arrow{left:0}
 .home-testimonial-slider .right-arrow{right:0}
+
+.ecom-page .pr-feature-resources.w-row > .pr-feature-resources-col-left {height: 400px;}
+
 }
 @media screen and (max-width:767px){
 .h1,h1{font-size:35px;line-height:48px}
