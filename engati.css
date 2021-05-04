@@ -289,8 +289,8 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .home-testimonial-slider .left-arrow{left:0}
 .home-testimonial-slider .right-arrow{right:0}
 
-.ecom-page .pr-feature-resources.w-row > .pr-feature-resources-col-left {height: 360px;}
-
+.ecom-page .pr-feature-resources.w-row > .pr-feature-resources-col-left {height: 420px !important;}
+.four-logo-grid-logo {max-height: 36px;}
 
 }
 @media screen and (max-width:767px){
