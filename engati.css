@@ -314,6 +314,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .h4,h4{font-size:21px;line-height:30px}
 .h5,h5{font-size:20px;line-height:24px}
 .h6,h6{font-size:18px;line-height:28px}
+.pr-section-2 .pr-container-1420{max-width:100%;padding: 0 20px;}
 .floating-share{display:block;height:0;padding:0;z-index:4}
 .floating-share .w-embed{box-shadow:rgba(0,0,0,.1) 0 15px 20px 1px}
 .st-btn{margin:6px 0!important;width:30px!important;height:30px!important}
