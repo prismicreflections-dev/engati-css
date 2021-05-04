@@ -306,6 +306,9 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .ecom-page .pr-feature-resources.w-row > .pr-feature-resources-col-left {height: 420px !important;}
 .four-logo-grid-logo {max-height: 36px;}
 .ecom-page .four-col-sec,.ecom-page .percent-sec {padding: 60px 0;}
+.travel-page .case-study-img-wrap {
+	min-height: 420px;
+}
 
 }
 @media screen and (max-width:767px){
