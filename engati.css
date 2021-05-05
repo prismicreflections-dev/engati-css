@@ -587,7 +587,7 @@ img.circle-2{left:50%;transform:translateX(-50%);top:42%;-webkit-transform:trans
 .w-layout-grid.define-us-grid{margin-left:-20px}
 .location-form-wrap.w-form .location-select {height: 48px;border-color: #cbcbcf;background-color: #fff;color: #5c5c5c;font-size: 18px;line-height: 30px;font-weight: 600;}
 .location-form-wrap.w-form .w-checkbox .checkbox-label {font-size: 18px;font-weight: 600;}
-.define-us-grid-wrap {height: 1000px;overflow: hidden;padding-top: 20px;}
+.define-us-grid-wrap {height: 1000px;overflow: hidden;padding-top: 20px;  width: 1200px; margin: auto;}
 
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
@@ -679,7 +679,7 @@ img.circle-2{left:50%;transform:translateX(-50%);top:42%;-webkit-transform:trans
 .pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card11,.pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card15{margin-left:550px}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card12,.pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card14{margin-left:300px}
 .w-layout-grid.define-us-grid { margin-left: -20px; transform: scale(0.8, 0.8); -webkit-transform: scale(0.8, 0.8); -moz-transform: scale(0.8, 0.8); -ms-transform: scale(0.8, 0.8); -o-transform: scale(0.8, 0.8); }
-.define-us-grid-wrap {height: 900px;overflow: hidden;padding-top: 20px;}
+.define-us-grid-wrap {height: 900px;overflow: hidden;padding-top: 20px;  width: 1200px; margin: auto;}
 .pr-section-common.mt150123.grey-triangle-before {margin-top: 0 !important;}
 
 }
@@ -735,7 +735,7 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card{marg
 .pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card11,.pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card15{margin-left:550px}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card12,.pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card14{margin-left:300px}
 .w-layout-grid.define-us-grid { margin-left: -20px; transform: scale(0.8, 0.8); -webkit-transform: scale(0.8, 0.8); -moz-transform: scale(0.8, 0.8); -ms-transform: scale(0.8, 0.8); -o-transform: scale(0.8, 0.8); }
-.define-us-grid-wrap {height: 900px;overflow: hidden;padding-top: 20px;}
+.define-us-grid-wrap {height: 900px;overflow: hidden;padding-top: 20px; width: 1200px; margin: auto;}
 .pr-section-common.mt150123.grey-triangle-before {margin-top: 0 !important;}
 }
 @media (min-width:768px) and (max-width:1199px){
