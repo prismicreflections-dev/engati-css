@@ -559,7 +559,7 @@ body{overflow-x:hidden}
 .home-testimonial-card-3.pr-busi-slider-card{padding:23px 25px}
 .home-testimonial-card-3.pr-busi-slider-card .home-testimonial-card-body-txt{font-style:normal;font-weight:400;font-size:16px;line-height:25px;color:#686873}
 .top-cate-btn-wrap-adj.top-cate-btn-wrap-adj3{overflow:auto;justify-content:flex-start;-webkit-justify-content:flex-start}
-.customer-card{ position: relative; margin-bottom: 30px; border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; width: 780px !important;}
+.customer-card{ position: relative; margin-bottom: 30px; border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; width: 700px !important;}
 .customer-card img{margin-left: -10px;margin-top: 8px;}
 .customer-card .p-16 {
     font-weight: 600;
@@ -605,7 +605,7 @@ body{overflow-x:hidden}
 }
 .define-us-wrap .define-us-div .define-us-info h6{margin-top: 22px; margin-bottom: 6px;}
 img.circle-1 {
-    left: 53%;
+    left: 50%;
     transform: translateX(-50%);
     top: 22%;
     -webkit-transform: translateX(-50%);
@@ -614,7 +614,7 @@ img.circle-1 {
     -o-transform: translateX(-50%);
 }
 img.circle-2 {
-    left: 53%;
+    left: 50%;
     transform: translateX(-50%);
     top: 42%;
     -webkit-transform: translateX(-50%);
@@ -650,7 +650,7 @@ img.circle-2 {
     color: #5C5C5C;
     font-weight: 600;
 }
-
+.w-layout-grid.define-us-grid{margin-left: -20px;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
