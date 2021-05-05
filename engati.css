@@ -1070,20 +1070,61 @@ form.search.w-form .search-button{width:38px;height:38px}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card11,.pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card15{margin-left:400px}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card12,.pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card14{margin-left:200px}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card13{margin-left:-30px}
-.w-layout-grid.define-us-grid{ margin-left:-120px; transform:scale(.75,.75); -webkit-transform:scale(.75,.75); -moz-transform:scale(.75,.75); -ms-transform:scale(.75,.75); -o-transform:scale(.75,.75); margin-top: -100px;}
-.define-us-grid-wrap{ height:770px; overflow:hidden; padding-top:20px; width:1000px; margin:auto; transform-origin:-110px 0; transform:scale(.8,.8); -webkit-transform:; -moz-transform:; -ms-transform:; -o-transform:; }
+.w-layout-grid.define-us-grid{ margin-left:0px; transform:none; -webkit-transform:none; -moz-transform:none; -ms-transform:none; -o-transform:none; margin-top: 30px; }
+.define-us-grid-wrap{ height:inherit; overflow:inherit; padding-top:20px; width:inherit; margin:auto; transform-origin:inherit; transform:none; -webkit-transform:none; -moz-transform:none; -ms-transform:none; -o-transform:none; }
 .pr-section-common.mt150123.grey-triangle-before{margin-top:0!important}
 .ride-section-xs .join-ride-bg{width:100%}
-.pr-section-common.mt150123.what-define-us-section{height:920px}
+.pr-section-common.mt150123.what-define-us-section{height:inherit; margin-top: 70px;}
 .location-form-wrap.w-form .w-checkbox{margin-top:10px;margin-left:20px}
 .define-us-wrap .define-us-div .define-us-info .text-white.p-15{font-size:20px;line-height:normal; }
 .define-us-wrap .define-us-div .define-us-info h6.text-white{font-size:25px;line-height:normal}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero .w-col-6{width:100%}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero h2{margin-top:0;float:none;text-align:center}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero .text-wrap-col{width:100%;position:absolute;top:40px;z-index:3;height:106px}
-.pr-section-common.grey-triangle-after.customer-banner-section-hero .card-wrap-col{width:100%;margin-top:180px;display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-around;align-items:baseline;align-content:stretch}
-.pr-section-common.grey-triangle-after.customer-banner-section-hero .card-wrap-col .customer-card.customer-card5{width:320px!important;margin:0 auto 70px!important;padding:30px!important}
-.pr-section-common.grey-triangle-after.customer-banner-section-hero .card-wrap-col .customer-card.customer-card5 img{top:-70px;left:50%;position:absolute;z-index:3;transform:translateX(-50%);-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);-o-transform:translateX(-50%)}
-img.circle-1 {top: 15%;}
-img.circle-2{top: 34%;}
+.pr-section-common.grey-triangle-after.customer-banner-section-hero .card-wrap-col{width:100%;margin-top:110px;display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-around;align-items:baseline;align-content:stretch}
+.pr-section-common.grey-triangle-after.customer-banner-section-hero .card-wrap-col .customer-card.customer-card5{width:320px!important;margin:0 auto 20px!important;padding:90px 30px 30px!important}
+.pr-section-common.grey-triangle-after.customer-banner-section-hero .card-wrap-col .customer-card.customer-card5 img{top:-20px;left:50%;position:absolute;z-index:3;transform:translateX(-50%);-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);-o-transform:translateX(-50%)}
+img.circle-1 {top: 15%; display: none;}
+img.circle-2{top: 34%; display: none;}
+.define-us-img {
+    position: absolute;
+    left: -140px;
+    top: 5px;
+    width: 660px;
+    right: auto;
+    bottom: auto;
+    margin-top: -150px;
+}
+.define-us-wrap.define-us-wrap1{
+    margin-top: 0;
+    margin-left: 0;
+    height: 420px;
+}
+.location-form-wrap.w-form .location-select {
+    height: 38px;
+    border-color: #cbcbcf;
+    background-color: #fff;
+    color: #5c5c5c;
+    font-size: 16px;
+    line-height: 27px;
+    font-weight: 600;
+}
+.location-form-wrap.w-form .w-checkbox .checkbox-label {
+    font-size: 16px;
+    font-weight: 600;
+}
+.ride-section-xs .w-checkbox-input {
+    margin-top: 5px;
+}
+.location-form-wrap.w-form {
+    margin-bottom: 0;
+}
+.pr-section-common.grey-triangle-after.customer-banner-section-hero:after{
+	border-width: 0 50vw 50px; bottom: -48px;
+}
+.pr-section-common.mt150123.what-define-us-section {
+    height: inherit;
+    margin-top: 80px;
+    padding-top: 40px;
+}
 }
