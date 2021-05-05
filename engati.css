@@ -559,6 +559,19 @@ body{overflow-x:hidden}
 .customer-card{ position: relative; margin-bottom: 30px; border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; width: 700px !important;}
 .customer-card img{margin-left: -10px;margin-top: 8px;}
 .customer-card .p-16{font-weight: 600;margin-top: 43px;margin-left: -23px;}
+.pr-section-common.grey-triangle-after.customer-banner-section-hero {
+    background: #f7f8fa !important;
+}
+.pr-section-common.grey-triangle-after.customer-banner-section-hero h2{	
+    margin-top: 420px;
+    float: right;
+}
+.pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card11{margin-left: 600px;}
+.pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card12{margin-left: 300px;}
+.pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card13{margin-left: 0px;}
+.pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card14{margin-left: 300px;}
+.pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card15{margin-left: 600px;}
+
 
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
