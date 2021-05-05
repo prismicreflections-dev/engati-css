@@ -393,8 +393,11 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .text-center{text-align:center!important}
 body{overflow-x:hidden}
 .mb20{margin-bottom:20px!important}
+.mt25{margin-top:25px!important}
 .mt30{margin-top:30px!important}
+.mt40{margin-top:40px!important}
 .mt50{margin-top:50px!important}
+.mb25{margin-bottom:25px!important}
 .mb30{margin-bottom:30px!important}
 .mb60{margin-bottom:60px!important}
 .mb80{margin-bottom:80px!important}
@@ -580,7 +583,18 @@ body{overflow-x:hidden}
     margin-left: -102px;
     margin-top: 47px;
 }
-
+.define-us-wrap.define-us-wrap1.define-us-wrap12 {
+    margin-top: 100px;
+    right: -122px;
+}
+.define-us-wrap.define-us-wrap1.define-us-wrap14 {
+    margin-top: 196px;
+    right: -16px;
+}
+.define-us-wrap.define-us-wrap1.define-us-wrap13 {
+    top: 57px;
+    right: -95px;
+}
 .define-us-img {
     position: absolute;
     left: 34px;
@@ -590,6 +604,52 @@ body{overflow-x:hidden}
     margin-top: -150px;
 }
 .define-us-wrap .define-us-div .define-us-info h6{margin-top: 22px; margin-bottom: 6px;}
+img.circle-1 {
+    left: 53%;
+    transform: translateX(-50%);
+    top: 22%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
+img.circle-2 {
+    left: 53%;
+    transform: translateX(-50%);
+    top: 42%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}
+.ride-section-xs .join-ride-bg {
+    background-image: repeating-linear-gradient(233deg, #f0e1e6, #fff);
+    width: 1001px;
+    height: 169px;
+    background: linear-gradient(93.44deg, #D73254 5.47%, #AE1535 91.84%);
+    opacity: 0.1;
+    border-radius: 10px;
+    margin: auto;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.ride-section-xs .ride-col.w-row {
+    margin-top: -124px;
+	margin-bottom: 46px;
+}
+.ride-section-xs .crew-para.p-16 {
+    max-width: 940px;
+    margin: 0 auto 40px;
+}
+.ride-section-xs .w-checkbox-input {margin-top: 8px;}
+.apply-job-wrap{margin-bottom: 40px;}
+.apply-job-wrap h5{font-weight: 600;color: #403F42; margin-bottom: 15px;}
+.apply-job-wrap h5 + div{
+    color: #5C5C5C;
+    font-weight: 600;
+}
 
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
