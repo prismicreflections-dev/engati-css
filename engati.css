@@ -588,7 +588,7 @@ img.circle-2{left:50%;transform:translateX(-50%);top:42%;-webkit-transform:trans
 .location-form-wrap.w-form .location-select{height:48px;border-color:#cbcbcf;background-color:#fff;color:#5c5c5c;font-size:18px;line-height:30px;font-weight:600}
 .location-form-wrap.w-form .w-checkbox .checkbox-label{font-size:18px;font-weight:600}
 .define-us-grid-wrap{height:1000px;overflow:hidden;padding-top:20px;width:1200px;margin:auto}
-.about-footer-white-corner{margin-bottom: 60px !important;margin-top: 0 !important;padding-top: 100px !important;}
+.about-footer-white-corner{margin-bottom: 0px !important;margin-top: 0 !important;padding-top: 70px !important;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
