@@ -1158,7 +1158,7 @@ img.circle-2{top:34%;display:none}
 .pr-section-common.pr-pricing-sec .pr-pricing-tab{margin-top:40px}
 .pr-pricing-tab>.tabs-menu-4.w-tab-menu{display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:center;align-items:stretch;align-content:stretch}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{padding:10px;font-size:14px;margin:0 auto 20px}
-.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-para.p-20{text-align:center;border-bottom:1px solid rgba(64,63,66,.1);padding-bottom:15px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-para.p-20{text-align:center;}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-social-ul{margin-left:0;margin-top:0;margin-bottom:20px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column{padding:18px 15px 16px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .p-26.pr-plan-heading{font-size:20px;text-align:center}
