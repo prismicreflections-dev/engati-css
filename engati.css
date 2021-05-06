@@ -1154,7 +1154,7 @@ img.circle-2{top:34%;display:none}
 .subscribe-section.white-triangle-before.about-footer-white-corner+.pr-section-2.pr-footer-section .pr-sec-top-triangle{border-width:0 50vw 50px}
 .apply-job-wrap{margin-bottom:20px}
 .pr-section-common.pr-pricing-sec .pr-container-1420.pr-prcing-container.w-container {padding: 0;}
-.pr-section-common.pr-pricing-sec .pricing-header.text-white{font-weight:600;font-size:28px;line-height:36px}
+.pr-section-common.pr-pricing-sec .pricing-header.text-white{font-weight:600;font-size:28px;line-height:36px; margin-top: 60px;}
 .pr-section-common.pr-pricing-sec .pr-pricing-tab{margin-top:40px}
 .pr-pricing-tab>.tabs-menu-4.w-tab-menu{display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:center;align-items:stretch;align-content:stretch}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{padding:10px;font-size:14px;margin:0 auto 20px}
@@ -1169,7 +1169,7 @@ img.circle-2{top:34%;display:none}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{margin-bottom:20px}
 .pr-pricing-tab .tab-content-view{margin-right:0;margin-left:0;box-shadow:none;border-radius:0;-webkit-border-radius:0;-moz-border-radius:0;-ms-border-radius:0;-o-border-radius:0}
 .pr-pricing-tab .tab-content-view .pricing-tab-column{margin-right:15px;margin-left:15px;margin-bottom:20px;box-shadow:0 16px 50px rgb(52 40 78 / 12%);border-radius:20px;-webkit-border-radius:20px;-moz-border-radius:20px;-ms-border-radius:20px;-o-border-radius:20px;background:#fff; width: calc(100% - 30px); border: 0;}
-.pr-section-common.pr-pricing-sec .columns-7.pricing-tab-main-column{margin-right:0;margin-left:0;box-shadow:none;margin-bottom:0}
+.pr-section-common.pr-pricing-sec .columns-7.pricing-tab-main-column{margin-right:0;margin-left:0;box-shadow:none;margin-bottom:40px}
 .pr-pricing-tab .w-tab-menu .w-tab-link{width:133px;padding-top:16px;padding-bottom:16px}
 .heading-62.pricing-marquee-heading{padding-top:0;font-size:26px;line-height:32px}
 .pricing-accordian-text-header{color:#403f42;font-weight:600;font-size:15px;line-height:130%}
@@ -1179,10 +1179,18 @@ img.circle-2{top:34%;display:none}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-toggle{padding-bottom:15px;margin-bottom:0}
 .faq-sec-wrap.pr-faq-sec-wrap .accordion-icon-wrap img{width:20px}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap{max-width:45px;height:20px;overflow:hidden}
-.faq-sec-wrap.pr-faq-sec-wrap .accordian-toggle{padding-bottom:4px;margin-top:0;padding-top:0}
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-toggle{padding-bottom:10px;margin-top:0;padding-top:0}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .pricing-accordian-paragraph{color:#403f42;font-size:14px;line-height:26px;font-style:normal}
-.faq-sec-wrap.pr-faq-sec-wrap .accordian-item{padding-bottom:15px}
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-item {padding-bottom: 5px;padding-top: 40px;margin-top: -20px;}
 .pr-section-common.pr-pricing-sec .pr-pricing-bg-head {height: 300px;}
 .pr-section-common.pr-pricing-sec .pr-container-1420.pr-prcing-container.w-container {margin-top: -300px;}
-
+.pr-pricing-tab .tab-content-view .pricing-tab-column .whatapp-radio {height: 26px;display: flex;flex-direction: row;flex-wrap: nowrap;justify-content: center;align-items: stretch;align-content: stretch;}
+.pricing-testimonial-header {
+    font-size: 26px;
+    line-height: 32px;
+}
+.pr-section-common.pr-pricing-sec {
+    padding-top: 0;
+    padding-bottom: 0;
+}
 }
