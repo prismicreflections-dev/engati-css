@@ -623,7 +623,7 @@ img.circle-2{left:50%;transform:translateX(-50%);top:42%;-webkit-transform:trans
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .pricing-accordian-paragraph{color:#403f42}
 .w-layout-grid.pr-social-ui-img.google-ul-icon img.pricing-icon{max-width:inherit;width:auto;margin-bottom:9px}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap{max-width:45px;height:38px;overflow:hidden}
-
+.more-text {color: #403f42;font-size: 17px;display: inline;width: auto;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
