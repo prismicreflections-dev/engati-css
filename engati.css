@@ -1106,7 +1106,7 @@ img.circle-2{top:34%;display:none}
 .subscribe-section.white-triangle-before.white-triangle-before{background:0 0!important}
 .hero-container.pricing-hero-container.w-container{max-width:1420px;margin:16px auto 0}
 .pr-section-common.pr-pricing-sec{padding-top:0}
-.pr-section-common.pr-pricing-sec .pr-pricing-bg-head{background:linear-gradient(93.44deg,#d73254 5.47%,#ae1535 91.84%);height:850px}
+.pr-section-common.pr-pricing-sec .pr-pricing-bg-head{background:linear-gradient(93.44deg,#d73254 5.47%,#ae1535 91.84%);height:840px}
 .pr-section-common.pr-pricing-sec .pr-container-1420.pr-prcing-container.w-container{margin-top:-780px}
 .pr-pricing-tab{margin-top:66px}
 .pr-pricing-tab .w-tab-menu .w-tab-link{position:relative;z-index:3;width:215px;text-align:center;padding-top:27px;padding-bottom:30px;color:#403f42;background:#f2f2f2}
@@ -1114,14 +1114,19 @@ img.circle-2{top:34%;display:none}
 .pr-pricing-tab .w-tab-menu .w-tab-link:last-child{border-top-right-radius:10px}
 .pr-pricing-tab .w-tab-menu .w-tab-link.w--current{background:#fff;color:#ae1536}
 .pr-pricing-tab .tab-content-view{margin-right:0;margin-left:0;box-shadow:0 16px 50px rgba(52,40,78,.12);border-radius:20px;-webkit-border-radius:20px;-moz-border-radius:20px;-ms-border-radius:20px;-o-border-radius:20px}
-.pr-pricing-tab .tab-content-view .pricing-tab-column{padding:38px 30px 30px;}
+.pr-pricing-tab .tab-content-view .pricing-tab-column{padding:38px 30px 30px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .whatapp-radio{height:26px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column h3.pr-pricing-plans-header{margin-top:4px;margin-bottom:28px}
-.pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{padding:20px;margin-left:0;margin-right:0;border-radius:40px;-webkit-border-radius:40px;-moz-border-radius:40px;-ms-border-radius:40px;-o-border-radius:40px;display:block;margin-bottom:40px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{padding:20px;margin-left:0;margin-right:0;border-radius:40px;-webkit-border-radius:40px;-moz-border-radius:40px;-ms-border-radius:40px;-o-border-radius:40px;display:block;margin-bottom:40px;background:linear-gradient(123deg,#ae1535,#d73254)}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button:hover{background-image:linear-gradient(128deg,#cb3252,#ae1535);box-shadow:0 5px 12px 0 rgb(0 0 0 / 30%)}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-info-list{margin-top:24px}
-.pr-pricing-tab .tab-content-view .pricing-tab-column ul.pr-pricing-ul.w-list-unstyled li{position:relative;padding-left:32px;line-height:normal;margin-bottom:27px;background:url("https://assets.website-files.com/6062c1add12da6add0e4236d/608bfe7185ee64463566216b_Vector%20(2).svg") no-repeat 0 3px;}
-.pr-pricing-tab .tab-content-view .pricing-tab-column ul.pr-pricing-ul.w-list-unstyled li b{font-style: normal;font-weight: bold;font-size: 17px;color: #403F42;}
+.pr-pricing-tab .tab-content-view .pricing-tab-column ul.pr-pricing-ul.w-list-unstyled li{position:relative;padding-left:32px;line-height:normal;margin-bottom:27px;background:url("https://assets.website-files.com/6062c1add12da6add0e4236d/608bfe7185ee64463566216b_Vector%20(2).svg") no-repeat 0 3px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column ul.pr-pricing-ul.w-list-unstyled li b{font-style:normal;font-weight:700;font-size:17px;color:#403f42}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-social-ul{margin-left:32px}
-.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm{padding: 20px 20px 2px;}
-.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm .p-17{font-style: normal;font-weight: normal;font-size: 17px;color: #403F42; }
-.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm p.p15.pricing-p15 {margin-bottom: 20px;}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm{padding:20px 20px 2px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm .p-17{font-style:normal;font-weight:400;font-size:17px;color:#403f42}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm p.p15.pricing-p15{margin-bottom:20px}
+.faq-sec-wrap.pr-faq-sec-wrap .accordion-icon-wrap img{width:38px}
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-toggle{padding-bottom:15px}
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-item{padding-bottom:3px}
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block{border-width:0 0 1px;border-color:#e5e6e8;border-bottom-style:solid}
