@@ -744,6 +744,8 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card{marg
 .define-us-wrap .define-us-div .define-us-info h6.text-white{font-size:25px;line-height:normal}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero h2{margin-top:500px;float:right}
 img.circle-2{top:38%}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{padding:10px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-social-ul{margin-left:0;margin-top:-15px;margin-bottom:20px}
 }
 @media (min-width:768px) and (max-width:1199px){
 .pr-container-wrap-adj{padding-left:20px;padding-right:20px}
@@ -868,6 +870,23 @@ img.circle-2{top:38%}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero .card-wrap-col .customer-card.customer-card5 img{top:-70px;left:50%;position:absolute;z-index:3;transform:translateX(-50%);-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);-o-transform:translateX(-50%)}
 img.circle-1{top:15%}
 img.circle-2{top:34%}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{padding:6px;font-size:16px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-social-ul{margin-left:0;margin-top:-15px;margin-bottom:20px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column{padding:18px 15px 16px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .p-26.pr-plan-heading{font-size:22px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column ul.pr-pricing-ul.w-list-unstyled li{padding-left:25px;margin-bottom:20px}
+.pr-pricing-tab .pricing-accordian-text-header{font-size:22px;line-height:normal}
+.pr-pricing-tab .pricing-accordian-paragraph{margin-bottom:0;font-size:16px;line-height:24px}
+.pr-pricing-tab .faq-sec-wrap.pr-faq-sec-wrap .accordion-icon-wrap img{width:25px}
+.pr-pricing-tab .faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap{max-width:45px;height:28px;overflow:hidden}
+.pr-pricing-tab .faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block{margin-top:0;margin-bottom:0;padding-bottom:10px}
+.pr-pricing-tab .faq-sec-wrap.pr-faq-sec-wrap .accordian-toggle{padding-bottom:15px;margin-bottom:0}
+.pr-pricing-tab .w-tab-menu .w-tab-link {width: 150px;padding-top: 16px;padding-bottom: 16px;}
+.pr-pricing-tab .w-tab-menu .w-tab-link > div{font-size: 20px;}
+.pr-pricing-tab .tab-content-view .pricing-tab-column h3.pr-pricing-plans-header {margin-bottom: 20px;}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button {margin-bottom: 20px;}
+
+
 }
 @media (min-width:768px){
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
@@ -1117,12 +1136,12 @@ img.circle-2{top:34%;display:none}
 .pr-pricing-tab .tab-content-view .pricing-tab-column{padding:38px 30px 30px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .whatapp-radio{height:26px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column h3.pr-pricing-plans-header{margin-top:4px;margin-bottom:28px}
-.pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{padding:20px;margin-left:0;margin-right:0;border-radius:40px;-webkit-border-radius:40px;-moz-border-radius:40px;-ms-border-radius:40px;-o-border-radius:40px;display:block;margin-bottom:40px;}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{padding:20px;margin-left:0;margin-right:0;border-radius:40px;-webkit-border-radius:40px;-moz-border-radius:40px;-ms-border-radius:40px;-o-border-radius:40px;display:block;margin-bottom:40px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button:hover{background:linear-gradient(123deg,#ae1535,#d73254);box-shadow:0 5px 12px 0 rgb(0 0 0 / 30%)}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-info-list{margin-top:24px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column ul.pr-pricing-ul.w-list-unstyled li{position:relative;padding-left:32px;line-height:normal;margin-bottom:27px;background:url("https://assets.website-files.com/6062c1add12da6add0e4236d/608bfe7185ee64463566216b_Vector%20(2).svg") no-repeat 0 3px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column ul.pr-pricing-ul.w-list-unstyled li b{font-style:normal;font-weight:700;font-size:17px;color:#403f42}
-.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-social-ul {margin-left: 32px;margin-top: -15px;margin-bottom: 20px;}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-social-ul{margin-left:32px;margin-top:-15px;margin-bottom:20px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm{padding:20px 20px 2px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm .p-17{font-style:normal;font-weight:400;font-size:17px;color:#403f42}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm p.p15.pricing-p15{margin-bottom:20px}
@@ -1130,18 +1149,9 @@ img.circle-2{top:34%;display:none}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-toggle{padding-bottom:15px}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-item{padding-bottom:3px}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block{border-width:0 0 1px;border-color:#e5e6e8;border-bottom-style:solid}
-.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap img{ transform:none !important ; -webkit-transform:none !important ; -moz-transform:none !important ; -ms-transform:none !important ; -o-transform:none !important ;}
-.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap .pricing-accordian-minus-button{ display: block !important; }
-.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle.w--open .accordion-icon-wrap .pricing-accordian-plus-button{display: none !important;}
-.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .pricing-accordian-paragraph{color: #403F42;}
-.w-layout-grid.pr-social-ui-img.google-ul-icon img.pricing-icon {
-    max-width: inherit;
-    width: auto;
-    margin-bottom: 9px;
-}
-
-.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap {
-    max-width: 45px;
-    height: 38px;
-    overflow: hidden;
-}
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap img{transform:none!important;-webkit-transform:none!important;-moz-transform:none!important;-ms-transform:none!important;-o-transform:none!important}
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap .pricing-accordian-minus-button{display:block!important}
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle.w--open .accordion-icon-wrap .pricing-accordian-plus-button{display:none!important}
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .pricing-accordian-paragraph{color:#403f42}
+.w-layout-grid.pr-social-ui-img.google-ul-icon img.pricing-icon{max-width:inherit;width:auto;margin-bottom:9px}
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap{max-width:45px;height:38px;overflow:hidden}
