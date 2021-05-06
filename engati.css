@@ -1122,7 +1122,7 @@ img.circle-2{top:34%;display:none}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-info-list{margin-top:24px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column ul.pr-pricing-ul.w-list-unstyled li{position:relative;padding-left:32px;line-height:normal;margin-bottom:27px;background:url("https://assets.website-files.com/6062c1add12da6add0e4236d/608bfe7185ee64463566216b_Vector%20(2).svg") no-repeat 0 3px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column ul.pr-pricing-ul.w-list-unstyled li b{font-style:normal;font-weight:700;font-size:17px;color:#403f42}
-.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-social-ul{margin-left:32px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-social-ul {margin-left: 32px;margin-top: -15px;margin-bottom: 20px;}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm{padding:20px 20px 2px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm .p-17{font-style:normal;font-weight:400;font-size:17px;color:#403f42}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm p.p15.pricing-p15{margin-bottom:20px}
@@ -1130,6 +1130,12 @@ img.circle-2{top:34%;display:none}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-toggle{padding-bottom:15px}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-item{padding-bottom:3px}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block{border-width:0 0 1px;border-color:#e5e6e8;border-bottom-style:solid}
-.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap .pricing-accordian-minus-button{ display: block !important; transform:none !important ; -webkit-transform:none !important ; -moz-transform:none !important ; -ms-transform:none !important ; -o-transform:none !important ; }
-.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle.w--open .accordion-icon-wrap .pricing-accordian-plus-button{display: none !important; transform:none !important ; -webkit-transform:none !important ; -moz-transform:none !important ; -ms-transform:none !important ; -o-transform:none !important ; }
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap img{ transform:none !important ; -webkit-transform:none !important ; -moz-transform:none !important ; -ms-transform:none !important ; -o-transform:none !important ;}
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap .pricing-accordian-minus-button{ display: block !important; }
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle.w--open .accordion-icon-wrap .pricing-accordian-plus-button{display: none !important;}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .pricing-accordian-paragraph{color: #403F42;}
+.w-layout-grid.pr-social-ui-img.google-ul-icon img.pricing-icon {
+    max-width: inherit;
+    width: auto;
+    margin-bottom: 9px;
+}
