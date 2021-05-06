@@ -1130,3 +1130,6 @@ img.circle-2{top:34%;display:none}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-toggle{padding-bottom:15px}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-item{padding-bottom:3px}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block{border-width:0 0 1px;border-color:#e5e6e8;border-bottom-style:solid}
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap .pricing-accordian-minus-button{ display: block !important; transform:none !important ; -webkit-transform:none !important ; -moz-transform:none !important ; -ms-transform:none !important ; -o-transform:none !important ; }
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle.w--open .accordion-icon-wrap .pricing-accordian-plus-button{display: none !important; transform:none !important ; -webkit-transform:none !important ; -moz-transform:none !important ; -ms-transform:none !important ; -o-transform:none !important ; }
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .pricing-accordian-paragraph{color: #403F42;}
