@@ -1155,4 +1155,19 @@ img.circle-2{top:34%;display:none}
 .subscribe-section.white-triangle-before.about-footer-white-corner+.pr-section-2.pr-footer-section{margin-top:-90px}
 .subscribe-section.white-triangle-before.about-footer-white-corner+.pr-section-2.pr-footer-section .pr-sec-top-triangle{border-width:0 50vw 50px}
 .apply-job-wrap{margin-bottom:20px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{padding:6px;font-size:16px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-social-ul{margin-left:0;margin-top:-15px;margin-bottom:20px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column{padding:18px 15px 16px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .p-26.pr-plan-heading{font-size:22px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column ul.pr-pricing-ul.w-list-unstyled li{padding-left:25px;margin-bottom:20px}
+.pr-pricing-tab .pricing-accordian-text-header{font-size:22px;line-height:normal}
+.pr-pricing-tab .pricing-accordian-paragraph{margin-bottom:0;font-size:16px;line-height:24px}
+.pr-pricing-tab .faq-sec-wrap.pr-faq-sec-wrap .accordion-icon-wrap img{width:25px}
+.pr-pricing-tab .faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap{max-width:45px;height:28px;overflow:hidden}
+.pr-pricing-tab .faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block{margin-top:0;margin-bottom:0;padding-bottom:10px}
+.pr-pricing-tab .faq-sec-wrap.pr-faq-sec-wrap .accordian-toggle{padding-bottom:15px;margin-bottom:0}
+.pr-pricing-tab .w-tab-menu .w-tab-link {width: 150px;padding-top: 16px;padding-bottom: 16px;}
+.pr-pricing-tab .w-tab-menu .w-tab-link > div{font-size: 20px;}
+.pr-pricing-tab .tab-content-view .pricing-tab-column h3.pr-pricing-plans-header {margin-bottom: 20px;}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button {margin-bottom: 20px;}
 }
