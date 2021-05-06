@@ -1114,4 +1114,8 @@ img.circle-2{top:34%;display:none}
 .pr-pricing-tab .w-tab-menu .w-tab-link:last-child{border-top-right-radius:10px}
 .pr-pricing-tab .w-tab-menu .w-tab-link.w--current{background:#fff;color:#ae1536}
 .pr-pricing-tab .tab-content-view { margin-right: 0px; margin-left: 0px; box-shadow: 0px 16px 50px rgba(52, 40, 78, 0.12); border-radius: 20px;  -webkit-border-radius: 20px; -moz-border-radius: 20px; -ms-border-radius: 20px; -o-border-radius: 20px;}
-.pr-pricing-tab .tab-content-view
+.pr-pricing-tab .tab-content-view .pricing-tab-column {
+    padding-top: 38px;
+    padding-left: 33px;
+    padding-right: 33px;
+}
