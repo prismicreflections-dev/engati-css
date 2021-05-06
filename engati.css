@@ -1139,3 +1139,9 @@ img.circle-2{top:34%;display:none}
     width: auto;
     margin-bottom: 9px;
 }
+
+.faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap {
+    max-width: 45px;
+    height: 38px;
+    overflow: hidden;
+}
