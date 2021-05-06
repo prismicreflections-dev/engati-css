@@ -1102,7 +1102,8 @@ img.circle-2{top:34%;display:none}
 .apply-job-wrap{margin-bottom:20px}
 }
 .home-accolades-mentions{text-align: left;}
-.home-accolades-mentions > div{align-items: start !important; -webkig-align-items: start !important; -ms-align-items: start !important;}
-.home-accolades-mentions > div .accolades-mention-logo-2{-webkit-align-self: start !important;align-self: start !important;}
+.home-accolades-mentions > div,
+.home-accolades-mentions > div .accolades-mention-logo-2,
+.home-accolades-mentions > div .accolades-mention-logo-2 .accolades-mention-logo-img{-webkit-align-self: start !important;align-self: start !important;}
 .subscribe-section.white-triangle-before.white-triangle-before{background:0 0!important}
 /* .subscribe-section.white-triangle-before:after{content:'';overflow:hidden;max-width:100vw;border-style:none solid solid;border-width:0 50vw 100px;border-color:transparent transparent #fff;position:absolute;top:-100px} */
