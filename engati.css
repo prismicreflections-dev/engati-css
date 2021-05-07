@@ -636,14 +636,14 @@ h4.home-tab-heding.home-tab-heding-left{
     left: 0;
     z-index: 3;
 }
-h4.home-tab-heding.home-tab-heding {
+h4.home-tab-heding.home-tab-heding-right {
     position: absolute;
     top: 0;
     max-width: 40%;
     right: 0;
     z-index: 3;
 }
-h4.home-tab-heding.home-tab-heding + .pr-tabs{margin-top: 60px;}
+h4.home-tab-heding + .pr-tabs{margin-top: 60px;}
 .home-pr-tab .pr-tabs-link.w--current::after {display: none;}
 
 @media (min-width:1400px){
