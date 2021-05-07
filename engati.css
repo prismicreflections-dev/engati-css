@@ -624,28 +624,16 @@ img.circle-2{left:50%;transform:translateX(-50%);top:42%;-webkit-transform:trans
 .w-layout-grid.pr-social-ui-img.google-ul-icon img.pricing-icon{max-width:inherit;width:auto;margin-bottom:9px}
 .faq-sec-wrap.pr-faq-sec-wrap .accordian-div-block .accordian-toggle .accordion-icon-wrap{max-width:45px;height:38px;overflow:hidden}
 .more-text{color:#403f42;font-size:17px;display:inline;width:auto}
-.top-head-stick{padding:10px;background-color:#AE1536;color:#fff;text-align:center;margin-left:-20px;margin-right:-20px}
+.top-head-stick{padding:10px;background-color:#ae1536;color:#fff;text-align:center;margin-left:-20px;margin-right:-20px}
 .top-head-stick a,.top-head-stick p{display:inline;padding-right:5px;font-size:16px;line-height:normal;color:#fff;font-weight:400;display:inline}
 .top-head-stick a{font-weight:600!important;margin-left:4px}
 .top-head-stick img{margin-top:-3px;margin-left:3px;display:inline;margin-left:2px}
-div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries-blk-2 div.industries-blk-body p.p-20-3.mt-20.min-h-90{font-size: 16px;line-height: normal;}
-h4.home-tab-heding.home-tab-heding-left{
-    position: absolute;
-    top: 0;
-    max-width: 40%;
-    left: 0;
-    z-index: 3;
-}
-h4.home-tab-heding.home-tab-heding-right {
-    position: absolute;
-    top: 0;
-    max-width: 40%;
-    right: 0;
-    z-index: 3;
-}
-h4.home-tab-heding + .pr-tabs{margin-top: 60px;}
-.home-pr-tab .pr-tabs-link.w--current::after {display: none;}
-
+div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries-blk-2 div.industries-blk-body p.p-20-3.mt-20.min-h-90{font-size:16px;line-height:normal}
+h4.home-tab-heding.home-tab-heding-left{position:absolute;top:0;max-width:40%;left:0;z-index:3}
+h4.home-tab-heding.home-tab-heding-right{position:absolute;top:0;max-width:40%;right:0;z-index:3}
+h4.home-tab-heding+.pr-tabs{margin-top:60px}
+.home-pr-tab .pr-tabs-link.w--current::after{display:none}
+.home-pr-tab .pr-tab-img-right-home{float:right}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
@@ -653,7 +641,7 @@ h4.home-tab-heding + .pr-tabs{margin-top: 60px;}
 }
 @media (min-width:1200px){
 .nav-link.exp{margin-right:0!important}
-.pr-tab-content-img-home{max-height: 560px;float: right;}
+.pr-tab-content-img-home{max-height:560px;float:right}
 }
 @media (min-width:1200px) and (max-width:1399px){
 .pr-vertical-tab-wrap.w-tab-menu .w-tab-link{width:290px}
@@ -951,7 +939,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .mt140-adj{margin-top:140px!important}
 }
 @media (max-width:767px){
-.pr-sec-top-triangle-2 {overflow: hidden;max-width: 100vw;border-style: none solid solid;border-width: 0 50vw 50px;border-color: transparent transparent #f7f8fa;}
+.pr-sec-top-triangle-2{overflow:hidden;max-width:100vw;border-style:none solid solid;border-width:0 50vw 50px;border-color:transparent transparent #f7f8fa}
 .xs-max-w-100{max-width:100%!important}
 .xs-text-center{text-align:center!important}
 .xs-mt20{margin-top:20px!important}
@@ -1216,8 +1204,8 @@ img.circle-2{top:34%;display:none}
 .pr-pricing-inner-div .view-feature-btn img{position:absolute;top:22px;right:15px;z-index:0}
 .pr-pricing-inner-div .view-feature{display:none;padding-top:15px;padding-bottom:15px}
 .top-head-stick a,.top-head-stick p{font-size:14px!important}
-.industries-blk-wrap-2 .industries-blk-2 .industries-blk-icon-2 {margin-right: 15px;}
-.button-9.bttn-primary {max-width: 170px;}
-.pr-section-2.bg-grey-bottom.pos-rel.pb-cust .section-cta {margin-top: 50px;}
-.pr-container-3.pr-container-fluid.bg-grey .pr-tab-pane-inner .tab-img-wrappper .pr-tab-content-img {width: auto;}
+.industries-blk-wrap-2 .industries-blk-2 .industries-blk-icon-2{margin-right:15px}
+.button-9.bttn-primary{max-width:170px}
+.pr-section-2.bg-grey-bottom.pos-rel.pb-cust .section-cta{margin-top:50px}
+.pr-container-3.pr-container-fluid.bg-grey .pr-tab-pane-inner .tab-img-wrappper .pr-tab-content-img{width:auto}
 }
