@@ -283,6 +283,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .section-breadcrum .hero-container.pl.w-container{padding:0 20px;max-width:100%}
 .footer-links-div.footer-links-div-adj{padding-right:0;padding-left:0;margin-top:20px}
 .footer-links-div.footer-link-div-lg-mt{margin-top:0px}
+.footer-links-div.hide-for-tab-mobile {display: none;}
 }
 @media screen and (max-width:991px){
 .text-block-2{font-size:14px}
@@ -1255,4 +1256,5 @@ h4.home-tab-heding.home-tab-heding-left{position:static;top:0;max-width:100%;rig
 .pr-section-2.white-triangle-before.rev-box-sec{padding-top:100px;padding-bottom:40px;margin-top:0}
 .footer-links-div.footer-links-div-adj{padding-right:0;padding-left:0;margin-top:20px}
 .footer-links-div.footer-link-div-lg-mt{margin-top:0px}
+.footer-links-div.hide-for-tab-mobile {display: none;}
 }
