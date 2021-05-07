@@ -1217,4 +1217,5 @@ img.circle-2{top:34%;display:none}
 .pr-pricing-inner-div .view-feature-btn a{position:relative;width:100%;padding:16px 15px}
 .pr-pricing-inner-div .view-feature-btn img{position:absolute;top:22px;right:15px;z-index:0}
 .pr-pricing-inner-div .view-feature{display:none;padding-top:15px; padding-bottom: 15px;}
+.top-head-stick a, .top-head-stick p {font-size: 14px !important;}
 }
