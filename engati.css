@@ -805,7 +805,9 @@ img.circle-2{top:38%}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-social-ul{margin-left:0;margin-top:-15px;margin-bottom:20px}
 .pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70 {left: 0px !important;}
 a.w-nav-brand.w--current .image-87{max-width: 150px;}
-
+h4.home-tab-heding.home-tab-heding-right {top: 158px;right: 50px;}
+h4.home-tab-heding.home-tab-heding-left {top: 60px;left: 20px;}
+.pr-tabs-wrapper-2.pt0.pr-tabs-wrapper-mobile.pr-tabs-wrapper.home-pr-tab.mt40 {margin-top: 0 !important;}
 }
 @media (min-width:768px) and (max-width:1199px){
 .pr-container-wrap-adj{padding-left:20px;padding-right:20px}
@@ -945,6 +947,9 @@ img.circle-2{top:34%}
 .pr-pricing-tab .w-tab-menu .w-tab-link>div{font-size:20px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column h3.pr-pricing-plans-header{margin-bottom:20px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{margin-bottom:20px}
+a.w-nav-brand.w--current .image-87{max-width: 150px;}
+h4.home-tab-heding.home-tab-heding-right {position: static;top: 0;max-width: 100%;right: 0;z-index: 3;text-align: center;margin-bottom: -60px;}
+.pr-tabs-wrapper-2.pt0.pr-tabs-wrapper-mobile.pr-tabs-wrapper.home-pr-tab.mt40 {margin-top: 0 !important;}
 }
 @media (min-width:768px){
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
