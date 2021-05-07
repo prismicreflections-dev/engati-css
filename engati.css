@@ -736,6 +736,8 @@ h4.home-tab-heding+.pr-tabs{margin-top:100px}
 .define-us-grid-wrap{height:900px;overflow:hidden;padding-top:20px;width:1200px;margin:auto}
 .pr-section-common.mt150123.grey-triangle-before{margin-top:0!important}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero h2{margin-top:430px;float:right}
+.pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70 {left: 70px !important;}
+h4.home-tab-heding.home-tab-heding-right {right: 70px !important;}
 }
 @media (min-width:991px){
 .hide-desktop{display:none!important}
@@ -801,6 +803,9 @@ div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card{marg
 img.circle-2{top:38%}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{padding:10px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-social-ul{margin-left:0;margin-top:-15px;margin-bottom:20px}
+.pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70 {left: 0px !important;}
+a.w-nav-brand.w--current .image-87{max-width: 150px;}
+
 }
 @media (min-width:768px) and (max-width:1199px){
 .pr-container-wrap-adj{padding-left:20px;padding-right:20px}
@@ -945,6 +950,7 @@ img.circle-2{top:34%}
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
 .pr-news-hero-section .pr-news-hero-box-inner{bottom:-80px}
 .mt140-adj{margin-top:140px!important}
+.engaity-accolades-img {position: absolute;left: auto;top: 38%;right: -70px;bottom: 0;z-index: 5;}
 }
 @media (max-width:767px){
 .pr-sec-top-triangle-2{overflow:hidden;max-width:100vw;border-style:none solid solid;border-width:0 50vw 50px;border-color:transparent transparent #f7f8fa}
