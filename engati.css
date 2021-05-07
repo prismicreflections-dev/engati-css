@@ -639,6 +639,10 @@ img.circle-2{left:50%;transform:translateX(-50%);top:42%;-webkit-transform:trans
     font-size: 16px;
     line-height: normal;
     color: #fff;
+    font-weight: 400;
+}
+.top-head-stick a{
+    font-weight: 600 !important;
 }
 .top-head-stick img{
     margin-top: -3px;
