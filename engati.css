@@ -281,6 +281,8 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .pr-section-common.white-triangle-before.pr-tab-section-resp .pr-container-1420.mb130.w-container{margin-bottom:20px!important}
 .flexbox-pl-weprovide.upper.mb80.conve-sect .flex-right.wid40{width:100%;margin-left:0}
 .section-breadcrum .hero-container.pl.w-container{padding:0 20px;max-width:100%}
+.footer-links-div.footer-links-div-adj{padding-right:0;padding-left:0;margin-top:20px}
+.footer-links-div.footer-link-div-lg-mt{margin-top:0px}
 }
 @media screen and (max-width:991px){
 .text-block-2{font-size:14px}
