@@ -640,6 +640,7 @@ img.circle-2{left:50%;transform:translateX(-50%);top:42%;-webkit-transform:trans
     line-height: normal;
     color: #fff;
     font-weight: 400;
+    display: inline;
 }
 .top-head-stick a{
     font-weight: 600 !important;
@@ -647,6 +648,7 @@ img.circle-2{left:50%;transform:translateX(-50%);top:42%;-webkit-transform:trans
 .top-head-stick img{
     margin-top: -3px;
     margin-left: 3px;
+    display: inline;
 }
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
