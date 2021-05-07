@@ -629,6 +629,23 @@ img.circle-2{left:50%;transform:translateX(-50%);top:42%;-webkit-transform:trans
 .top-head-stick a{font-weight:600!important;margin-left:4px}
 .top-head-stick img{margin-top:-3px;margin-left:3px;display:inline;margin-left:2px}
 div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries-blk-2 div.industries-blk-body p.p-20-3.mt-20.min-h-90{font-size: 16px;line-height: normal;}
+h4.home-tab-heding.home-tab-heding-left{
+    position: absolute;
+    top: 0;
+    max-width: 40%;
+    left: 0;
+    z-index: 3;
+}
+h4.home-tab-heding.home-tab-heding {
+    position: absolute;
+    top: 0;
+    max-width: 40%;
+    right: 0;
+    z-index: 3;
+}
+h4.home-tab-heding.home-tab-heding + .pr-tabs{margin-top: 60px;}
+.home-pr-tab .pr-tabs-link.w--current::after {display: none;}
+
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
