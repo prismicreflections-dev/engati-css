@@ -644,6 +644,8 @@ h4.home-tab-heding+.pr-tabs{margin-top:100px}
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
 .pr-collection-list-wrap.w-dyn-items.w-row .pr-card-img-w100{height:100%;object-fit:cover}
+.subscribe-section .pr-container-4 {max-width: 100%;}
+.subscribe-section .subscribe-box-2 {max-width: 1420px;}
 }
 @media (min-width:1200px){
 .nav-link.exp{margin-right:0!important}
