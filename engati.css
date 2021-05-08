@@ -1281,5 +1281,5 @@ h4.home-tab-heding.home-tab-heding-left{position:static;top:0;max-width:100%;rig
 .pr-popup-wrapper-common .pr-radio-group.pr-radio-group-adj {position: relative;padding-top: 25px;margin-bottom: 10px;margin-right: 0 !important;}
 .pr-popup-wrapper-common h6 {margin-top: 20px;font-size: 22px;}
 .pr-popup-wrapper-common .pr-popup-form .new-contact-ph-input, .pr-popup-wrapper-common .pr-popup-form .form-field.w-input, .pr-popup-wrapper-common .pr-popup-form .form-field.w-select {font-size: 14px;height: 36px;padding: 8px 20px;}
-
+.pr-popup-wrapper-common .form-submit-btn.new-contact-submit-btn.text-cap.button-9.bttn-primary.wid-auto {width: auto;margin-bottom: 0 !important;}
 }
