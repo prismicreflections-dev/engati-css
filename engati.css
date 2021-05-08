@@ -648,7 +648,7 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .footer-links-div.footer-links-div-adj{padding-right:0;padding-left:0;margin-top:20px}
 .footer-links-div.footer-link-div-lg-mt{margin-top:-143px}
 .pr-popup-form{}
-.pr-popup-wrapper-common{border: 1px solid #FAFAFA;border-radius: 30px;}
+.pr-popup-wrapper-common .popup-container{ background: #fff; border: 1px solid #FAFAFA; border-radius: 30px; -webkit-border-radius: 30px; -moz-border-radius: 30px; -ms-border-radius: 30px; -o-border-radius: 30px; }
 .pr-popup-wrapper-common h3{font-style: normal;font-weight: 600 !important;font-size: 32px;line-height: 36px;color: #000000; margin-bottom: 7px!important;}
 .pr-popup-wrapper-common .popup-desc{font-style: normal;font-weight: 600;font-size: 14px;line-height: 20px;color: #77777A;}
 .pr-popup-wrapper-common h6{margin-top: 40px;}
