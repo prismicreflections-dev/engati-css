@@ -652,6 +652,7 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .pr-popup-wrapper-common h3{font-style: normal;font-weight: 600;font-size: 32px;line-height: 36px;color: #000000; margin-bottom: 7px;}
 .pr-popup-wrapper-common .popup-desc{font-style: normal;font-weight: 600;font-size: 14px;line-height: 20px;color: #77777A;}
 .pr-popup-wrapper-common h6{margin-top: 20px;}
+.pr-popup-wrapper-common .pr-popup-form .new-contact-ph-input{ border: 1px solid rgba(64, 63, 66, 0.1); border-radius: 100px; font-size: 16px; height: 48px; padding-left: 20px; margin-top: 5px; -webkit-border-radius: 100px; -moz-border-radius: 100px; -ms-border-radius: 100px; -o-border-radius: 100px; }
 .pr-popup-wrapper-common .pr-popup-form .form-field.w-input,
 .pr-popup-wrapper-common .pr-popup-form .form-field.w-select{border: 1px solid rgba(64, 63, 66, 0.1);border-radius: 100px;font-size: 16px;height: 48px; padding-left: 20px;}
 .pr-popup-wrapper-common .pr-popup-form textarea.w-input.form-field{ border: 1px solid rgba(64, 63, 66, 0.1); border-radius: 10px !important; font-size: 16px; padding-left: 20px; height: 80px; resize: vertical; -webkit-border-radius: 10px !important; -moz-border-radius: 10px !important; -ms-border-radius: 10px !important; -o-border-radius: 10px !important; }
