@@ -660,7 +660,7 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .footer-main .footer-links-div .footer-links-title[data-link]{cursor: pointer;}
 .footer-main .footer-links-div .footer-links-title[data-link]:hover{color: #c93050;text-decoration: none;}
 .pr-radio-group.pr-radio-group-adj {position: relative;padding-top: 28px;}
-.pr-radio-group.pr-radio-group-adj>label{position: absolute;top: 0;left: 0;}
+.pr-radio-group.pr-radio-group-adj label.interested-label-adj{position: absolute;top: 0;left: 0;}
 .pr-radio-group.pr-radio-group-adj .w-radio .w-form-label span{font-style: normal;font-weight: 700;font-size: 14px;line-height: 20px;color: #403F42;margin-right: 10px;}
 
 @media (min-width:1400px){
