@@ -656,6 +656,7 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .pr-popup-wrapper-common .pr-popup-form textarea.w-input.form-field{border: 1px solid rgba(64, 63, 66, 0.1);border-radius: 10px;font-size: 16px;padding-left: 20px;height: 80px; resize: vertical;}
 .pr-popup-wrapper-common .pr-popup-form .pr-radio-group{width:100%; margin-right: 5px}
 .pr-popup-wrapper-common .pr-popup-form .form-submit-btn-row{padding-top: 20px;}
+.footer-main .footer-links-div .footer-links-title[data-link]{cursor: pointer;}
 .footer-main .footer-links-div .footer-links-title[data-link]:hover{color: #c93050;text-decoration: none;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
