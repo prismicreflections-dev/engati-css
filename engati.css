@@ -1285,4 +1285,8 @@ h4.home-tab-heding.home-tab-heding-left{position:static;top:0;max-width:100%;rig
 .pr-popup-wrapper-common h6 {margin-top: 20px;font-size: 22px;}
 .pr-popup-wrapper-common .pr-popup-form .new-contact-ph-input, .pr-popup-wrapper-common .pr-popup-form .form-field.w-input, .pr-popup-wrapper-common .pr-popup-form .form-field.w-select {font-size: 14px;height: 36px;padding: 8px 20px;}
 .pr-popup-wrapper-common .form-submit-btn.new-contact-submit-btn.text-cap.button-9.bttn-primary.wid-auto {width: auto;margin-bottom: 0 !important;}
+.pr-section-2.pt-0.bg-grey.pb-50 .columns-22.m-w-1400.mb120.w-row {margin-bottom: 0 !important;}
+.subscribe-section-2{margin-bottom: 0 !important;}
+.pr-section-2.pr-footer-section {padding-top: 20px;}
+.pr-section-2.pr-footer-section .footer-wrap-2 {padding-top: 30px !important;}
 }
