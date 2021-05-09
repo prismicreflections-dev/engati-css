@@ -109,7 +109,6 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .home-testimonial-slide{margin-bottom:70px}
 .about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top:6px!important}
 h4.home-tab-heding.home-tab-heding-right {right: 60px !important;}
-.pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70 {left: 60px!important;}
 }
 @media screen and (max-width:1699px) and (min-width:1600px){
 .ecom-page .home-testimonial-slide{margin-bottom:40px}
@@ -1315,3 +1314,6 @@ div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries
 .about-footer-link-adj{float:left;clear:both;margin-right:13px}
 .about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top:0}
 }
+@media screen and (max-width:1919px) and (min-width:1600px){
+    .pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70 {left: 60px!important;}
+    }
