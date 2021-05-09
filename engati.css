@@ -670,6 +670,7 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .nav-link.exp{margin-right:0!important}
 .pr-tab-content-img-home{max-height:560px;float:right}
 .footer-links.footer-links-subheading{margin-top:4px}
+.industries-blk-wrap-2 .industries-blk-2{padding-left: 0; padding-right: 0;}
 }
 @media (min-width:1200px) and (max-width:1399px){
 .pr-vertical-tab-wrap.w-tab-menu .w-tab-link{width:290px}
