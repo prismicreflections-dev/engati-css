@@ -656,8 +656,25 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .about-footer-link-adj a.footer-links.hiring.we-are-hiring-link {top: 0;left: auto;right: -90px;z-index: 9;position: absolute; background:#816bda;font-weight:400;font-size:12px;line-height:13px;color:#fff;border-radius:40px;-webkit-border-radius:40px;-moz-border-radius:40px;-ms-border-radius:40px;-o-border-radius:40px;padding:4px 10px;cursor:pointer;white-space:nowrap; margin: 0;}
 .pr-tabs-card .pr-tabs-card-img-wrap .pr-tabs-card-body .pr-tabs-card-ttl {margin-top: 0;}
 .pr-tabs-wrapper .pr-tabs-menu .pr-tabs-link {margin-top: 10px;margin-bottom: 10px;padding: 20px;}
-.pr-feature-resources-col-right .pr-profile-adj div{font-family: Hind, sans-serif;color: #242424;font-weight: 500; font-size: 14px; position: relative;}
-.pr-feature-resources-col-right .pr-profile-adj div:not(:last-child):after{content: ''; height: 3px; width: 3px; display: block; background: #686873; border-radius: 50%; z-index: 1; -webkit-border-radius: 50%; -moz-border-radius: 50%; -ms-border-radius: 50%; -o-border-radius: 50%; }
+.pr-feature-resources-col-right .pr-profile-adj div{font-family: Hind, sans-serif;color: #686873;font-weight: 400; font-size: 14px; position: relative;}
+.pr-feature-resources-col-right .pr-profile-adj div:first-child{color: #242424; font-weight: 500;}
+.pr-feature-resources-col-right .pr-profile-adj div:not(:last-child):after {
+    content: '';
+    height: 3px;
+    width: 3px;
+    display: block;
+    background: #686873;
+    border-radius: 50%;
+    z-index: 1;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: 6px;
+    right: -9px;
+    z-index: 3;
+}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
