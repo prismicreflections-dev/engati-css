@@ -1295,4 +1295,6 @@ a.button-7.revol.button-revol.button.w-button{position:relative;z-index:9;width:
 h4.home-tab-heding+.pr-tabs{margin-top:50px!important}
 .pr-sec-top-triangle-white-adj.home-page-tringle {margin-top: -90px;margin-bottom: 40px;border-color: transparent transparent #fff;border-width: 0 50vw 50px;padding-top: 40px;}
 .pr-section-2.pt-0.bg-grey.pb-50 {padding-bottom: 110px;}
+.hide-mobile-br br{display: none;}
+.home-accolades-mentions {text-align: left;min-height: inherit !important;}
 }
