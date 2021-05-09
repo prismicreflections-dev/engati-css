@@ -1051,7 +1051,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .navbar.pr-navbar.w-nav .nav-container.w-container+.w-nav-overlay .div-block-28{display:block;padding-top:10px;padding-bottom:0;border-style:solid;border-width:0;border-color:#fff;border-radius:10px;background-color:#fff;box-shadow:none; float: none;}
 .navbar.pr-navbar.w-nav .nav-container.w-container+.w-nav-overlay .dropdown-left{margin-right:0;margin-left:20px}
 .navbar.pr-navbar.w-nav .nav-container.w-container+.w-nav-overlay .dropdown-middle{margin-right:0;margin-left:20px;margin-top:20px}
-.navbar.pr-navbar.w-nav .nav-container.w-container+.w-nav-overlay .nav-dropdown-list.w--open{position:static;left:0;bottom:auto;top:100%;transform:none;-webkit-transform:none;-moz-transform:none;-ms-transform:none;-o-transform:none;padding-top:16px}
+.navbar.pr-navbar.w-nav .nav-container.w-container+.w-nav-overlay .nav-dropdown-list.w--open{position:static;left:0;bottom:auto;top:100%;transform:none;-webkit-transform:none;-moz-transform:none;-ms-transform:none;-o-transform:none;padding-top:16px; display: block;}
 .navbar.pr-navbar.w-nav .nav-container.w-container+.w-nav-overlay .nav-drop-heading{font-weight:600;font-size:15px;color:#686873;margin-bottom:16px}
 .navbar.pr-navbar.w-nav .nav-container.w-container+.w-nav-overlay .nav-dropdown-item.w-dropdown-link{font-style:normal;font-weight:400;font-size:14px;color:#686873;margin-bottom:10px}
 .navbar.pr-navbar.w-nav .nav-container.w-container+.w-nav-overlay .nav-drop-heading-2{margin-bottom: 15px;}
@@ -1172,7 +1172,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .get-started-section .tabs-content-2.w-tab-content{width:100%;padding:0}
 .get-started-section .w-tab-menu .w-tab-link .we-enable-tab img{width: 30px;}
 .get-started-section .w-tab-menu .w-tab-link .we-enable-tab{display:flex;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-items:center;align-content:center}
-.get-started-section .w-tab-menu .w-tab-link .we-enable-tab h1{margin-top:0!important;font-size:15px;margin-left:10px!important;text-align:left}
+.get-started-section .w-tab-menu .w-tab-link .we-enable-tab h1{margin-top:0!important;font-size:14px;margin-left:10px!important;text-align:left}
 .pr-section-common.grey-triangle-before.pb120.xs-mt-30.xs-pb60 .pr-container-1420.md-pt0-adj.xs-mt60 .flexbox-pl-weprovide.conve-sect.xs-mt60 .flex-left{margin-left:0!important}
 .number-counter-grid .box-wrap{padding:15px 25px 15px;position:relative;overflow:hidden}
 .number-counter-grid .box-wrap img{top:0;right:-50px;z-index:3;position:absolute;padding-top:0!important;width:190px}
