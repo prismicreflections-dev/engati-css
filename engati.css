@@ -1120,7 +1120,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap img.xs-max-w50{max-width: 50px !important;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap{width:auto;margin-left:0;bottom:0}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{width:auto;margin-left:0;bottom:0}
-.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap,.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{position:static;bottom:0;width:100%;left:auto;transform:none;margin-left:0;-webkit-transform:none;-moz-transform:none;-ms-transform:none;-o-transform:none;margin-top:20px;margin-bottom:40px}
+.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap,.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2{position:static;bottom:0;width:100%;left:auto;transform:none;margin-left:0;-webkit-transform:none;-moz-transform:none;-ms-transform:none;-o-transform:none;margin-top:10px;margin-bottom:10px}
 .get-started-corner-adj{margin-bottom:-60px;margin-top:100px}
 .pr-section-common.get-started-section.grey-triangle-before .pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white.get-started-corner-adj{border-width:0 50vw 50px;margin-top:60px}
 .pr-tabs-wrapper.pr-tabs-wrapper-mobile,.pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-content,.pr-tabs-wrapper.pr-tabs-wrapper-mobile .pr-tabs-menu{max-width:100%}
@@ -1160,7 +1160,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .card-blog.live-chat-link img{width:auto!important;margin-right:15px;height:auto!important;max-width:46px;position:relative;top:-5px}
 .flex-right.wid40{width:100%}
 .pr-section-common.white-triangle-before.pr-tab-section-resp{margin-top:0!important}
-.pr-tabs-content.pr-order-first.pr-tabs-content-big.w-tab-content{margin-top:20px}
+.pr-tabs-content.pr-order-first.pr-tabs-content-big.w-tab-content{margin-top:20px; margin-bottom: 0;}
 .pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap .p-20,.pr-tab-updated .pr-tabs-content.pr-tabs-content-big .veticle-bottom-img-wrap2 .p-20{font-size:14px;margin-top:10px}
 .get-started-section .get-started-head{margin-bottom:40px;margin-top:60px}
 .get-started-section .get-started-head .p-26{font-size:16px;line-height:160%}
