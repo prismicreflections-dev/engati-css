@@ -108,6 +108,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 @media screen and (max-width:1919px) and (min-width:1600px){
 .home-testimonial-slide{margin-bottom:70px}
 .about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top:6px!important}
+h4.home-tab-heding.home-tab-heding-right {right: 60px !important;}
 }
 @media screen and (max-width:1699px) and (min-width:1600px){
 .ecom-page .home-testimonial-slide{margin-bottom:40px}
@@ -632,8 +633,8 @@ img.circle-2{left:50%;transform:translateX(-50%);top:42%;-webkit-transform:trans
 .top-head-stick a{font-weight:600!important;margin-left:4px}
 .top-head-stick img{margin-top:-3px;margin-left:3px;display:inline;margin-left:2px}
 div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries-blk-2 div.industries-blk-body p.p-20-3.mt-20.min-h-90{font-size:16px;line-height:normal}
-h4.home-tab-heding.home-tab-heding-left{position:absolute;top:20px;max-width:45%;left:20px;z-index:3}
-h4.home-tab-heding.home-tab-heding-right{position:absolute;top:38px;max-width:45%;right:15px;z-index:3}
+h4.home-tab-heding.home-tab-heding-left{position:absolute;top:20px;max-width:40%;left:20px;z-index:3}
+h4.home-tab-heding.home-tab-heding-right{position:absolute;top:38px;max-width:40%;right:15px;z-index:3}
 h4.home-tab-heding+.pr-tabs{margin-top:100px}
 .home-pr-tab .pr-tabs-link.w--current::after{display:none}
 .home-pr-tab .pr-tab-img-right-home{float:right}
@@ -757,6 +758,7 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero h2{margin-top:430px;float:right}
 .pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70{left:70px!important}
 .about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top:0}
+h4.home-tab-heding.home-tab-heding-right {right: 70px !important;}
 }
 @media (min-width:991px){
 .hide-desktop{display:none!important}
@@ -829,6 +831,7 @@ h4.home-tab-heding.home-tab-heding-left{top:60px;left:20px}
 .pr-tabs-wrapper-2.pt0.pr-tabs-wrapper-mobile.pr-tabs-wrapper.home-pr-tab.mt40{margin-top:0!important}
 .pr-section-2.pr-hero-sec a.bttn-link-outline.bttn-icon.w-inline-block .btnn-link-text{font-size:14px}
 .about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top:0}
+h4.home-tab-heding.home-tab-heding-right {right: 70px !important;}
 }
 @media (min-width:768px) and (max-width:1199px){
 .pr-container-wrap-adj{padding-left:20px;padding-right:20px}
