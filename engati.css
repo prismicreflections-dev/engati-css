@@ -108,6 +108,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 }
 @media screen and (max-width:1919px) and (min-width:1600px){
 .home-testimonial-slide{margin-bottom:70px}
+.about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top: 6px;}
 }
 @media screen and (max-width:1699px) and (min-width:1600px){
 .ecom-page .home-testimonial-slide{margin-bottom:40px}
@@ -651,8 +652,8 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .accolades-mention-logo{height:auto!important}
 .home-testimonial-slide-2.home-testimonial-slide.w-slide .home-testimonial-card-2{min-height:280px}
 .pr-sec-top-triangle-white-adj.home-page-tringle{margin-top: -200px;margin-bottom: 50px;border-color: transparent transparent #fff;}
-.about-footer-link-adj {position: relative; display: inline-block;}
-.about-footer-link-adj a.footer-links.hiring.we-are-hiring-link {top: -7px;left: auto;right: -90px;z-index: 9;position: absolute; background:#816bda;font-weight:400;font-size:12px;line-height:13px;color:#fff;border-radius:40px;-webkit-border-radius:40px;-moz-border-radius:40px;-ms-border-radius:40px;-o-border-radius:40px;padding:4px 10px;cursor:inherit;white-space:nowrap;}
+.about-footer-link-adj {position: relative; display: inline-block; height: 30px;}
+.about-footer-link-adj a.footer-links.hiring.we-are-hiring-link {top: 0;left: auto;right: -90px;z-index: 9;position: absolute; background:#816bda;font-weight:400;font-size:12px;line-height:13px;color:#fff;border-radius:40px;-webkit-border-radius:40px;-moz-border-radius:40px;-ms-border-radius:40px;-o-border-radius:40px;padding:4px 10px;cursor:pointer;white-space:nowrap; margin: 0;}
 
 
 @media (min-width:1400px){
@@ -677,6 +678,7 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 }
 @media (min-width:1900px){
 .subscribe-section .subscribe-box-2{max-width:1420px}
+.about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top: 6px;}
 }
 @media (min-width:1600px){
 .h-600{height:600px}
@@ -755,6 +757,7 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero h2{margin-top:430px;float:right}
 .pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70{left:70px!important}
 h4.home-tab-heding.home-tab-heding-right{right:70px!important}
+.about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top: 0px;}
 }
 @media (min-width:991px){
 .hide-desktop{display:none!important}
@@ -827,6 +830,7 @@ h4.home-tab-heding.home-tab-heding-right{top:158px;right:50px}
 h4.home-tab-heding.home-tab-heding-left{top:60px;left:20px}
 .pr-tabs-wrapper-2.pt0.pr-tabs-wrapper-mobile.pr-tabs-wrapper.home-pr-tab.mt40{margin-top:0!important}
 .pr-section-2.pr-hero-sec a.bttn-link-outline.bttn-icon.w-inline-block .btnn-link-text{font-size:14px}
+.about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top: 0;}
 }
 @media (min-width:768px) and (max-width:1199px){
 .pr-container-wrap-adj{padding-left:20px;padding-right:20px}
@@ -972,6 +976,7 @@ h4.home-tab-heding.home-tab-heding-left{position:static;top:0;max-width:100%;rig
 .pr-tabs-wrapper-2.pt0.pr-tabs-wrapper-mobile.pr-tabs-wrapper.home-pr-tab.mt40{margin-top:0!important}
 .pr-section-2.pr-hero-sec a.bttn-link-outline.bttn-icon.w-inline-block .btnn-link-text{font-size:14px}
 .footer-links.footer-links-subheading{margin-top:2px}
+.about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top: 0;}
 }
 @media (min-width:768px){
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
@@ -1305,4 +1310,6 @@ h4.home-tab-heding+.pr-tabs{margin-top:50px!important}
 .pr-client-log-popup {text-align: center;margin-bottom: 40px;}
 div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries-blk-2 div.industries-blk-body p.p-20-3.mt-20.min-h-90 {font-size: 14px;line-height: normal;}
 .new-home-page-body .pr-section-2.pr-hero-sec .pr-hero-section .button-9.bttn-primary{font-size: 13px !important;}
+.about-footer-link-adj{float: left; clear: both; margin-right: 13px;}
+.about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top: 0;}
 }
