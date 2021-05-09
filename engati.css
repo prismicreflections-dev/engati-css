@@ -648,8 +648,8 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .footer-links-div.footer-links-div-adj{padding-right:0;padding-left:0;margin-top:20px}
 .footer-links-div.footer-link-div-lg-mt{margin-top:-143px}
 
-.footer-main .footer-links-div .footer-links-title[data-link]{cursor: pointer;}
-.footer-main .footer-links-div .footer-links-title[data-link]:hover{color: #c93050;text-decoration: none;}
+.footer-main .footer-links-div .footer-links-title a{cursor: pointer; color: #242424;}
+.footer-main .footer-links-div .footer-links-title a:hover{color: #c93050;text-decoration: none;}
 .accolades-mention-logo {height: auto !important;}
 
 
