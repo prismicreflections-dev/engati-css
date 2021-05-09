@@ -650,7 +650,7 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 
 .footer-main .footer-links-div .footer-links-title[data-link]{cursor: pointer;}
 .footer-main .footer-links-div .footer-links-title[data-link]:hover{color: #c93050;text-decoration: none;}
-
+.accolades-mention-logo {height: auto !important;}
 
 
 @media (min-width:1400px){
