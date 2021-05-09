@@ -632,8 +632,8 @@ img.circle-2{left:50%;transform:translateX(-50%);top:42%;-webkit-transform:trans
 .top-head-stick a{font-weight:600!important;margin-left:4px}
 .top-head-stick img{margin-top:-3px;margin-left:3px;display:inline;margin-left:2px}
 div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries-blk-2 div.industries-blk-body p.p-20-3.mt-20.min-h-90{font-size:16px;line-height:normal}
-h4.home-tab-heding.home-tab-heding-left{position:absolute;top:20px;max-width:542px;left:20px;z-index:3}
-h4.home-tab-heding.home-tab-heding-right{position:absolute;top:38px;max-width:542px;right:15px;z-index:3}
+h4.home-tab-heding.home-tab-heding-left{position:absolute;top:20px;max-width:45%;left:20px;z-index:3}
+h4.home-tab-heding.home-tab-heding-right{position:absolute;top:38px;max-width:45%;right:15px;z-index:3}
 h4.home-tab-heding+.pr-tabs{margin-top:100px}
 .home-pr-tab .pr-tabs-link.w--current::after{display:none}
 .home-pr-tab .pr-tab-img-right-home{float:right}
@@ -756,7 +756,6 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .pr-section-common.mt150123.grey-triangle-before{margin-top:0!important}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero h2{margin-top:430px;float:right}
 .pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70{left:70px!important}
-h4.home-tab-heding.home-tab-heding-right{right:70px!important}
 .about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top:0}
 }
 @media (min-width:991px){
