@@ -1166,11 +1166,12 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .get-started-section .get-started-head .p-26{font-size:16px;line-height:160%}
 .get-started-section .get-started-tabs{display:flex;flex-direction:column}
 .get-started-section .w-tab-menu{flex-direction:row;width:100%;flex-wrap:nowrap}
-.get-started-section .w-tab-menu .w-tab-link{padding:23px 15px;width:47%;min-height:inherit}
+.get-started-section .w-tab-menu .w-tab-link{padding:12px;width:47%;min-height:inherit; white-space: nowrap;}
 .get-started-section .w-tab-menu .w-tab-link:first-child{margin-right:6%}
 .get-started-section .tabs-content-2.w-tab-content{width:100%;padding:0}
+.get-started-section .w-tab-menu .w-tab-link .we-enable-tab img{width: 30px;}
 .get-started-section .w-tab-menu .w-tab-link .we-enable-tab{display:flex;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-items:center;align-content:center}
-.get-started-section .w-tab-menu .w-tab-link .we-enable-tab h1{margin-top:0!important;font-size:16px;margin-left:10px!important;text-align:left}
+.get-started-section .w-tab-menu .w-tab-link .we-enable-tab h1{margin-top:0!important;font-size:15px;margin-left:10px!important;text-align:left}
 .pr-section-common.grey-triangle-before.pb120.xs-mt-30.xs-pb60 .pr-container-1420.md-pt0-adj.xs-mt60 .flexbox-pl-weprovide.conve-sect.xs-mt60 .flex-left{margin-left:0!important}
 .number-counter-grid .box-wrap{padding:15px 25px 15px;position:relative;overflow:hidden}
 .number-counter-grid .box-wrap img{top:0;right:-50px;z-index:3;position:absolute;padding-top:0!important;width:190px}
