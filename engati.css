@@ -252,7 +252,6 @@ h4.home-tab-heding.home-tab-heding-right {right: 60px !important;}
 .start-rating .ratings i{font-size:14px;margin:8px 3px 0}
 .ecom-page .pr-hero-section{padding-top:60px;padding-bottom:40px}
 .four-logo-grid-logo{max-height:45px}
-.ecom-page .guide-sec{padding-bottom:20px}
 .ecom-page .home-testimonial-slider .home-testimonial-slide{margin-bottom:40px}
 .footer-main .footer-links.footer-links-subheading{cursor:inherit}
 .footer-main .footer-links,.footer-main .footer-links.footer-links-subheading{line-height:20px;margin-bottom:12px}
@@ -375,7 +374,6 @@ h4.home-tab-heding.home-tab-heding-right {right: 60px !important;}
 .white-triangle-before{padding-top:40px}
 .case-study-img-wrap{width:100%!important;min-height:260px!important}
 .ecom-page .pr-feature-resources.w-row>.pr-feature-resources-col-left{height:250px!important}
-.ecom-page .guide-sec{padding-bottom:0}
 .ecom-page .template-sec{padding-bottom:40px}
 .two-blks-wrap{margin-top:20px}
 .travel-page .home-hero-img-blk.ecom-blk{width:100%;margin:0 auto}
@@ -1335,7 +1333,11 @@ div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries
 .case-study-wrap .case-study-row .p-20-2.case-study-p,
 .case-study-wrap .case-study-row .p-20.case-study-p {font-size: 15px;line-height: 24px;font-weight: 400;}
 .pr-tab-content-img {width: 100%;}
-
+.case-study-row .case-study-rt-2 .p-20-3.case-study-p {margin-bottom: 20px;}
+.case-study-rt-2.case-study-rt.w-col.w-col-6.w-col-stack {padding-bottom: 0;}
+.two-blks-wrap.mb-60 {margin-bottom: 0px;}
+.template-sec .blog-card-4.home.blog-card {margin-bottom: 20px !important;}
+.guide-sec {padding-bottom: 100px;}
 }
 @media screen and (max-width:1919px) and (min-width:1600px){
     .pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70 {left: 60px!important;}
