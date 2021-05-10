@@ -449,6 +449,8 @@ body{overflow-x:hidden}
 .w-tab-link{position:relative;z-index:3}
 .tab-link-tab-1.w--current::after,.tab-link-tab-2.w--current::after{position:absolute;content:url(https://assets.website-files.com/6062c1add12da6add0e4236d/607b9d6c4b263d5959313eab_arrow_rt_red.png);top:auto;right:20px;left:auto;bottom:12px;z-index:1}
 .card-blog .card-body-head img{width:100%}
+.card-blog .card-body-head a h6{color: #403f42;text-decoration: none;}
+.card-blog .card-body-head a h6:hover{color: #c93050;text-decoration: none;}
 .card-blog .card-blog-body h6{margin:15px 0 6px}
 .card-blog .card-blog-body h6 a{color: #403f42;text-decoration: none;}
 .card-blog .card-blog-body h6 a:hover{color: #c93050;text-decoration: none;}
@@ -546,6 +548,7 @@ body{overflow-x:hidden}
 .case-study-row.reverse-order-adj.w-row{margin-top:160px}
 .case-study-row.reverse-order-adj.w-row .case-study-rt{padding:25px 100px 25px 25px}
 .case-study-row.reverse-order-adj.w-row .case-study-inf-blk{left:auto;right:20%}
+.pr-section-heading,
 .pr-section-common .pr-section-heading{position:relative;z-index:3}
 .about-right-panel{max-width:600px;float:right}
 .about-right-panel .pr-section-heading.text-left.text-red-adj{margin-bottom:30px}
@@ -669,8 +672,10 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size: 18px;line-height: 26px;
 .pr-collection-list-wrap.w-dyn-items.w-row .pr-card-img-w100{height:100%;object-fit:cover}
 .subscribe-section .pr-container-4{max-width:100%}
 .subscribe-section .subscribe-box-2{max-width:1420px}
+.case-study-img-wrap-2.case-study-img-wrap {min-height: 500px;}
 }
 @media (min-width:1200px){
+    .pr-section-title-3{max-width: 900px !important;}
 .nav-link.exp{margin-right:0!important}
 .pr-tab-content-img-home{max-height:560px;float:right}
 .footer-links.footer-links-subheading{margin-top:4px}
@@ -700,6 +705,7 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size: 18px;line-height: 26px;
 .pr-image-adj3{margin-left:70px;width:700px}
 .pr-section-common{padding-top:90px;padding-bottom:90px}
 .pr-section-common .pr-container-1420{max-width:1430px;padding-left:15px;padding-right:15px}
+.pr-section-heading,
 .pr-section-common .pr-section-heading{margin-bottom:60px;margin-top:0}
 .case-study-data.case-study-data-adj{width:750px;margin-top:-10px;margin-left:-70px}
 .tabs-menu-2.tab-menu-adj.w-tab-menu{margin-right:-30px;width:553px}
@@ -716,6 +722,7 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size: 18px;line-height: 26px;
 .flexbox-cx.mb100.pr-container-wrap-adj .heading-37{margin-bottom:25px!important}
 .pr-section-common{padding-top:90px;padding-bottom:90px}
 .pr-section-common .pr-container-1420{max-width:1160px;padding-left:15px;padding-right:15px}
+.pr-section-heading,
 .pr-section-common .pr-section-heading{margin-bottom:60px;margin-top:0}
 .pr-feature-resources-col-right{position:relative;padding:32px 30px 10px}
 .tab-img-wrappper.lg-left-70{left:-55px}
@@ -782,6 +789,7 @@ h4.home-tab-heding.home-tab-heding-right {right: 70px !important;}
 .md-pb0-adj{padding-bottom:0!important}
 .pr-section-common{padding-top:90px;padding-bottom:90px}
 .pr-section-common .pr-container-1200,.pr-section-common .pr-container-1420{padding-left:15px;padding-right:15px}
+.pr-section-heading,
 .pr-section-common .pr-section-heading{margin-bottom:60px;margin-top:0}
 .get-started-section .pl-container-weprovide.w-container{padding:0 15px}
 .navbar.pr-navbar.w-nav .nav-link.login{padding-left:0;margin-left:0!important}
@@ -865,6 +873,7 @@ h4.home-tab-heding.home-tab-heding-right {right: 70px !important;}
 .w-layout-grid.language-grid .language-img{width:60px}
 .pr-section-common{padding-top:90px;padding-bottom:90px}
 .pr-section-common .pr-container-1200,.pr-section-common .pr-container-1420{max-width:728px;padding-left:15px;padding-right:15px}
+.pr-section-heading,
 .pr-section-common .pr-section-heading{margin-bottom:60px;margin-top:0}
 .md-pb30{padding-bottom:30px!important}
 .md-pt30{padding-top:30px!important}
@@ -1011,6 +1020,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .xs-pl10{padding-left:10px!important}
 .pr-section-common{padding-top:80px;padding-bottom:60px}
 .pr-section-common .pr-container-1200,.pr-section-common .pr-container-1420{max-width:100%;padding-left:20px;padding-right:20px}
+.pr-section-heading,
 .pr-section-common .pr-section-heading{margin-bottom:40px;margin-top:0}
 .flex-revers-colums-xs{display:flex!important;flex-direction:column-reverse!important}
 .xs-mt-20{margin-top:-20px!important}
