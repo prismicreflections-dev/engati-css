@@ -1268,7 +1268,8 @@ img.circle-2{top:34%;display:none}
 .pr-pricing-inner-div .view-feature-btn a{position:relative;width:100%;padding:16px 15px}
 .pr-pricing-inner-div .view-feature-btn img{position:absolute;top:22px;right:15px;z-index:0}
 .pr-pricing-inner-div .view-feature{display:none;padding-top:15px;padding-bottom:15px}
-.top-head-stick a,.top-head-stick p{font-size:14px!important}
+.top-head-stick a,.top-head-stick p{font-size:13px!important}
+.top-head-stick img {margin-top: 0;display: inline;margin-left: 2px;width: 5px;}
 .industries-blk-wrap-2 .industries-blk-2 .industries-blk-icon-2{margin-right:15px}
 .button-9.bttn-primary{max-width:170px}
 .pr-section-2.bg-grey-bottom.pos-rel.pb-cust .section-cta{margin-top:50px}
