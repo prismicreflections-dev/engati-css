@@ -1319,7 +1319,7 @@ div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries
 .case-study-wrap .case-study-row .p-20-3.case-study-p,
 .case-study-wrap .case-study-row .p-20-2.case-study-p,
 .case-study-wrap .case-study-row .p-20.case-study-p {font-size: 15px;line-height: 24px;font-weight: 400;}
-
+.pr-tab-content-img {width: 100%;}
 }
 @media screen and (max-width:1919px) and (min-width:1600px){
     .pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70 {left: 60px!important;}
