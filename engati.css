@@ -660,7 +660,7 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .pr-feature-resources-col-right .pr-profile-adj div{font-family:Hind,sans-serif;color:#686873;font-weight:400;font-size:14px;position:relative; margin-right: 15px;}
 .pr-feature-resources-col-right .pr-profile-adj div.first-name{color:#242424;font-weight:500}
 .pr-feature-resources-col-right .pr-profile-adj div:not(:last-child):after{content:'';height:3px;width:3px;display:block;background:#686873;border-radius:50%;z-index:1;-webkit-border-radius:50%;-moz-border-radius:50%;-ms-border-radius:50%;-o-border-radius:50%;position:absolute;top:7px;right:-9px;z-index:3}
-h6.pr-about-heading-sec.footer-tttl.text-dark strong {font-size: 18px;line-height: 26px;font-weight: 600;color: #242424;text-transform: uppercase;}
+h6.pr-about-heading-sec.footer-tttl.text-dark{font-size: 18px;line-height: 26px;font-weight: 600;color: #242424;text-transform: uppercase;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
