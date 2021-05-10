@@ -450,6 +450,8 @@ body{overflow-x:hidden}
 .tab-link-tab-1.w--current::after,.tab-link-tab-2.w--current::after{position:absolute;content:url(https://assets.website-files.com/6062c1add12da6add0e4236d/607b9d6c4b263d5959313eab_arrow_rt_red.png);top:auto;right:20px;left:auto;bottom:12px;z-index:1}
 .card-blog .card-body-head img{width:100%}
 .card-blog .card-blog-body h6{margin:15px 0 6px}
+.card-blog .card-blog-body h6 a{color: #403f42;text-decoration: none;}
+.card-blog .card-blog-body h6 a:hover{color: #c93050;text-decoration: none;}
 .card-blog:hover{box-shadow:rgba(99,99,99,.2) 0 2px 8px 0;background:#fff}
 .get-started-section{overflow:hidden}
 .get-started-section .get-started-head .heading-box .p-26{font-weight:600;margin-top:22px}
