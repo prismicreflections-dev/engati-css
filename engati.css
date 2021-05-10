@@ -660,6 +660,7 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .pr-feature-resources-col-right .pr-profile-adj div{font-family:Hind,sans-serif;color:#686873;font-weight:400;font-size:14px;position:relative; margin-right: 15px;}
 .pr-feature-resources-col-right .pr-profile-adj div.first-name{color:#242424;font-weight:500}
 .pr-feature-resources-col-right .pr-profile-adj div:not(:last-child):after{content:'';height:3px;width:3px;display:block;background:#686873;border-radius:50%;z-index:1;-webkit-border-radius:50%;-moz-border-radius:50%;-ms-border-radius:50%;-o-border-radius:50%;position:absolute;top:7px;right:-9px;z-index:3}
+h6.pr-about-heading-sec.footer-tttl.text-dark strong {font-size: 18px;line-height: 26px;font-weight: 600;color: #242424;text-transform: uppercase;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
@@ -1037,7 +1038,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .xs-hide-triangle:before{display:none}
 .pr-sec-top-triangle{border-width:0 50vw 50px}
 .navbar.pr-navbar.w-nav .nav-container.w-container .w-nav-brand{padding-left:0!important}
-.navbar.pr-navbar.w-nav .nav-container.w-container .w-nav-brand img{width:85px}
+.navbar.pr-navbar.w-nav .nav-container.w-container .w-nav-brand img{width:120px}
 .navbar.pr-navbar.w-nav .nav-container.w-container .w-nav-button{padding:6px 0}
 .navbar.pr-navbar.w-nav .nav-container.w-container+.w-nav-overlay .nav-menu.w-nav-menu>.nav-link{margin-right:0;margin-left:20px;width:100%;display:block;margin-bottom:20px}
 .navbar.pr-navbar.w-nav .nav-container.w-container+.w-nav-overlay .nav-menu.w-nav-menu>.nav-link>.nav-link{margin-right:0;margin-left:0;width:100%;display:block}
