@@ -1285,7 +1285,7 @@ img.circle-2{top:34%;display:none}
 .top-head-stick a,.top-head-stick p{font-size:13px!important}
 .top-head-stick img {margin-top: 0;display: inline;margin-left: 2px;width: 5px;}
 .industries-blk-wrap-2 .industries-blk-2 .industries-blk-icon-2{margin-right:15px}
-.button-9.bttn-primary{max-width:200px}
+.button-9.bttn-primary{max-width:200px; display: inline-block; width: auto;}
 .pr-section-2.bg-grey-bottom.pos-rel.pb-cust .section-cta{margin-top:50px}
 .pr-container-3.pr-container-fluid.bg-grey .pr-tab-pane-inner .tab-img-wrappper .pr-tab-content-img{width:auto}
 .pr-section-2.pr-hero-sec a.bttn-link-outline.bttn-icon.w-inline-block .btnn-link-text{font-size:14px}
@@ -1338,6 +1338,8 @@ div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries
 .two-blks-wrap.mb-60 {margin-bottom: 0px;}
 .template-sec .blog-card-4.home.blog-card {margin-bottom: 20px !important;}
 .guide-sec {padding-bottom: 100px;}
+.banking-sec-ttl-2{width: 100% !important;}
+.ecom-page .home-testimonial-slider .home-testimonial-slide {margin-bottom: 0 !important;}
 }
 @media screen and (max-width:1919px) and (min-width:1600px){
     .pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70 {left: 60px!important;}
