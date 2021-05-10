@@ -109,6 +109,7 @@ ul.blog-ul-list li span+span,ul.blog-ul-list li span>span{font-weight:400;color:
 .home-testimonial-slide{margin-bottom:70px}
 .about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top:6px!important}
 h4.home-tab-heding.home-tab-heding-right {right: 60px !important;}
+.tab-img-adj-lg{width:580px;max-width:inherit}
 }
 @media screen and (max-width:1699px) and (min-width:1600px){
 .ecom-page .home-testimonial-slide{margin-bottom:40px}
