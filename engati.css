@@ -845,6 +845,7 @@ h4.home-tab-heding.home-tab-heding-left{top:60px;left:20px}
 h4.home-tab-heding.home-tab-heding-right {right: 70px !important;}
 }
 @media (min-width:768px) and (max-width:1199px){
+    .md-mt30{margin-top: 30px !important;}
 .pr-container-wrap-adj{padding-left:20px;padding-right:20px}
 .flexbox-cx-bottom.pb0.pr-engati-offering-sec{margin-top:180px;padding-top:30px}
 .view-more-btn-wrap-adj{margin-top:60px;margin-bottom:0}
@@ -1012,10 +1013,12 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-sec-top-triangle-2{overflow:hidden;max-width:100vw;border-style:none solid solid;border-width:0 50vw 50px;border-color:transparent transparent #f7f8fa}
 .xs-max-w-100{max-width:100%!important}
 .xs-text-center{text-align:center!important}
+.xs-pt0{padding-top: 0 !important;}
 .xs-mt20{margin-top:20px!important}
 .xs-mt-30{margin-top:-30px!important}
 .xs-pr10{padding-right:10px!important}
 .xs-pl10{padding-left:10px!important}
+.pr-section-2,
 .pr-section-common{padding-top:80px;padding-bottom:60px}
 .pr-container-1420, .pr-section-common .pr-container-1200,.pr-section-common .pr-container-1420{max-width:100%;padding-left:20px;padding-right:20px}
 .pr-section-heading,
@@ -1284,7 +1287,7 @@ img.circle-2{top:34%;display:none}
 .top-head-stick a,.top-head-stick p{font-size:13px!important}
 .top-head-stick img {margin-top: 0;display: inline;margin-left: 2px;width: 5px;}
 .industries-blk-wrap-2 .industries-blk-2 .industries-blk-icon-2{margin-right:15px}
-.button-9.bttn-primary{max-width:170px}
+.button-9.bttn-primary{max-width:200px}
 .pr-section-2.bg-grey-bottom.pos-rel.pb-cust .section-cta{margin-top:50px}
 .pr-container-3.pr-container-fluid.bg-grey .pr-tab-pane-inner .tab-img-wrappper .pr-tab-content-img{width:auto}
 .pr-section-2.pr-hero-sec a.bttn-link-outline.bttn-icon.w-inline-block .btnn-link-text{font-size:14px}
