@@ -116,8 +116,6 @@ h4.home-tab-heding.home-tab-heding-right {right: 60px !important;}
 .two-blks-wrap .two-blks-img{max-width:460px}
 }
 @media screen and (max-width:1699px) and (min-width:1500px){
-    .pr-container-1420,
-.pr-section-2 .pr-container-1420{max-width:1240px;padding:0 15px}
 .two-blks-wrap .two-blks-img{max-width:500px}
 .ecom-page .home-testimonial-wrap-2{padding-bottom:64px}
 .ecom-page .pr-hero-section{padding-top:120px;padding-bottom:120px}
