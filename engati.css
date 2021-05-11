@@ -607,7 +607,7 @@ img.circle-2{left:50%;transform:translateX(-50%);top:42%;-webkit-transform:trans
 .pr-pricing-tab .tab-content-view .pricing-tab-column{padding:38px 30px 30px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .whatapp-radio{height:26px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column h3.pr-pricing-plans-header{margin-top:4px;margin-bottom:28px}
-.pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{padding:20px;margin-left:0;margin-right:0;border-radius:40px;-webkit-border-radius:40px;-moz-border-radius:40px;-ms-border-radius:40px;-o-border-radius:40px;display:block;margin-bottom:40px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{padding:18 px;margin-left:0;margin-right:0;border-radius:40px;-webkit-border-radius:40px;-moz-border-radius:40px;-ms-border-radius:40px;-o-border-radius:40px;display:block;margin-bottom:40px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button:hover{background:linear-gradient(123deg,#ae1535,#d73254);box-shadow:0 5px 12px 0 rgb(0 0 0 / 30%)}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-info-list{margin-top:24px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column ul.pr-pricing-ul.w-list-unstyled li{position:relative;padding-left:32px;line-height:normal;margin-bottom:27px;background:url("https://assets.website-files.com/6062c1add12da6add0e4236d/608bfe7185ee64463566216b_Vector%20(2).svg") no-repeat 0 3px}
@@ -659,6 +659,9 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 .pr-feature-resources-col-right .pr-profile-adj div.first-name{color:#242424;font-weight:500}
 .pr-feature-resources-col-right .pr-profile-adj div:not(:last-child):after{content:'';height:3px;width:3px;display:block;background:#686873;border-radius:50%;z-index:1;-webkit-border-radius:50%;-moz-border-radius:50%;-ms-border-radius:50%;-o-border-radius:50%;position:absolute;top:7px;right:-9px;z-index:3}
 h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;font-weight:600;color:#242424;text-transform:uppercase}
+.pr-pricing-para.p-20{display: block !important;}
+.pr-pricing-para.p-20 br{display: none !important;}
+.pr-hide-subscribe-trigle + .subscribe-section .pr-sec-top-triangle-white-adj.home-page-tringle{display: none !important;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
