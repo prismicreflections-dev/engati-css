@@ -1343,6 +1343,7 @@ div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries
 .case-study-img-wrap-2.case-study-img-wrap.global-village-h-550 {min-height: 260px;}
 .case-study-img, .case-study-img-2{-o-object-fit: fill;object-fit: fill;}
 .button-9.bttn-primary.ml0{margin-left: 0 !important;}
+.columns-29.pricing-tab-main-column.w-row {box-shadow: none !important;}
 }
 @media screen and (max-width:1919px) and (min-width:1600px){
 .pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70{left:60px!important}
