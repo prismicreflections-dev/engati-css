@@ -666,7 +666,7 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;fo
 .pr-apply-now-btn {width: 250px;height: 90px;float: right;position: relative;padding-left: 20px;text-align: center;padding-right: 20px; margin-right: 30px;}
 .pr-apply-now-btn .revol-btn-bg { top: 0; transform: none !important; left: 0; -webkit-transform: none !important; -moz-transform: none !important; -ms-transform: none !important; -o-transform: none !important; }
 .pr-apply-now-btn a { position: static !important; left: auto !important; top: auto !important; transform: none !important; margin-top: 22px; margin-left: auto; margin-right: auto; display: block !important; -webkit-transform: none !important; -moz-transform: none !important; -ms-transform: none !important; -o-transform: none !important;}
-
+.section-breadcrum-2 .hero-container-2.pl.hero-container.w-container{padding-left: 15px; padding-right: 15px;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
