@@ -429,6 +429,7 @@ body{overflow-x:hidden}
 .pr-news-hero-section{background-size:cover!important;background-repeat:no-repeat!important}
 .four-g-box-shadow-adj{box-shadow:3px 3px 30px -5px rgb(0 0 0 / 10%)}
 .navbar.pr-navbar.w-nav .nav-container.w-container .nav-menu.w-nav-menu>.nav-link{margin-right:16px;margin-left:16px;width:auto;display:inline}
+.navbar.pr-navbar.w-nav .nav-container.w-container .nav-menu.w-nav-menu>.w-nav-link.w--current{color:#c93050 !important;}
 .navbar.pr-navbar.w-nav .nav-container.w-container .nav-menu.w-nav-menu>.nav-link>.nav-link{margin-right:0;margin-left:0}
 .navbar.pr-navbar.w-nav .nav-container.w-container .nav-menu.w-nav-menu>.nav-link .nav-link-icon{display:none}
 .navbar.pr-navbar.w-nav .nav-link.login{margin-left:60px!important;padding-left:20px}
