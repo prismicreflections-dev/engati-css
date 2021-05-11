@@ -681,6 +681,7 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;fo
 .pr-tab-content-img-home{max-height:560px;float:right}
 .footer-links.footer-links-subheading{margin-top:4px}
 .industries-blk-wrap-2 .industries-blk-2{padding-left:0;padding-right:0}
+.pr-feature-resources.w-row>.pr-feature-resources-col-left .w-video{height: 530px;}
 }
 @media (min-width:1200px) and (max-width:1399px){
 .pr-vertical-tab-wrap.w-tab-menu .w-tab-link{width:290px}
