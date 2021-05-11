@@ -663,6 +663,10 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;fo
 .pr-pricing-para.p-20{display: block !important;}
 .pr-pricing-para.p-20 br{display: none !important;}
 .pr-hide-subscribe-trigle + .subscribe-section .pr-sec-top-triangle-white-adj.home-page-tringle{display: none !important;}
+.pr-apply-now-btn {width: 250px;height: 90px;float: right;position: relative; text-align: center;}
+.pr-apply-now-btn .revol-btn-bg { top: 0; transform: none; left: 0; -webkit-transform: none; -moz-transform: none; -ms-transform: none; -o-transform: none; }
+.pr-apply-now-btn a{position: static;left: auto;top: auto;transform: none;margin-top: 22px;margin-left: auto;margin-right: auto;display: inline-block;}
+
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
