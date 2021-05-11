@@ -872,6 +872,8 @@ h4.home-tab-heding.home-tab-heding-right{right:50px!important}
 .lang-37-box img{width:200px}
 .w-layout-grid.social-icon-wrapper img{width:60px}
 .home-testimonial-card-3{box-shadow:3px 3px 30px -5px rgba(0,0,0,.1)!important}
+.pr-apply-now-btn {margin-right: -20px;}
+
 }
 @media (min-width:768px) and (max-width:991px){
 .w-layout-grid.language-grid .language-img{width:60px}
@@ -1349,6 +1351,7 @@ div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries
 .case-study-img, .case-study-img-2{-o-object-fit: fill;object-fit: fill;}
 .button-9.bttn-primary.ml0{margin-left: 0 !important;}
 .columns-29.pricing-tab-main-column.w-row {box-shadow: none !important;}
+.home-testimonial-card-3.pr-busi-slider-card .testimonial-blk-company img {max-width: 130px;}
 }
 @media screen and (max-width:1919px) and (min-width:1600px){
 .pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70{left:60px!important}
