@@ -35,7 +35,7 @@ img{filter:none;-webkit-filter:none;-moz-filter:blur(0);-ms-filter:blur(0);-webk
 .p-16{font-size:16px;line-height:26px}
 .p-15{font-size:15px;line-height:26px}
 .p-14{font-size:14px;line-height:24px}
-.pr-hide-right-arrow .pr-tabs-card::after {opacity:0 !important;}
+.pr-right-hide-arrow .pr-tabs-card::after {opacity:0 !important;}
 .home-testimonial-card,
 .home-testimonial-card-2{height: 100%;}
 .home-hero-img-blk{position:relative;width:750px;height:auto;top:-216px;left:-84px}
