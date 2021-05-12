@@ -666,7 +666,7 @@ a.w--current .post-link{display:block!important;cursor:pointer}
 h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;font-weight:600;color:#242424;text-transform:uppercase}
 .pr-pricing-para.p-20{display: block !important;}
 .pr-pricing-para.p-20 br{display: none !important;}
-.pr-hide-subscribe-trigle + .subscribe-section .pr-sec-top-triangle-white-adj.home-page-tringle{display: none !important;}
+.pr-hide-subscribe-trigle + .subscribe-section .home-page-tringle{display: none !important;}
 .pr-apply-now-btn {width: 250px;height: 90px;float: right;position: relative;padding-left: 20px;text-align: center;padding-right: 20px; margin-right: 30px;}
 .pr-apply-now-btn .revol-btn-bg { top: 0; transform: none !important; left: 0; -webkit-transform: none !important; -moz-transform: none !important; -ms-transform: none !important; -o-transform: none !important; }
 .pr-apply-now-btn a { position: static !important; left: auto !important; top: auto !important; transform: none !important; margin-top: 22px; margin-left: auto; margin-right: auto; display: block !important; -webkit-transform: none !important; -moz-transform: none !important; -ms-transform: none !important; -o-transform: none !important;}
