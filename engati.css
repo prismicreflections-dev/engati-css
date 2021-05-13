@@ -681,6 +681,7 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;fo
 .marquee-outer-wrap.pricing-marquee-outer-wrap {padding-top: 40px;}
 .marquee-outer-wrap.pricing-marquee-outer-wrap .pr-section-heading.mb30 {margin-bottom: 0 !important;}
 .marquee-outer-wrap.pricing-marquee-outer-wrap .marquee-infinite{padding-top: 25px !important;}
+.search-box-adj-right .blog-search input[type="submit"],
 .search-button-3{width: 48px;height: 48px;display: block;text-indent: -99px;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
