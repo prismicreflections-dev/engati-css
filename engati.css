@@ -990,7 +990,7 @@ img.circle-2{top:34%}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pricing-button{padding:6px;font-size:16px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-social-ul{margin-left:0;margin-top:-15px;margin-bottom:20px}
 .pr-pricing-tab .tab-content-view .pricing-tab-column{padding:18px 15px 16px}
-.pr-pricing-tab .tab-content-view .pricing-tab-column .p-26.pr-plan-heading{font-size:22px}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .p-26.pr-plan-heading{font-size:22px; white-space: nowrap;}
 .pr-pricing-tab .tab-content-view .pricing-tab-column ul.pr-pricing-ul.w-list-unstyled li{padding-left:25px;margin-bottom:20px}
 .pr-pricing-tab .pricing-accordian-text-header{font-size:22px;line-height:normal}
 .pr-pricing-tab .pricing-accordian-paragraph{margin-bottom:0;font-size:16px;line-height:24px}
