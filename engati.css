@@ -827,11 +827,11 @@ h4.home-tab-heding.home-tab-heding-right{right:70px!important;top:60px}
 .pr-section-common.white-triangle-before.pr-tab-section-resp{margin-top:0!important}
 div.section-blog-hero div.blog-hero div.blog-banner-wrap div.blog-hero-card{margin-left:20px!important}
 .case-study-img-wrap.case-study-img-wrap-tab{min-height:380px}
-.case-study-img-wrap.case-study-img-wrap-tab+.case-study-inf-blk.case-study-inf-blk-tab{position:absolute;bottom:-170px;width:100vh;left:0;right:0}
+.case-study-img-wrap.case-study-img-wrap-tab+.case-study-inf-blk.case-study-inf-blk-tab{position:absolute;bottom:-200px;width:90vh;left:20px;right:0}
 .case-study-row.reverse-order-adj-new,
 .case-study-row.reverse-order-adj.w-row{margin-top:260px;padding-bottom:20px}
 .case-study-row.reverse-order-adj-new .case-study-inf-blk,
-.case-study-row.reverse-order-adj.w-row .case-study-inf-blk{position:absolute;bottom:-200px;width:100vh;right:0}
+.case-study-row.reverse-order-adj.w-row .case-study-inf-blk{position:absolute;bottom:-200px;width:90vh;right:-20px}
 .case-study-wrap.md-mb-40{margin-bottom:40px!important}
 .pr-tabs-wrapper.pr-tabs-wrapper-mobile{max-width:100%;margin-top:-50px}
 .pr-tabs-wrapper.pr-tabs-wrapper-mobile .tab-img-wrappper{width:500px;max-height:inherit}
