@@ -678,6 +678,7 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;fo
 .marquee-outer-wrap.pricing-marquee-outer-wrap .marquee-infinite{padding-top:25px!important}
 .search-box-adj-right .blog-search input[type=submit],.search-button-3{width:48px;height:48px;display:block;text-indent:-99px}
 .engati-cx-blog-form input[type=submit]{text-indent:-999px;position:absolute;left:auto;top:0;right:0;bottom:0;display:block !important;width:48px;height:48px;padding-left:17px;border-radius:40px;background-color:#f7f8fa;background-image:url("https://global-uploads.webflow.com/5ef788f07804fb9e0aa41273/609d0f9b47d2776edddf160d_search-btn%20(1).svg");background-position:0 0;background-size:auto;font-size:20px;font-weight:400; border: 0 !important; z-index: 99; cursor: pointer;}
+.case-study-row .case-study-p.p-20{color: #403f42 !important;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
