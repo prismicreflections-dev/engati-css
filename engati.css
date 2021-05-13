@@ -435,6 +435,7 @@ body{overflow-x:hidden}
 .navbar.pr-navbar.w-nav .nav-container.w-container .nav-menu.w-nav-menu>.w-nav-link.w--current{color:#c93050!important}
 .navbar.pr-navbar.w-nav .nav-container.w-container .nav-menu.w-nav-menu>.nav-link>.nav-link{margin-right:0;margin-left:0}
 .navbar.pr-navbar.w-nav .nav-container.w-container .nav-menu.w-nav-menu>.nav-link .nav-link-icon{display:none}
+.nav-dropdown-item.w-dropdown-link.w--current{color:#c93050!important}
 .navbar.pr-navbar.w-nav .nav-link.login{margin-left:60px!important;padding-left:20px}
 .navbar.pr-navbar.w-nav .nav-container.w-container .nav-menu.w-nav-menu>.nav-link.w-dropdown>.nav-link.w-dropdown-toggle>div::after{content:"\e603";font-family:webflow-icons!important;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;position:relative;top:3px;margin-left:6px}
 .bg-cover{background-size:cover!important}
