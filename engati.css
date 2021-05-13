@@ -678,6 +678,10 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;fo
 .whatapp-wrapper-usecase .common-whatapp-usecase.with-whatapp .whatapp-radio .radio-icon{}
 .whatapp-wrapper-usecase .common-whatapp-usecase.without-whatapp .whatapp-radio .radio-icon{}
 
+.marquee-outer-wrap.pricing-marquee-outer-wrap {padding-top: 40px;}
+.marquee-outer-wrap.pricing-marquee-outer-wrap .pr-section-heading.mb30 {margin-bottom: 0 !important;}
+.marquee-outer-wrap.pricing-marquee-outer-wrap .marquee-infinite{padding-top: 25px !important;}
+
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
