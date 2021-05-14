@@ -1393,6 +1393,10 @@ div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries
 .box-wrap.border-orange,.box-wrap.border-yellow{width:400px;min-width:auto}
 }
 
-@media screen and (min-width: 1025px) and (max-width: 1280px) {
-   .pr-section-hero-common .flexbox-cx.mb100.pr-container-wrap-adj img.image-89 {max-height: 55vh;}
+@media  only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (   min--moz-device-pixel-ratio: 1.5),
+only screen and (     -o-min-device-pixel-ratio: 3/2),
+only screen and (        min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 192dpi) {
+   .pr-section-hero-common .flexbox-cx img.image-89 {max-height: 60vh;}
  }
