@@ -792,6 +792,8 @@ h4.home-tab-heding.home-tab-heding-right{top:30px!important}
 .about-footer-link-adj a.footer-links.hiring.we-are-hiring-link{top:0}
 h4.home-tab-heding.home-tab-heding-right{right:70px!important;top:60px}
 .case-study-img-wrap-2.case-study-img-wrap.global-village-h-550{min-height:520px}
+.define-us-img > img {width: 630px;height: 600px;display: block;}
+
 }
 @media (min-width:991px){
 .hide-desktop{display:none!important}
@@ -977,11 +979,11 @@ h4.home-tab-heding.home-tab-heding-right{right:50px!important}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card11,.pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card15{margin-left:400px}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card12,.pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card14{margin-left:200px}
 .pr-section-common.grey-triangle-after.customer-banner-section-hero .customer-card.customer-card5.customer-card13{margin-left:-30px}
-.w-layout-grid.define-us-grid{margin-left:-120px;transform:scale(.75,.75);-webkit-transform:scale(.75,.75);-moz-transform:scale(.75,.75);-ms-transform:scale(.75,.75);-o-transform:scale(.75,.75);margin-top:-100px}
+.w-layout-grid.define-us-grid{ margin-left:-60px !important; transform:scale(.75,.75) !important ; -webkit-transform:scale(.75,.75) !important ; -moz-transform:scale(.75,.75) !important ; -ms-transform:scale(.75,.75) !important ; -o-transform:scale(.75,.75) !important ; margin-top:-100px !important; }
 .define-us-grid-wrap{height:770px;overflow:hidden;padding-top:20px;width:1000px;margin:auto;transform-origin:-110px 0;transform:scale(.8,.8)}
 .pr-section-common.mt150123.grey-triangle-before{margin-top:0!important}
 .ride-section-xs .join-ride-bg{width:100%}
-.pr-section-common.mt150123.what-define-us-section{height:920px}
+.pr-section-common.mt150123.what-define-us-section{height:770px !important}
 .location-form-wrap.w-form .w-checkbox{margin-top:10px;margin-left:20px}
 .define-us-wrap .define-us-div .define-us-info .text-white.p-15{font-size:20px;line-height:normal}
 .define-us-wrap .define-us-div .define-us-info h6.text-white{font-size:25px;line-height:normal}
