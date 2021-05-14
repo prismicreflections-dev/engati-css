@@ -689,6 +689,7 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;fo
 .engati-cx-blog-form input[type=submit]{text-indent:-999px;position:absolute;left:auto;top:0;right:0;bottom:0;display:block !important;width:48px;height:48px;padding-left:17px;border-radius:40px;background-color:#f7f8fa;background-image:url("https://global-uploads.webflow.com/5ef788f07804fb9e0aa41273/609d0f9b47d2776edddf160d_search-btn%20(1).svg");background-position:0 0;background-size:auto;font-size:20px;font-weight:400; border: 0 !important; z-index: 99; cursor: pointer;}
 .case-study-row .case-study-p.p-20{color: #403f42 !important;}
 .pr-busi-slider-card[data-link]{cursor: pointer !important;}
+.marquee-outer-wrap{width: 100vw; overflow: hidden;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
@@ -1391,3 +1392,7 @@ div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries
 .pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70{left:60px!important}
 .box-wrap.border-orange,.box-wrap.border-yellow{width:400px;min-width:auto}
 }
+
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+   .pr-section-hero-common .flexbox-cx.mb100.pr-container-wrap-adj img.image-89 {max-height: 60vh;}
+ }
