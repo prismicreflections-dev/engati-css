@@ -690,6 +690,7 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;fo
 .case-study-row .case-study-p.p-20{color: #403f42 !important;}
 .pr-busi-slider-card[data-link]{cursor: pointer !important;}
 .marquee-outer-wrap{width: 100vw; overflow: hidden;}
+.case-study-inf-wrap .case-study-inf .p-16{font-weight: 600 !important;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
