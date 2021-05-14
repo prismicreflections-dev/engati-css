@@ -582,6 +582,7 @@ body{overflow-x:hidden}
 .define-us-wrap.define-us-wrap1.define-us-wrap14{margin-top:196px;right:-16px}
 .define-us-wrap.define-us-wrap1.define-us-wrap13{top:57px;right:-95px}
 .define-us-img{position:absolute;left:34px;top:-5px;right:auto;bottom:auto;margin-top:-150px}
+.define-us-img > img{width: 642px;height: 642px; display: block;}
 .define-us-wrap .define-us-div .define-us-info h6{margin-top:22px;margin-bottom:6px}
 img.circle-1{left:50%;transform:translateX(-50%);top:22%;-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);-o-transform:translateX(-50%)}
 img.circle-2{left:50%;transform:translateX(-50%);top:42%;-webkit-transform:translateX(-50%);-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);-o-transform:translateX(-50%)}
@@ -1377,6 +1378,7 @@ div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries
 .blog-card-6 .thumbnail-3.cx .pr-card-img-w100-3{object-fit:cover}
 .engati-cx-blog-form{border: 0 !important;}
 .engati-cx-blog-form .blog-search{width: 100% !important;}
+.define-us-wrap .define-us-div .define-us-info{padding-top: 40px !important;}
 }
 @media screen and (max-width:1919px) and (min-width:1600px){
 .pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70{left:60px!important}
