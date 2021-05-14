@@ -46,6 +46,11 @@ img{filter:none;-webkit-filter:none;-moz-filter:blur(0);-ms-filter:blur(0);-webk
 .pr-tab-pane{z-index:0}
 .pr-sec-top-triangle.triangle-white{border-color:transparent transparent #fff;z-index:2}
 .rev-box-sec .pr-sec-top-triangle.triangle-white{position:relative;top:130px}
+.case-study-inf h4 a{color: #403f42;}
+.case-study-inf .p-16 a{color: #77777a;}
+
+.case-study-inf h4 a:hover,
+.case-study-inf .p-16 a:hover{color: #ae1536;}
 .industries-blk-icon-img{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);-webkit-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);-o-transform:translate(-50%,-50%)}
 .blog-card .pr-blog-card-body .pr-blog-card-meta .pr-blog-card-auth-img{position:relative;height:36px;width:36px;border-radius:50%;-webkit-border-radius:50%;-moz-border-radius:50%;-ms-border-radius:50%;-o-border-radius:50%;overflow:hidden}
 .blog-card .pr-blog-card-body .pr-blog-card-meta .pr-blog-card-auth-img img{position:absolute;width:100%;height:100%;object-fit:cover;z-index:1;padding-top:0}
