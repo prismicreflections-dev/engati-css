@@ -883,6 +883,7 @@ h4.home-tab-heding.home-tab-heding-right{right:50px!important}
 .pr-feature-resources.w-row>.pr-feature-resources-col-left .w-video{height:400px}
 }
 @media (min-width:768px) and (max-width:1199px){
+.hide-tab-br br{display:none}
 .md-mt30{margin-top:30px!important}
 .pr-container-wrap-adj{padding-left:20px;padding-right:20px}
 .flexbox-cx-bottom.pb0.pr-engati-offering-sec{margin-top:180px;padding-top:30px}
