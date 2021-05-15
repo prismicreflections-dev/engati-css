@@ -691,7 +691,7 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;fo
 .billed-yearly-text-outer{position:relative;height:0;width:100%;display:block}
 .pr-container-1420.home-award-sec-outer{margin-top:-150px;z-index:99;position:relative;margin-bottom:60px}
 .home-award-sec{margin-bottom:10px;padding:20px;border:1px solid rgba(161,168,62,0);box-shadow:0 16px 35px 0 #d2d2d2;background:#fff;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;-ms-border-radius:10px;-o-border-radius:10px}
-.home-award-sec h3.pr-section-heading.home-award-sec-heading.text-left{margin:0!important;padding:16px 0!important}
+.home-award-sec h5.home-award-sec-heading.text-left{margin:0!important;padding:5px 0!important}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
@@ -1397,7 +1397,7 @@ div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries
 .home-award-sec,
 .home-award-sec .text-right.w-col.w-col-3,
 h3.pr-section-heading.home-award-sec-heading.text-left {text-align: center !important;}
-.home-award-sec h3.pr-section-heading.home-award-sec-heading.text-left {margin: 0 !important;padding: 10px 0 0 !important;font-size: 18px;line-height: normal;}
+.home-award-sec h5.home-award-sec-heading.text-left {margin: 0 !important;padding: 10px 0 0 !important;font-size: 18px;line-height: normal;}
 .home-award-sec-img {float: none;width: 170px;margin-bottom: 5px;}
 .pr-container-1420.home-award-sec-outer {margin-top: -70px;z-index: 99;position: relative;margin-bottom: 50px;}
 }
