@@ -692,7 +692,7 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;fo
 .marquee-outer-wrap{width: 100vw; overflow: hidden;}
 .case-study-inf-wrap .case-study-inf .p-16{font-weight: 600 !important;}
 .billed-yearly-text{text-align: left;position: absolute;bottom: -28px;z-index: 3;left: 0;font-size: 13px; line-height: normal; color: #ae1536 !important;}
-.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm p.p15.pricing-p15 a {color: #ae1536;}
+.pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm p.p15.pricing-p15 a {color: #ae1536; text-decoration: underline;}
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
