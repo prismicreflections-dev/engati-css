@@ -692,6 +692,16 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;fo
 .marquee-outer-wrap{width: 100vw; overflow: hidden;}
 .case-study-inf-wrap .case-study-inf .p-16{font-weight: 600 !important;}
 .billed-yearly-text-outer{position: relative; height: 0; width: 100%; display: block;}
+
+.home-award-sec {
+  margin-bottom: 10px;
+  padding: 20px;
+  border: 1px solid rgba(161,168,62,0);
+  box-shadow: 0 16px 35px 0 #d2d2d2;
+  background: #fff;
+}
+.home-award-sec h3.pr-section-heading.home-award-sec-heading.text-left{margin: 0;}
+
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
