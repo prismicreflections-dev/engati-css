@@ -1397,7 +1397,7 @@ div.industries-blk-wrap-2 div.w-row div.w-col.w-col-4.w-col-stack div.industries
 .home-award-sec,
 .home-award-sec .text-right.w-col.w-col-3,
 h3.pr-section-heading.home-award-sec-heading.text-left {text-align: center !important;}
-.home-award-sec h5.home-award-sec-heading.text-left {margin: 0 !important;padding: 10px 0 0 !important;font-size: 18px;line-height: normal;}
+.home-award-sec h5.home-award-sec-heading.text-left {margin: 0 !important;padding: 10px 0 0 !important;font-size: 18px;line-height: normal; text-align: center !important;}
 .home-award-sec-img {float: none;width: 170px;margin-bottom: 5px;}
 .pr-container-1420.home-award-sec-outer {margin-top: -70px;z-index: 99;position: relative;margin-bottom: 50px;}
 }
