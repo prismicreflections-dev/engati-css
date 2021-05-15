@@ -699,6 +699,8 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;fo
 .subscribe-section .pr-container-4{max-width:100%}
 .subscribe-section .subscribe-box-2{max-width:1420px}
 .case-study-img-wrap-2.case-study-img-wrap{min-height:500px}
+.pr-container-1420.home-award-sec-outer {padding: 0 50px;}
+
 }
 @media (min-width:1200px){
 .pr-section-title-3{max-width:900px!important}
