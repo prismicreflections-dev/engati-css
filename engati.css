@@ -1415,7 +1415,7 @@ h3.pr-section-heading.home-award-sec-heading.text-left {text-align: center !impo
 .popup-form.new-contact-form.pr-popup-form.form-height-90{overflow: auto;max-height: 65vh !important;}
 }
 @media screen and (min-width:1920px){
-.popup-form.new-contact-form.pr-popup-form.form-height-90{overflow: auto;max-height: 65vh !important;}
+.popup-form.new-contact-form.pr-popup-form.form-height-90{overflow: auto;max-height: 71vh !important;}
 }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min--moz-device-pixel-ratio:1.5),only screen and (-o-min-device-pixel-ratio:3/2),only screen and (min-device-pixel-ratio:1.5),only screen and (min-resolution:192dpi){
 .pr-section-hero-common .flexbox-cx img.image-89{max-height:65vh; z-index: 39;}
