@@ -28,6 +28,14 @@ img{filter:none;-webkit-filter:none;-moz-filter:blur(0);-ms-filter:blur(0);-webk
 .h4,h4{font-size:36px;line-height:48px}
 .h5,h5{font-size:32px;line-height:40px}
 .h6,h6{font-size:26px;line-height:34px}
+
+.pr-h1{font-size:60px;line-height:72px}
+.pr-h2{font-size:52px;line-height:68px}
+.pr-h3{font-size:42px;line-height:54px}
+.pr-h4{font-size:36px;line-height:48px}
+.pr-h5{font-size:32px;line-height:40px}
+.pr-h6{font-size:26px;line-height:34px}
+
 .p-26{font-size:26px;line-height:36px}
 .p-22{font-size:22px;line-height:30px}
 .p-20{font-size:20px;line-height:26px}
@@ -145,6 +153,14 @@ h4.home-tab-heding.home-tab-heding-right{right:60px!important}
 .h4,h4{font-size:32px;line-height:42px}
 .h5,h5{font-size:28px;line-height:36px}
 .h6,h6{font-size:24px;line-height:30px}
+
+.pr-h1{font-size:56px;line-height:68px}
+.pr-h2{font-size:46px;line-height:60px}
+.pr-h3{font-size:36px;line-height:48px}
+.pr-h4{font-size:32px;line-height:42px}
+.pr-h5{font-size:28px;line-height:36px}
+.pr-h6{font-size:24px;line-height:30px}
+
 .p-26{font-size:24px;line-height:32px}
 .p-22{font-size:20px;line-height:28px}
 .p-20{font-size:18px;line-height:26px}
@@ -165,6 +181,14 @@ h4.home-tab-heding.home-tab-heding-right{right:60px!important}
 .h4,h4{font-size:30px;line-height:36px}
 .h5,h5{font-size:26px;line-height:34px}
 .h6,h6{font-size:22px;line-height:30px}
+
+.pr-h1{font-size:52px;line-height:64px}
+.pr-h2{font-size:42px;line-height:56px}
+.pr-h3{font-size:34px;line-height:42px}
+.pr-h4{font-size:30px;line-height:36px}
+.pr-h5{font-size:26px;line-height:34px}
+.pr-h6{font-size:22px;line-height:30px}
+
 .p-26{font-size:22px;line-height:30px}
 .p-22{font-size:18px;line-height:26px}
 .p-20{font-size:16px;line-height:24px}
@@ -209,6 +233,14 @@ h4.home-tab-heding.home-tab-heding-right{right:60px!important}
 .h4,h4{font-size:28px;line-height:34px}
 .h5,h5{font-size:24px;line-height:32px}
 .h6,h6{font-size:21px;line-height:30px}
+
+.pr-h1{font-size:42px;line-height:56px}
+.pr-h2{font-size:38px;line-height:52px}
+.pr-h3{font-size:32px;line-height:38px}
+.pr-h4{font-size:28px;line-height:34px}
+.pr-h5{font-size:24px;line-height:32px}
+.pr-h6{font-size:21px;line-height:30px}
+
 .p-26{font-size:21px;line-height:30px}
 .p-22{font-size:17px;line-height:26px}
 .p-20{font-size:15px;line-height:24px}
@@ -270,6 +302,14 @@ h4.home-tab-heding.home-tab-heding-right{right:60px!important}
 .h4,h4{font-size:26px;line-height:32px}
 .h5,h5{font-size:22px;line-height:30px}
 .h6,h6{font-size:20px;line-height:30px}
+
+.pr-h1{font-size:38px;line-height:52px}
+.pr-h2{font-size:35px;line-height:48px}
+.pr-h3{font-size:30px;line-height:36px}
+.pr-h4{font-size:26px;line-height:32px}
+.pr-h5{font-size:22px;line-height:30px}
+.pr-h6{font-size:20px;line-height:30px}
+
 .blog-collection-wrapper .collection-item.w-col.w-col-4{width:50%!important}
 .bl-container .related-blog-wrap .blog-collection-wrapper .w-dyn-item.w-col.w-col-4,.blogs-card-wrapper .w-dyn-item.w-col.w-col-4{width:50%!important}
 .bl-container .related-blog-wrap .blog-collection-wrapper .w-dyn-item:nth-child(3),.blogs-card-wrapper .w-dyn-item:nth-child(3){display:none!important}
@@ -312,6 +352,14 @@ h4.home-tab-heding.home-tab-heding-right{right:60px!important}
 .h4,h4{font-size:24px;line-height:32px}
 .h5,h5{font-size:21px;line-height:30px}
 .h6,h6{font-size:20px;line-height:30px}
+
+.pr-h1{font-size:35px;line-height:48px}
+.pr-h2{font-size:32px;line-height:44px}
+.pr-h3{font-size:28px;line-height:34px}
+.pr-h4{font-size:24px;line-height:32px}
+.pr-h5{font-size:21px;line-height:30px}
+.pr-h6{font-size:20px;line-height:30px}
+
 .rev-box-sec .pr-sec-top-triangle.triangle-white{top:128px}
 .subscribe-box-title-2{font-size:20px;line-height:30px}
 .button.revol{position:static;margin:40px auto auto;transform:none;display:block;max-width:200px;text-align:center}
@@ -326,6 +374,14 @@ h4.home-tab-heding.home-tab-heding-right{right:60px!important}
 .h4,h4{font-size:21px;line-height:30px}
 .h5,h5{font-size:20px;line-height:24px}
 .h6,h6{font-size:18px;line-height:28px}
+
+.pr-h1{font-size:32px;line-height:44px}
+.pr-h2{font-size:30px;line-height:36px}
+.pr-h3{font-size:26px;line-height:32px}
+.pr-h4{font-size:21px;line-height:30px}
+.pr-h5{font-size:20px;line-height:24px}
+.pr-h6{font-size:18px;line-height:28px}
+
 .floating-share{display:block;height:0;padding:0;z-index:4}
 .floating-share .w-embed{box-shadow:rgba(0,0,0,.1) 0 15px 20px 1px}
 .st-btn{margin:6px 0!important;width:30px!important;height:30px!important}
