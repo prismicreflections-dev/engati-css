@@ -806,6 +806,7 @@ h4.home-tab-heding.home-tab-heding-right{top:30px!important}
 h4.home-tab-heding.home-tab-heding-right{right:70px!important;top:60px}
 .case-study-img-wrap-2.case-study-img-wrap.global-village-h-550{min-height:520px}
 .define-us-img>img{width:630px;height:600px;display:block}
+.popup-form.new-contact-form.pr-popup-form.form-height-90{overflow: auto;max-height: 60vh !important;}
 }
 @media (min-width:991px){
 .hide-desktop{display:none!important}
@@ -908,6 +909,7 @@ h4.home-tab-heding.home-tab-heding-right{right:50px!important}
 .w-layout-grid.social-icon-wrapper img{width:60px}
 .home-testimonial-card-3{box-shadow:3px 3px 30px -5px rgba(0,0,0,.1)!important}
 .pr-apply-now-btn{margin-right:-20px}
+.popup-form.new-contact-form.pr-popup-form.form-height-90{overflow: auto;max-height: 60vh !important;}
 }
 @media (min-width:768px) and (max-width:991px){
 .w-layout-grid.language-grid .language-img{width:60px}
@@ -1034,8 +1036,7 @@ h4.home-tab-heding.home-tab-heding-left{position:static;top:0;max-width:100%;rig
 .pr-feature-resources.w-row>.pr-feature-resources-col-left .w-video{height:400px}
 .subscribe-trigle-md-160+.subscribe-section .home-page-tringle{margin-top:-158px!important}
 }
-@media (min-width:768px){
-    .popup-form.new-contact-form.pr-popup-form.form-height-90{overflow: auto;max-height: 60vh !important;}
+@media (min-width:768px){    
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
 .pr-news-hero-section .pr-news-hero-box-inner{bottom:-80px}
 .mt140-adj{margin-top:140px!important}
@@ -1411,6 +1412,10 @@ h3.pr-section-heading.home-award-sec-heading.text-left {text-align: center !impo
 @media screen and (max-width:1919px) and (min-width:1600px){
 .pr-tab-pane-inner-2.pr-tab-pane-inner.lg-left0 .tab-img-wrappper.lg-left-70{left:60px!important}
 .box-wrap.border-orange,.box-wrap.border-yellow{width:400px;min-width:auto}
+.popup-form.new-contact-form.pr-popup-form.form-height-90{overflow: auto;max-height: 65vh !important;}
+}
+@media screen and (min-width:1920px){
+.popup-form.new-contact-form.pr-popup-form.form-height-90{overflow: auto;max-height: 65vh !important;}
 }
 @media only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min--moz-device-pixel-ratio:1.5),only screen and (-o-min-device-pixel-ratio:3/2),only screen and (min-device-pixel-ratio:1.5),only screen and (min-resolution:192dpi){
 .pr-section-hero-common .flexbox-cx img.image-89{max-height:65vh; z-index: 39;}
