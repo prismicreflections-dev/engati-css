@@ -694,6 +694,7 @@ h6.pr-about-heading-sec.footer-tttl.text-dark{font-size:18px;line-height:26px;fo
 .home-award-sec h5.home-award-sec-heading.text-left{margin:0!important;padding:5px 0!important}
 .pr-section-hero-common .flexbox-cx img.image-89,
 .home-hero-img-blk img{z-index: 39;}
+
 @media (min-width:1400px){
 .subscribe-section .pr-container-4{max-width:100%}
 .pl-container-weprovide.w-container+.pr-sec-top-triangle.pr-sec-top-triangle-white.triangle-white{margin-top:-100px}
@@ -1034,6 +1035,7 @@ h4.home-tab-heding.home-tab-heding-left{position:static;top:0;max-width:100%;rig
 .subscribe-trigle-md-160+.subscribe-section .home-page-tringle{margin-top:-158px!important}
 }
 @media (min-width:768px){
+    .popup-form.new-contact-form.pr-popup-form.form-height-90{overflow: auto;max-height: 60vh !important;}
 a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;font-weight:600;text-transform:uppercase;white-space:nowrap}
 .pr-news-hero-section .pr-news-hero-box-inner{bottom:-80px}
 .mt140-adj{margin-top:140px!important}
@@ -1054,6 +1056,7 @@ a.bttn-link-outline.bttn-icon.go-to-platform-adj.w-inline-block{font-size:18px;f
 .pr-pricing-tab .tab-content-view .pricing-tab-column .pr-pricing-sm p.p15.pricing-p15 a{color:#ae1536;text-decoration:underline}
 }
 @media (max-width:767px){
+    .popup-form.new-contact-form.pr-popup-form.form-height-90{overflow: auto;max-height: 75vh !important;}
 .pr-sec-top-triangle-2{overflow:hidden;max-width:100vw;border-style:none solid solid;border-width:0 50vw 50px;border-color:transparent transparent #f7f8fa}
 .xs-max-w-100{max-width:100%!important}
 .xs-text-center{text-align:center!important}
